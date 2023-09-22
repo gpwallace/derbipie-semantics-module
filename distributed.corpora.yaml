@@ -1,4 +1,0 @@
-latin_tesserae:
-    origin: https://github.com/cltk/lat_text_tesserae.git
-    language: latin
-    type: text
