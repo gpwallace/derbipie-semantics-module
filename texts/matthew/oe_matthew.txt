@@ -1,0 +1,5028 @@
+Euangelium Secundum Mattheum: The Gospel of Saint Matthew in West-Saxon
+
+
+
+
+
+1910
+
+
+
+
+
+Exported from Wikisource on October 6, 2023
+
+
+
+
+
+The Belles-Lettres Series
+
+
+
+SECTION 1
+
+ENGLISH LITERATURE
+
+FROM ITS BEGINNING TO THE YEAR 1100
+
+
+
+GENERAL EDITOR
+
+EDWARD MILES BROWN, Ph.D.
+
+PROFESSOR OF THE ENGLISH LANGUAGE AND LITERATURE
+
+IN THE UNIVERSITY OF CINCINNATI
+
+
+
+
+
+Euangelium Secundum Mattheum
+
+THE GOSPEL OF SAINT MATTHEW
+
+IN WEST-SAXON
+
+EDITED FROM THE MANUSCRIPTS
+
+
+
+BY
+
+JAMES WILSON BRIGHT, Ph.D., Litt.D.
+
+CAROLINE DONOVAN PROFESSOR OF ENGLISH LITERATURE IN THE JOHNS HOPKINS UNIVERSITY
+
+
+
+God hine gōdode swā þæt hē hine āwende of tollere tō apostole, and him forgeaf ðā gife þæt hē āwrāt & forman Crīstes-bōc. Ælfric
+
+
+
+
+
+BOSTON, U.S.A. AND LONDON
+
+D. C. HEATH & CO., PUBUSHERS
+
+1910
+
+
+
+
+
+COPYRIGHT, 1904, BY D. C. HEATH & CO.
+
+Printed in the United States of America
+
+First impression, 1904 Second impression, corrected, 1910
+
+
+
+
+
+Contents (not listed in original)
+
+Prefatory Note
+
+The Text
+
+CAPUT I
+
+CAPUT II
+
+CAPUT III
+
+CAPUT IV
+
+CAPUT V
+
+CAPUT VI
+
+CAPUT VII
+
+CAPUT VIII
+
+CAPUT IX
+
+CAPUT X
+
+CAPUT XI
+
+CAPUT XII
+
+CAPUT XIII
+
+CAPUT XIV
+
+CAPUT XV
+
+CAPUT XVI
+
+CAPUT XVII
+
+CAPUT XVIII
+
+CAPUT XIX
+
+CAPUT XX
+
+CAPUT XXI
+
+CAPUT XXII
+
+CAPUT XXIII
+
+CAPUT XXIV
+
+CAPUT XXV
+
+CAPUT XXVI
+
+CAPUT XXVII
+
+CAPUT XXVIII
+
+
+
+
+
+This work is in the public domain in the United States because it was published before January 1, 1928.
+
+
+
+* * *
+
+
+
+The longest-living author of this work died in 1926, so this work is in the public domain in countries and areas where the copyright term is the author's life plus 96 years or less. This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+
+
+
+
+Prefatory Note
+
+
+
+This edition of the Gospel of St. Matthew in West-Saxon is issued simultaneously with an edition of the Gospel of St. John of the same Version. In the case of the fourth Gospel, however, the text is accompanied by Notes and a Glossary. That such a difference should separate these two volumes that are to be held together as parts of the same edition of the Version is due to the circumstances of publication. The general editor of the series to which these volumes belong first requested an edition of the Gospel of St. John, and his request was complied with in the preparation of the volume as it is now published. But this involved the surrender of a portion of the edition of the Version that the editor already had in preparation. The next step, therefore, was to enter upon a plan that might keep the entire text of the Version together, and yet not lead too far beyond the initial limits of expenditure set for the series. Accordingly this edition of the first Gospel has been restricted, for the present, to the text and the variant readings.
+
+Awaiting the publication of the second and third Gospels and additional apparatus, the student is referred to the volume containing the Gospel of St. John. The Introduction to that volume will give a view of questions relating to the Version; the Notes will furnish explanations that in part are applicable to the present text; and the Glossary will be found to record so large a portion of the words and constructions that occur also in the Gospel of St. Matthew that its importance as an aid in the use of the present volume will at once be perceived.
+
+J. W. B.
+
+
+
+Baltimore, October, 1904.
+
+
+
+
+
+The Gospel of Saint Matthew
+
+
+
+
+
+THE TEXT
+
+
+
+The text of edition of the Gospels in West-Saxon of which this volume is a part represents the copy of the Version that is preserved in MS. CXL of the Library of Corpus Christi College, Cambridge; the rubrics have been carried into the text from MS. A. The variant readings of all the other surviving copies of the Version (MSS. A and B; MS. C is imperfect and lacks the entire Gospel of St. Matthew) are subjoined to the text. These variant readings are complete except for the following unimportant details: excluded are the variations in the orthography of hī, hwī, and sī, (hi, hy, hig, hyg; hwi, hwy, hwig, hwyg; si, sy, sig, syg), and the mere interchange of i and y in the orthography of radical syllables (y being characteristically frequent in MS. A). The scribe's usual 'contractions' have been expanded, and his occasional 'accents' have been disregarded. Altogether modern, and therefore independent of the original, are the punctuation of the text and the use of capitals; and the quantity of the vowels has been indicated in conformity to historic grammar. The accepted divisions of chapter and verse have also been introduced. When in respect of any other detail the text does not agree with the copy (MS. Corp.), italics and brackets have been used: a word in italics either corrects the spelling or the grammar of the copy, or it marks the reception of a word that differs from that of the copy; omissions by the scribe of the copy have been supplied in italics and bracketed. A dagger prefixed to a word marks the place of a textual omission from the copy. In connection with these typographical devices, the variant readings give the complete report required to show in what manner at any point the text has been emended.
+
+
+
+
+
+INCIPIT EUANGELIUM SECUNDUM
+
+Mattheum
+
+
+
+
+
+* * *
+
+
+
+CAPUT I
+
+
+
+1. Æfter Matheus gerecednysse, hēr is on cnēorisse bōc Hǣlendes Crīstes, Dauides suna, Abrahames suna.[1]
+
+2. Sōðlīce Abraham gestrȳnde Isaac; Isaac gestrȳnde Iacob; Iacob gestrȳnde Iudam and his gebrōðra;[2]
+
+3. Iudas gestrȳnde Phares and Zaram of þām wīfe þe wæs genemned Thamar; Phares gestrȳnde Esrom; Esrom gestrȳnde Aram;[3]
+
+4. Aram gestrȳnde Aminadab; Aminadab gestrȳnde Naason; Naason gestrȳnde Salmon;
+
+5. Salmon gestrȳnde Booz of þām wīfe Raab; Booz gestrȳnde Obeth of þām wīfe Ruth; Obeth gestrȳnde Iesse;[4]
+
+
+
+6. Iesse gestrȳnde þone cyning Dauid; Dauid cyning gestrȳnde Salomon of þām wīfe þe wæs Urias wīf.[5]
+
+7. Salomon gestrȳnde Roboam; Roboas gestrȳnde Abiam; Abia gestrȳnde Asa;[6]
+
+8. Asa gestrȳnde Iosaphath; Iosaphath gestrȳnde Ioram; Ioras gestrȳnde Oziam;[7]
+
+9. Ozias gestrȳnde Ioatham; Ioatham gestrȳnde Achaz; Achaz gestrȳnde Ezechiam;[8]
+
+10. Ezechias gestrȳnde Mannasen; Mannases gestrȳnde Amon; Amon gestrȳnde Iosiam;[9]
+
+11. Iosias gestrȳnde Iechoniam and his gebrõþru, on Babilonis gelēorednysse.[10]
+
+12. And æfter Babilonys gelēorednysse, Iechonias gestrȳnde Salathiel; Salathiel gestrȳnde Zorobabel;[11]
+
+13. Zorobabel gestrȳnde Abiud; Abiud gestrȳnde Eliachim ; Eliachim gestrȳnde Azor;[12]
+
+14. Azor gestrȳnde Sadoc; Sadoc gestrȳnde Achim; Achim gestrȳnde Eliud;[12]
+
+15. Eliud gestrȳnde Eleazar; Eleazar gestrȳnde Mathan; Mathan gestrȳnde Iacob;[12]
+
+
+
+16. Iacob gestrȳnde Ioseph Marian wer, of þǣre wæs ācenned'sē Hǣlend þe is genemned Crīst.[12]
+
+17. Eornostlīce ealle cnēoressa fram Abrahame oð Dauid synd fēowertȳne cnēoressa; and fram Dauide oð Babilonis gelēorednysse fēowertȳne cnēoressa; and fram Babilonis gelēorednesse oð Crīst fēowertȳne cnēoressa.[13]
+
+Đys godspel gebyrað on mydewyntres mæsseǣfen.
+
+
+
+18. Sōðlīce þus wæs Crīstes cnēores: Đā þæs Hǣlendes mōdor Maria wæs Iosepe beweddod, ǣr hī tōsomne becōmun, hēo wæs gemēt on innoðe hæbbende of þām Hālegan Gāste.[14]
+
+19. Sōðlīce Iosep hyre wer, ðā hē wæs rihtwīs and nolde hī gewīdmǣrsian, hē wolde hī dīhlīce forlǣtan.[15]
+
+20. Him þā sōðlīce ðās þing ðencendum Drihtnes engel on swefnum ætȳwde, and him tō cwæð, Iosep, Dauides sunu, nelle þū ondrǣdan Marian þīne gemæccean tō onfōnne; þæt on hire ācenned ys, hyt ys of þām Hālgan Gāste.[16]
+
+
+
+21. Witodlīce hēo cenð sunu, and þū nemst hys naman Hǣlend; hē sōðlīce hys folc hāl gedēð fram hyra synnum.[17]
+
+22. Sōþlīce eal þys wæs geworden þæt gefylled wǣre þæt fram Drihtne gecweden wæs þurh þone wītegan,[18]
+
+23. Sōðlīce sēo fǣmne hæfð on innoðe, and hēo cenð sunu, and hī nemnað his naman Emanuhel, þæt ys gereht on ūre geþēode, God mid ūs.[19]
+
+24. Đā ārās Iosep of swefene, and dyde swā Drihtnes engel him bebēad, and hē onfēng his gemæccean;[20]
+
+25, and hē ne grētte hī. Hēo cende hyre frumcennedan sunu, and nemde hys naman Hǣlend.
+
+
+
+
+
+↑ B, Efter; A, gerecednesse; A, om. on.
+
+↑ A, gestrinde (three times; corrected into gestrynde).
+
+↑ A, gestrinde (first time)
+
+↑ A, gestrinde (three times)
+
+↑ A, gestrinde (first time); A, cining (second time).
+
+↑ A, gestrinde (first and third times; second time corrected into gestrynde).
+
+↑ A, gestrinde (three times); B, Iosaphat (second time).
+
+↑ A, gestrinde (second and third times; first time corrected into gestrynde); Ioatham (second time changed into Ioathas).
+
+↑ A, gestrinde (three times).
+
+↑ A, gestrinde; A, -nesse.
+
+↑ A, babilones; A, -nesse; A, gestrinde (twice).
+
+↑ 12.0 12.1 12.2 12.3 A, gestrinde (throughout).
+
+↑ A, eornestlice; A, cneorisna (four times); A, geleornesse (twice); A, feowertine (second time; corrected into feowertyne); A, babilones (second time); A, feowertine (third time).
+
+↑ A, cneorisn; A, moder; A, beweddad; A, becomon; A, heo wæs gemet hæbbende on innoðe (changed order); A, halgan.
+
+↑ A, ioseph hire; A, digelice.
+
+↑ A, Ioseph; A, gemæccan, B, gemeccean; A, onfone.
+
+↑ A, cenneð; A, nemnest his.
+
+↑ A, eall.
+
+↑ A, cenneð; A, emanuel.
+
+↑ A, ioseph; A, swefne; A, genæccan.
+
+
+
+
+
+CAPUT II
+
+
+
+Đys [godspel] sceal on twelftandæg.
+
+1. Eornustlīce þā sē Hǣlend ācenned wæs on Iudeiscre Bethleem, on þæs cyninges dagum Herodes, þā cōmon þā tungolwītegan fram ēastdǣle tō Hierusalem,[1]
+
+2. and cwǣdon, Hwǣr[2] ys sē Iudea Cyning þe ācenned ys? Sōðlīce wē gesāwon hys steorran on ēastdǣle, and wē cōmon ūs him tō geēadmēdenne.[3]
+
+3. Ðā Herodes þæt gehȳrde, ðā wearð hē gedrēfed and eal Hierosolimwaru mid him.[4]
+
+4. And þā gegaderode Herodes ealle ealdras þǣra sācerda and folces wrīteras, and āxode hwǣr Crīst ācenned wǣre.[5]
+
+5. Đā sǣdon hī him. On Iudeiscere Bethlem; witodlīce þus ys āwriten þurh þone wītegan,[6]
+
+6. And þū Bethleem, Iudea land, witodlīce ne eart þū lǣst on Iuda ealdrum; of ðē forð gǣð sē heretoga sē þe recð mīn folc Israhel.[7]
+
+7. Herodes þā clypode on sundersprǣce ðā tungelwītegan, and befrān hī georne hwænne sē steorra him ætēowde.[8]
+
+8. And hē āsende hī tō Bethlem, and ðus cwæð, Farað and āxiað geornlīce be þām cilde; and þonne gē hyt gemētað, cȳþað eft mē, þæt ic cume and mē tō him gebidde.[9]
+
+9. Đā hī þæt gebod gehȳrdon, þā fērdon hī; and sōþlīce sē steorra þe hī on ēastdǣle gesāwon him beforan fērde, oð hē stōd ofer þǣr þæt cild wæs.[10]
+
+
+
+10. Sōþlīce þā ðā tungelwītegan þone steorran gesāwon, fægenodon swȳðe myclum gefēan.[11]
+
+11. And gangende intō þām hūse hī gemētton þæt cild mid Marian hys mēder; and hī āðenedon hī, and hī tō him gebǣdon; and hī untȳndon hyra goldhordas, and him lāc brōhton, þæt wæs gold and rēcels and myrre.[12]
+
+12. And hī āfēngon andsware on swefnum þæt hī eft tō Herode ne hwyrfdon; ac hī on ōðerne weg on hyra rīce fērdon.[13]
+
+Đys godspel sceal on cylda mæssedæg.
+
+13. Þā hī þā fērdon, þā ætȳwde Drihtnes engel Iosepe on swefnum, and þus cwæð, Ārīs and nim þæt cild and his mōdor, and flēoh on Egypta land, and bēo þǣr oð þæt ic ðē secge; tōweard ys þæt Herodes sēcð þæt cild tō forspillenne.[14]
+
+14. Hē ārās þā and nam þæt cild and his mōdor on niht, and fērde on Egyptum;[15]
+
+15. and wæs þǣr oð Herodes forðsīð: þæt wǣre gefylled þæt ðe fram Drihtne gecweden wæs þurh ðone wītegan, Of Egyptum ic mīnne sunu geclypode.[16]
+
+
+
+16. Đā wæs Herodes swȳde gebolgen, for þām þe he beþǣht wæs fram þām tungelwītegum, and hē āsende þā and ofslōh ealle þā cild þe on Bethleem wǣron, and on eallum hire gemǣrum, fram twȳwintrum cilde and binnan þām, æfter þǣre tīde þe hē geāxode fram ðām tungelwītegum.[17]
+
+17. Đā wæs gefylled þæt gecweden wæs þurh Hieremiam þone wītegan,
+
+18. Stefn wæs on hēhnysse gehȳred, wōp and mycel þotorung; Rachel wēop hyre bearn, and hēo nolde bēon gefrēfred, for þām þe hī nǣron.[18]
+
+Đys [godspel] sceal on twelftanǣfen.
+
+19. Sōðlīce þā Herodes wæs forð faren, witodlīce on swefne Drihtnes engel ætȳwde Iosepe on Egyptum,
+
+20. and þus cwæð, Ārīs and nim þæt cild and his mōdor, and far on Israhela land; nū synd forð farene þe ðæs cildes sāwle sōhton.[19]
+
+21. Hē ārās ðā and onfēng þæt cild and his mōdor, and cōm on Israhela land.[20]
+
+22. Đā hē gehȳrde þæt Archelaus rīxode on Iudea þēode for ðone [fæder] Herodem,[21] hē ondrēd þyder tō faranne; and on swefnum gemynegod hē fērde on Galileisce dǣlas,[22]
+
+23. and hē cōm þā and eardode on þǣre ceastre ðe is genemned Nazareth: þæt wǣre gefylled þæt gecweden wæs þurh ðone wītegan, for þām ðe hē Nazarenisc byð genemned.
+
+
+
+
+
+↑ A, B, Eornostlice; A, tungel-.
+
+↑ A, hwar.
+
+↑ A, geeaðmedenne.
+
+↑ A, eall hierasolimwaru.
+
+↑ A, þara; A þæs folces; A, acsode; A hwar crist wære acenned (changed order).
+
+↑ A, B, iudeiscre.
+
+↑ A, iudea ealdrum
+
+↑ A, acsode (for befran); A, ætywde.
+
+↑ A, bethleem; A, acsiað; A, gemeton.
+
+↑ A, þar.
+
+↑ A, hig fægnodon; A, micelum.
+
+↑ B, ganggende; A gemitton.
+
+↑ A, onfengon; A, heora.
+
+↑ B, oswefnum (for on swefnum); A, moder; A, þar; A, segce; B, Towerd; A, forspillanne.
+
+↑ A, moder.
+
+↑ A, þar; A, þæt fram (om. ðe).
+
+↑ A, gedrefed (for gebolgen); A, geacsode, B, geahsode; B, tungol- (second time).
+
+↑ A, stefn wæs gehired on hehnesse (changed order); A, þoterung; A, gefrefrod.
+
+↑ A, moder.
+
+↑ A, moder.
+
+↑ Corp., B, ðæne herodem, A, þæne fæder herodem.
+
+↑ Corp., B, to farende, A, to faranne; A, gemingod, B, gemyngod.
+
+
+
+
+
+CAPUT III
+
+
+
+Ðys [godspel] sceal on wōdnesdæg on þǣre þrȳddan wucan ǣr myddanwyntra.
+
+1. On þām dagum cōm Iohannes sē fulluhtere, and bodude on þām wēstene Iudee,[1]
+
+2. and cwæð, Dōþ dǣdbōte; sōðlīce genēalǣceð heofona rīce.[2]
+
+3. Đis ys sē be þām þe gecweden ys þurh Esaiam ðone wītegan, Clypiendes stefn wæs on wēstene, Gegearwiað Drihtnes weg, dōþ his sīðas rihte.[3]
+
+4. Sē Iohannes witodlīce hæfde rēaf of olfenda hǣrum, and fellenne gyrdel embe hys lendenu; and hys mete wæs gærstapan and wuduhunig.[4]
+
+5. Đā fērde tō him Hierosolimwaru and eal Iudea ðēod, and eal þæt rīce wiðgeondan Iordanen.[5]
+
+
+
+6. And hī wǣron gefullode on Iordane fram him, and hī andettan hyra synna.[6]
+
+7. Sōðlīce þā hē geseh manega þǣra sunderhālgena and þǣra rihtwīsendra tō his fulluhte cumende, hē cwæð tō him, Lā, nǣddrena cyn, hwā geswutelode ēow to flēonne fram þām tōweardan yrre?[7]
+
+8. Eornostlīce dōþ medemne wæstm þǣre dǣdbōte;[8]
+
+9. and ne cweþað betwux ēow, Wē habbað Abraham ūs tō fæder. Sōþlīce ic secge ēow þæt God ys swā mihtig þæt hē mæg of þysum stānum āweccean Abrahames bearn.[9]
+
+10. Eallunga ys sēo æx tō ðǣra trēowa wurtrumum āsett. Eornustlīce ǣlc trēow þe gōdne wæstm ne bringð byð forcorfen, and on fȳr āworpen.[10]
+
+11. Witodlīce ic ēo wfullige on wætere tō dǣdbōte. Sē þe æfter mē tōwerd ys, hē ys strengra Þonne ic, ðæs gescȳ neom ic wyrðe tō berenne; hē ēow fullað on Hālgum Gāste and on fȳre:[11]
+
+12. ðes fann ys on his handa, and hē āfeormað his þyrscelflōre; and hē gegaderað hys hwǣte on his bern; þā ceafu hē forbærnð on unādwǣscendlīcum fȳre.[12]
+
+Đys [godspel] sceal on wōdnesdæg ofer twelftandæg.
+
+13. Þā cōm sē Hǣlend fram Galilea tō Iordane tō Iohanne þæt hē hine fullode.
+
+14. Iohannes þā sōðlīce forbēad him, and cwæð, Ic sceal fram þē bēon gefullod, and cymst ðū tō mē?[13]
+
+15. Đā andswarode sē Hǣlend him and cwæð. Lǣt nū; þus unc gedafnað ealle rihtwīsnesse gefyllan. Þā forlēt hē hine.[14]
+
+16. Sōþlīce þā sē Hǣlend gefullod wæs, hrædlīce hē āstāh of ðām wætere; and him wurdon þǣrrihte heofenas ontȳnede, and hē geseah Godes Gāst niþer stīgende swā swā culfran, and wunigende ofer hine.[15]
+
+17. And sōðlīce þā cōm stefn of heofenum, and þus cwæð, Hēr is mīn gecorena Sunu on þām mē gelīcode.
+
+
+
+
+
+↑ A, bodode; A, iudee.
+
+↑ A, genealæcað heofena.
+
+↑ A, clipiende; B, dryhtnes.
+
+↑ B, oluenda; A, ymbe.
+
+↑ A, eall (twice).
+
+↑ A, andetton heora.
+
+↑ A, geseah; A, rihtwisedra, B, gerihtwisendra; A, nædrena cynn; A, swutelode; Corp., B, þan, A, þam.
+
+↑ Corp., weastm, A, B, wæstm.
+
+↑ A, betweox, B, betwyx; A, aweccan.
+
+↑ B, trywa; A, wyrtruman; A, eornostlice; B, tryw; B, bring (for bringð).
+
+↑ A, toweard; A, Ðæs gesci ne eom ic wirðe to beranne; B, halegum.
+
+↑ A, beren; A, cafu, B, cafu (corrected into ceafu).
+
+↑ A, þu cymst (changed order), B, cymsðu.
+
+↑ A, gedafenað; A, -nyssa; A, forlæt
+
+↑ A, þarrihte; A, geseh.
+
+
+
+
+
+CAPUT IV
+
+
+
+Đys godspel sceal on hālgandæg.
+
+1. Đā wæs sē Hǣlend gelǣd fram Gāste on wēsten þæt hē wǣre fram dēofle costud.[1]
+
+
+
+2. And þā þā hē fæste fēowurtig daga and fēowurtig nihta, þā ongan hyne syððan hingrian.[2]
+
+3. And þā genēalǣhte sē costniend, and cwæð, Gyf þū Godes Sunu sȳ, cweð þæt þās stānas tō hlāfe gewurðon.[3]
+
+4. Ðā andswarode sē Hǣlend, Hit ys āwriten, Ne leofað sē man be hlāfe ānum, ac be ǣlcon worde þe of Godes mūðe gǣð.[4]
+
+5. Þā gebrōhte sē dēofol hine on þā hālgan ceastre, and āsette hine ofer þæs temples hēahnesse,[5]
+
+6. and cwæð tō him, Gyf þū Godes Sunu eart, āsend þē þonne nyðer; sōþlīce hit ys āwriten, Þæt hē his englum bebēad be ðē, þæt hig þē on hyra handum beron, þē lǣs þe ðīn fōt æt stāne ætsporne.[6]
+
+7. Ðā cwæð sē Hǣlend eft tō him, Hit ys āwriten, Ne costna þū Drihten þīnne God.[7]
+
+8. Eft sē dēofol hine genam, and lǣdde hine on swīðe hēahne munt, and ætēowde him ealle middaneardes rīcu and hyra wuldor,[8]
+
+9. and cwæþ tō him, Ealle þās ic sylle þē, gyf þū feallende tō mē geēadmētst.[9]
+
+
+
+10. Ðā cwæð sē Hǣlend tō him, Gang þū sceocca on bæc; sōþlīce hit ys āwriten, Tō Drihtne þīnum Gode þū ðē geēaðmētsð, and him ānum þēowast.[10]
+
+11. Ðā forlēt sē dēofol hine, and englas genēalǣhton and him þēnodon.
+
+Dys [godspel] sceal on frīgedæg ofer twelftadæg.
+
+12. Sōðlīce þā sē Hǣlend gehȳrde þæt Iohannes belǣwed wæs, þā fērde hē tō Galileam;
+
+13. and forlǣtenre þǣre ceastre Nazareth, hē cōm and eardode on Capharnaum, on þām sǣgemǣrum, on endum Zabulon and Neptalim:
+
+14. þæt wǣre gefylled þæt ðe gecweden wæs þurh Esaiam þone wītegan,[11]
+
+15.[12]
+
+16. Ðēoda folc ðe on þȳstrum sæt geseah mycel lēoht, and sittendum on earde dēaþes sceade is lēoht ūp āsprungen.[13]
+
+17. Syððan ongan sē Hǣlend bodian and cweðan, Dōð dǣdbōte; sōðlīce heofona rīce genēalǣcð.[14]
+
+Ðis godspel sceal on Andreas mæssedæg.
+
+18. Þā sē Hǣlend ēode wið ðā Galileiscean sǣ,[15] hē geseh twēgen gebrōðru, Symonem, sē wæs genemned Petrus, and Andream his brōþor, sendende hyra nett on þā sǣ; sōðlīce hī wǣron fisceras.[16]
+
+19. And hē sǣde him, Cumað æfter mē, and ic dō þæt gyt bēoð manna fisceras.[17]
+
+20. And hī þǣrrihte forlēton hyra net, and him fyligdon.[18]
+
+21. And þā hē þanon ēode, he geseh twēgen ōðre gebrōþru, Iacobum Zebedei and Iohannem his brōþur, on scype mid hyra fæder Zebedeo, rēnigende hyra nett, and hē clypode hī.[19]
+
+22. Hī ðā sōna forlēton hyra nett and hyra fæder, and him fylidon.[20]
+
+Ðis [godspel] sceal on frīgedæg on þǣre þryddan wucan ofer twelftandæg.
+
+23. And þā befērde sē Hǣlend ealle Galileam, lǣrende on hyra gesomnungum; and hē wæs bodiende godspel þæs rīces, and hǣlende ǣlce ādle and ǣlce untrumnysse on þām folce.[21]
+
+24. And ðā fērde hys hlīsa intō ealle Syriam; and hī brōhton him ealle yfel hæbbende missenlīcum ādlum and on tintregum gegripene, and þā ðe dēofelsēocnyssa hæfdon, and mōnoðsēoce, and laman, and hē þā gehǣlde.[22]
+
+25. And him fyligdon mycele menigu fram Galilea, and fram Decapoli, and fram Hierusalem, and fram Iudea, and fram begeondan Iordanen.[23]
+
+
+
+
+
+↑ A, costnod (n above the line).
+
+↑ A, feowertig (twice).
+
+↑ Corp., costnind (costni-nd, divided at the end of the line), A, B, costnigend; A, geweorðon.
+
+↑ A, hælend him; A, ælcum.
+
+↑ A, heahnysse.
+
+↑ A, om. hyra; A bæron; A þe læs ðe.
+
+↑ A, costa (changed into costna); A, ða na drihten.
+
+↑ A, ætywde; A, middangeardes ; A, heora.
+
+↑ A, om. to him; A, geeadmedest.
+
+↑ A sceucca; A, geeadmedest, B, geeaðmestð.
+
+↑ A, om. ðe.
+
+↑ 15. Corp., A, B, om. entire verse.
+
+↑ A, geseh; A, gearde; B, scade.
+
+↑ A, heofena.
+
+↑ A, iude (for eode); A, galileiscan.
+
+↑ A geseah; A gebroðra; A broðer; A heora.
+
+↑ A, heom.
+
+↑ A, þarrihte; A heora; A, folgodon, B fylidon.
+
+↑ A, broðer; A, myd heora; Corp., A, B, remigende; A, heora; B, net.
+
+↑ A, heora (twice); A, folgodon.
+
+↑ A, heora; A, bodigende godspell.
+
+↑ A, deofolseocnysse, B, deofolseocnessa; A, monaðseoce.
+
+↑ A, mænigeo.
+
+
+
+
+
+CAPUT V
+
+
+
+Ðis godspel gebyrað to ealra hālgena mæssan.
+
+1. Sōðlīce þā sē Hǣlend geseh þā menigu, hē āstāh on þone munt; and þā hē sæt, þā genēalǣhton his leorningcnihtas tō him.[1]
+
+2. And hē ontȳnde his mūð and lǣrde hī, and cwæð,
+
+3. Ēadige synt þā gāstlīcan þearfan, for þām hyra ys heofena rīce.
+
+4. Ēadige synt þā līðan, for þām þe hī eorðan āgun.[2]
+
+5. Ēadige synt þā ðe nū wēpað, for þām þe hī bēoð gefrēfrede.[3]
+
+6. Ēadige synt þā ðe rihtwīsnesse hingriað and þyrstað, for þām þe hī bēoð gefyllede.[4]
+
+
+
+7. Ēadige synt þā mildheortan, for þām þe hī mildheortnysse begytað.[5]
+
+8. Ēadige synt þā clǣnheortan, for þām þe hī God gesēoð.[6]
+
+9. Ēadige synt þā gesybsuman, for þām ðe hī bēoð Godes bearn genemnede.[7]
+
+10. Ēadige synt þā þe ēhtnysse þoliað for rihtwīsnysse, for þām þe hyra ys heofonan rīce.[8]
+
+11. Ēadige synt gē þonne hī wyriað ēow, and ēhtað ēow, and secgeað ǣlc yfel ongēn ēow, lēogende for mē.[9]
+
+12. Geblissiað and gefægniað, for þām þe ēower mēd ys mycel on heofonum; swā hī ēhton þā wītegan þe beforan ēow wǣron.[10]
+
+13. Gē synt eorþan sealt; gyf þæt sealt āwyrð on þām þe hit [gesylt bið, hit] ne mæg syððan tō nāhte, būton þæt hit sȳ ūt āworpen, and sȳ fram mannum fortreden.[11]
+
+14. Gē synt middaneardes lēoht. Ne mæg sēo ceaster bēon behȳd þe byð uppan munt āset.[12]
+
+15. Nē hī ne ǣlað hyra[13] lēohtfæt, and hit under cȳfe settað, ac ofer candelstæf þæt hit onlīhte eallum þe on þām hūse synt.[14]
+
+16. Swā onlīhte ēower lēoht beforan mannum þæt hī gesēon ēowre gōdan weorc, and wuldrian ēowerne Fæder þe on heofenum ys.[15]
+
+Ðys godspel sceal on þone ōðerne wōdnesdæg ofer pentecosten.
+
+17. Nelle gē wēnan þæt ic cōme tōwurpan þā ǣ, oððe þā wītegan; ne cōm ic nā tōwurpan, ac gefyllan.[16]
+
+18. Sōþes on eornost ic secge ēow, Ǣr þām gewīte heofon and eorðe, ān i oððe ān prica ne gewīt fram þǣre ǣ, ǣr þām ealle þing gewurðan.[17]
+
+19. Eornostlīce sē ðe tōwyrpð ān of þysum lǣstum bebodum, and þā men swā lǣrð, sē byð lǣst genemned on heofonan rīce; sōþlīce sē ðe hit dēð and lǣrð, sē biþ mycel genemned on heofonan rīce.[18]
+
+Ðis godspel sceal on þone fēorðan sunnandæg ofer pentecosten.
+
+20. Sōðlīce ic secge ēow, Būton ēower rihtwīsnyss māre sȳ þonne þǣra wrītera and sundorhālgena, ne gā gē on heofonan rīce.[19]
+
+
+
+21. Gē gehȳrdon þæt gecweden wæs on ealdum tīdum, Ne ofsleh þū; sē þe ofslihð, sē byð dōme scyldig.[20]
+
+22. Ic secge ēow sōþlīce þæt ǣlc þe yrsað hys brēþer byð dōme scyldig; sōþlīce se þe segð hys brēðer, þu āwordena, he byð geþeahte scyldig; sē þe segð, Þū stunta, sē byþ scyldig helle fȳres.[21]
+
+23. Eornostlīce gyf þū bringst þīne lāc to wēofode, and þū þǣr geþencst þæt ðīn brōðor hæfð ǣnig þing agēn ðē,[22]
+
+24. lǣt þǣr þīne lāc beforan þām altare, and gang ǣr and gesybsuma wið þīnne brōðer, and þonne cum þū syððan and bring þīne lāc.[23]
+
+Ðis godspel sceal on wōdnesdæg on þǣre þryddan wucan ofer pentecosten.
+
+25. Bēo þū onbūgende þīnum wiðerwinnan hraðe, þā hwīle þe ðū eart on wege mid him; þē lǣs þe ðīn wiðerwinna þē sylle ðām dēman, and sē dēma þē sylle ðām þēne, and þū sȳ on cwertern send.[24]
+
+26. Sōþes ic secge þē, Ne gǣst þū þanone, ǣr ðū āgylde þone ȳtemestan fēorðling.[25]
+
+
+
+27. Gē gehȳrdon þæt on ealdum cwydum gecweden wæs, Ne unrihthǣme ðū;[26]
+
+28. sōðlīce ic secge ēow þæt ǣlc þǣra þe wīf gesyhð and hyre gewylnað eallunga, þæt sē gesyngað on hys heortan.[27]
+
+29. Gyf þīn swȳðre ēage þē ǣswicie, āhola hit ūt, and āwurp hyt fram þē; sōðlīce þē ys betere þæt ān þīnra lima forwurþe, þonne eal þīn līchama sī on helle āsend.[28]
+
+30. And gyf þīn swīðre hand þē āswīce, āceorf hī of, and āwurp hī fram þē; witodlīce þē ys betere þæt ān þīnra lima forwurðe, þonne eal þīn līchama fare tō helle.[29]
+
+Ðis [godspel] sceal on wōdnesdæg on þǣre xvi. wucan ofer pentecosten.
+
+31. Sōðlīce hit ys gecweden, Swā hwylc swā his wīf forlǣt, hē sylle hyre hyra hīwgedāles bōc.[30]
+
+32. Ic secge ēow tō sōðum þæt ǣlc þe his wīf forlǣt būton forlegennysse þingum, hē dēð þæt hēo unrihthǣmð; and sē unrihthǣmð þe forlǣtene æfter him genimð.[31]
+
+33. Eft[32] gē gehȳrdon þæt gecweden wæs on ealdum cwydum, Ne forswere þū; sōðlīce Drihtne þū āgyltst þīne āðās.[33]
+
+34. Ic secge ēow sōþlīce þæt gē eallunga ne swerion, nē þurh heofon, for þām þe hēo ys Godes þrymsetl;[34]
+
+35. nē þurh eorðan, for þām ðe hēo ys hys fōtscamul; nē þurh Hierusalem, for þām þe hēo ys mǣres cyninges ceaster.[35]
+
+36. Nē ðū ne swere þurh þīn hēafod, for þām þe þū ne miht ǣnne locc gedōn hwītne oððe blacne.[36]
+
+37. Sōðlīce sī ēower sprǣc, Hyt ys, hyt ys, Hyt nys, hyt nys; sōðlīce gyf þǣr māre byð, þæt bið of yfele.[37]
+
+38. Gē gehȳrdon þæt gecweden wæs, Ēage for ēage, and tōð for tēð;[38]
+
+39. sōþlīce ic secge ēow, Ne winne gē ongēn þā ðe ēow yfel dōþ; ac gyf hwā þē slēa on þīn swȳþre wenge, gegearwa him þæt ōðer.[39]
+
+40. And þām ðe wylle[40] on dōme wið þē flītan, and niman þīne tunecan, lǣt him tō þīnne wǣfels.
+
+41. And swā hwā swā þē genyt þūsend stapa, gā mid him ōðre twā þūsend.[41]
+
+42. Syle þām ðe þē bidde; and þām ðe [wylle] æt þē borgian, ne wyrn þū him.[42]
+
+Ðis [godspel] sceal on wōdnesdæg on þǣre systēoðan wucan oter pentecosten; and on frīgedæg innan þǣre cȳswucan.
+
+43. Gē gehȳrdon þæt gecweden wæs, Lufa þīnne nēxtan, and hata þinne fēond.[43]
+
+44. Sōþlīce ic secge ēow, Lufiað ēowre fȳnd, and dōþ wel þām ðe ēow yfel dōð, and gebiddað for ēowre ēhteras and tǣlendum ēow:
+
+45. þæt gē sīn ēowres Fæder bearn þe on heofonum ys, sē þe dēð þæt hys sunne ūp āspringð ofer þā gōdan and ofer þā yfelan; and hē lǣt rīnan ofer þā rihtwīsan and ofer þā unrihtwīsan.[44]
+
+46. Gyf gē sōðlīce þā lufiað [þe ēow lufiað,] hwylce mēde habbað gē? hū ne dōð mānfulle swā?[45]
+
+47. And gyf gē þæt ān dōð þæt gē ēowre gebrōðra wylcumiaþ, hwæt dō gē māre? hū ne dōð hǣþene swā?
+
+
+
+48. Eornustllce bēoð fulfremede, swā ēower heofonlīce Fæder is fullfremed.[46]
+
+
+
+
+
+↑ A geseah þa mæniu.
+
+↑ A, synd; A, agan.
+
+↑ A, synd; A gefrefode.
+
+↑ A, Eadige synd ða ðe for ryhtwisnysse læt hig hingrian and þyrstan for þam ðe hig beoð eft gefyllede.
+
+↑ A, synd; A, begitað.
+
+↑ A, synd.
+
+↑ A synd; B gesibsuman; A, B, genemde.
+
+↑ A, synd; A, heora; A, heofena.
+
+↑ A, synd; A, wirgeað; A, secað (corrected into secgað), B, secgað; A, ongean.
+
+↑ A, heofenum; A, ehtan, B, ehtun.
+
+↑ A, synd; Corp., B, om. gesylt bið hit (homœoteleuton), A, gesylt bið hit.
+
+↑ A, synd; A myddangeardes, B middangeardes; A, behydd; A, munte asett.
+
+↑ A, onælað heora.
+
+↑ A, eallum þam þe.
+
+↑ B, heofonum.
+
+↑ A, toweorpan; A, towearpan.
+
+↑ A, eornest, B eornust; A, B, ær þam þe gewite; A, heofen oðð eorðe; A, geweorðon.
+
+↑ A, þissum; A, heofena (twice).
+
+↑ A, ryhtwisnys, B, rihtwisnys; A, sunder-; A, ne ga ge na on heofena.
+
+↑ B, ofslyh; A, biþ domes.
+
+↑ A, segð to his breðer; B, sægð (twice).
+
+↑ B, wefode; A, þar; Corp., geþencgst, A, B, geþencst; A, broðer; Corp., hæfð ænig þing (on the margin).
+
+↑ A, þar.
+
+↑ A, raðe; A, beo (for eart); A, þy læs (om. þe); A, cweartern.
+
+↑ A ic þe secge (changed order); A, ðanene; A, ytemystan; Corp., feorðlingc, A feorðling, B, feorðlinge.
+
+↑ A, unrihthæm.
+
+↑ A, gesihð; A, wilnað; A, gesingað.
+
+↑ A, æswicige; B, awyrp; A, lymena forweorðe þonne eall.
+
+↑ A, aweorp; A, forweorðe þonne eall; A, on helle.
+
+↑ A, hyre heora.
+
+↑ A, soðon; A, butan; A, forligenysse, B, forlegnysse; A, unryhthæmeð, A, unrihthæmeð; A, nymeð.
+
+↑ A, Oft (for Eft)
+
+↑ Corp., agylst, A, B, agyltst.
+
+↑ A, swerigeon; A heofen.
+
+↑ A, fotsceamel; Corp., cynincges, B, cynincges (c supplied above the line), A, cyninges; Corp., B, cester, A, ceaster.
+
+↑ A, swera.
+
+↑ A, seo, B, sy; B, spæc; A, hyt ys hyt ys hyt nys (erased, leaving that portion of the line blank; the words were afterwards supplied on the erasure in a running hand); A, B, þar.
+
+↑ Corp., Gehyrdon ge, A, B, Ge gehyrdon; A, far toð; B, teð (with e changed from o, or vice versa).
+
+↑ Corp., ēow secge (marked for transposition); A, ongean; A, slea þe (changed order); A, gewenge.
+
+↑ A, B, wyle.
+
+↑ A, stapa to ganne gega (to ganne in the running hand above the line).
+
+↑ Corp., B, om. wylle, A, wylle.
+
+↑ B, We (for Ge; illuminated W); B, gecwedon; A, nyxtan.
+
+↑ A, heofenum.
+
+↑ Corp., B, om. þe eow lufiað, A, þe eow lufiað (in the running hand above the line).
+
+↑ A, Eornostlice; B fullfremede; A, heofenlica; A, fulfremed.
+
+
+
+
+
+CAPUT VI
+
+
+
+1. Begȳmað þæt gē ne dōn ēowre rihtwīsnesse beforan mannum þæt gē sīn geherede fram him; elles næbbe gē mēde mid ēowrum Fæder þe on heofenum ys.[1]
+
+2. Eornustlīce þonne þū þīne ælmessan sylle, ne blāwe man bȳman beforan þē, swā līceteras dōð on gesomnungum and on wīcum þæt hī sīn geārwurþode fram mannum. Sōð ic secge ēow, Hī onfēngon hyra mēde.[2]
+
+3. Sōþlīce þonne þū þīne ælmessan dō, nyte þīn wynstre hwæt dō þīn swȳþre;[3]
+
+4. þæt þīn ælmesse sȳ on dīglum, and þīn Fæder hit āgylt þē sē þe gesyhþ on dīglum.[4]
+
+5. And þonne gē ēow gebiddon, ne bēo gē swylce līceteras; þā lufiað þæt hig gebiddon hī, standende on gesomnungum and [on][5] strǣta hyrnum þæt men hig gesēon. Sōþ ic secge ēow, Hig onfēngon hyra mēde.[6]
+
+6. Ðū sōþlīce, þonne þū ðē gebidde, gang intō þīnum hēdclyfan, and þīnre dura belocenre, bide þīnne Fæder on dīhlum; and þīn Fæder þe gesyhð on dīhlum hyt āgylt þē.[7]
+
+7. Sōðlīce þonne gē ēow gebiddon, nelle gē sprecan fela, swā swā hǣðene; hig wēnað þæt hī sīn gehȳrede on hyra menigfealdan spǣce.[8]
+
+8. Nellen gē eornostlīce him geefenlǣcan; sōðlīce ēower Fæder wāt hwæt ēow þearf ys ǣr þām þe gē hyne biddað.[9]
+
+9. Eornustlīce gebiddað ēow ðus: Fæder ūre þū þe eart on heofonum, Sī þīn nama gehālgod.[10]
+
+10. Tōbecume þīn rīce. Gewurþe ðīn willa on eorðan swā swā on heofonum.[11]
+
+11. Ūrne gedæghwāmlīcan hlāf syle ūs tō dæg.[12]
+
+12. And forgyf ūs ūrne gyltas, swā swā wē forgyfað ūrum gyltendum.
+
+13. And ne gelǣd þū ūs on costnunge, ac ālȳs ūs of yfele. Sōþlīce.[13]
+
+14. Witodlīce gyf gē forgyfað mannum hyra[14] synna, þonne forgyfþ ēower sē heofenlīca Fæder ēow ēowre gyltas.[15]
+
+15. Gyf gē sōðlīce ne forgyfað mannum, nē ēower Fæder ne forgyfð ēow ēowre synna.
+
+Ðys [godspel] gebyrað tō caput ieiunii on wōdnesdæg.
+
+16. Sōðlīce þonne gē fæston, nellon gē wesan swylce lēase līcceteras; hig fornymað hyra ansȳna þæt hig ætēowun mannum fæstende. Sōþlīce ic secge ēow þæt hig onfēngon hyra mēde.[16]
+
+17. Ðū sōðlīce, þonne ðū fæste, smyra þīn hēafod, and þweah þīne ansȳne;[17]
+
+18. þæt þū ne sȳ gesewen fram mannum fæstende, ac þīnum Fæder þe ys on dīglum; and þīn Fæder þe gesyhð on dȳglum hit āgylt þē.[18]
+
+19. Nellen gē goldhordian ēow goldhordas on eorþan, þǣr ōm and moððe hit fornimð, and þǣr ðēofas hit delfað and forstelaþ.[19]
+
+20. Goldhordiað ēow sōðlīce goldhordas on heofenan, þǣr nāðor ōm nē moþðe hit ne fornimð, and ðār ðēofas hit ne delfað nē ne forstelaþ;[20]
+
+21. witodlīce þǣr ðīn goldhord is, þǣr is ðīn heorte.[21]
+
+
+
+22. Ðīnes līchaman lēohtfæt is þīn ēage; gyf þīn ēage bið ānfeald, eall þīn līchama bið beorht.[22]
+
+23. Gif þīn ēage sōþlīce bið mānfull, eall þīn līchama byþ ðȳsterfull. Eornustlīce gyf þæt lēoht þe on ðē is synt þȳstru, hū mycle bēoþ ðā þȳstru![23]
+
+Ðys [godspel] sceal on þone syxtēoðan sunnandæg ofer pentecosten.
+
+24. Ne mæg nān man twām hlāfordum þēowian; oððe hē sōðlīce ǣnne hatað and ōðerne lufað, oððe hē bið ānum gehȳrsum and ōðrum ungehȳrsum. Ne magon gē Gode þēowian and woruldwelan.[24]
+
+25. For þām ic secge ēow þæt gē ne sīn ymbhȳdige ēowre sāwle hwæt gē eton, ne ēowrum līchaman mid hwām gē sȳn ymbscrȳdde. Hū nys sēo sawl sēlre þonne mete, and ēower līchama betera þonne þæt rēaf?[25]
+
+26. Behealdað heofonan fuglas, for þām þe hig ne sāwað, nē hig ne rīpað, nē hig ne gadriað on berne; and ēower heofonlīca Fæder hig fēt. Hū ne synt gē sēlran þonne hig?[26]
+
+
+
+27. Hwylc ēower mæg sōþlīce geþencean þæt hē geēacnige āne elne tō hys anlīcnesse?[27]
+
+28. And tō hwī synt gē ymbhȳdige be rēafe? Bescēawiað æcyres lilian, hū hig weaxað; ne swincað hig, nē hig ne spinnað.[28]
+
+29. Ic secge ēow sōðlīce þæt furðon Salomon on eallum hys wuldre næs oferwrigen swā swā ān of ðyson.[29]
+
+30. Sōþlīce gyf æcyres wēod, þæt ðe tō dæg is and bið tō morgen on ofen āsend, God [swā] scrȳt, Ēalā gē gehwǣdes gelēafan! þām mycle mā hē scrȳt ēow.[30]
+
+31. Nellen gē eornustlīce bēon ymbhȳdige, þus cweþende, Hwæt ete wē? oððe, Hwæt drince wē? oððe, Mid hwām bēo wē oferwrogene?[31]
+
+32. Sōþlīce ealle þās þing þēoda sēceað; witodlīce ēower Fæder wāt þæt gē eallra þyssa þinga beþurfon.[32]
+
+33. Eornustlīce sēceað ǣrest Godes rīce and hys rihtwīsnesse, and ealle þās þing ēow bēoþ þǣr tō geēacnode.[33]
+
+34. Ne bēo gē nā hogiende ymb[34] þā morgenlīcan nēode; sōðlīce sē morgenlīca dæg carað ymb hyne sylfne. Ǣghwylc dæg hæfð genōh on hys āgenum ymbhogan.[35]
+
+
+
+
+
+↑ A, Begimað; A, ryhtwisnysse; A, wið (for mid).
+
+↑ A, Eornestlice; A, ælmyssan; Corp., B, gesomnuncgum, A, gesomnungum; A, gearweorðade; Corp., eow secge (marked for transposition).
+
+↑ A, ælmyssan; B, swyre (for swyþre).
+
+↑ A, ælmysse; B, dihlum.
+
+↑ A, gesamnungum, B gesomnuncgum; Corp., B, om. on, A, on.
+
+↑ A, yrnum (for hyrnum); A, heora.
+
+↑ A, þænne; A, diglum (twice), B, diglum (second time); A, he hit agilt þe.
+
+↑ A, nellon, B, nellen; A, fæla; A, heora; A mænigfealdan spræce.
+
+↑ A, nellon.
+
+↑ A, Eornostlice; A, þu þe eart (þe supplied above the line); A, B, heofenum.
+
+↑ A, to me becume; A, geweorðe; A, B, heofenum.
+
+↑ A, dæghwamlican.
+
+↑ A, B, gelæde; B, yfle.
+
+↑ A, heora.
+
+↑ A, forgifeð.
+
+↑ Rubric: A, capud, B, caput; A, fæstan, B, fæsten; A, nellan, B, nellen; A liceteras; A, ætywan; A, heora.
+
+↑ A þweh.
+
+↑ A dyhlum.
+
+↑ A, Nellon; A þar (twice); A fornymeð.
+
+↑ A, heofenum and þær naðer ne om ne.
+
+↑ A þar (twice); Corp., B, gold, A, goldhord.
+
+↑ A, lychoman; A, ege (second time).
+
+↑ A, byð manful soðlice (changed order); A, Eornostlice; A, synd; A, mycele.
+
+↑ A, weoruldwelan.
+
+↑ A, ymbe-; A, etan; A, lichaman (second time); A þonne þin reaf.
+
+↑ A, heofenfugelas; A gaderiað; A, heofenlica; A, synd.
+
+↑ B, geþencean; A, anlycnysse.
+
+↑ A, synd; A, æceras; A wexað.
+
+↑ A, forþan; A, þyssum.
+
+↑ A, B, æceres; A, mergen; Corp. on fen, A, B, on ofen; Corp., god scryt, A, B, god swa scryt; A, mycele.
+
+↑ A Nellon; A, eornostlice; B ymhydige; A oferwrigene.
+
+↑ A secað; A, ealra þissa.
+
+↑ A, Eornostlice; A, secað; A, -nysse; A, þar.
+
+↑ A, beon; A, ymbe.
+
+↑ A morgenlican dæg; A, ymbe; A, ymbehogan.
+
+
+
+
+
+CAPUT VII
+
+
+
+Ðys [godspel] sceal on þone fēorðan sunnandæg ofer pentecosten.
+
+1. Nellen gē dēman, þæt gē ne sȳn fordēmede.
+
+2. Witodlīce ðām ylcan dōme þe gē dēmað, ēow byð gedēmed; and on ðām ylcan gemete þe gē metaþ, ēow byþ gemeten.
+
+3. Tō hwī gesihst þū þæt mot on þīnes brōþor ēagan, and þū ne gesyhst þone bēam on þīnum āgenum ēagan?[1]
+
+4. Oþþe hūmeta cwyst þū tō þīnum brēþer, Brōþur, þafa þæt ic ūt ādō þæt mot of þīnum ēagan, þonne sē bēam biþ on þīnum āgenum ēagan?[2]
+
+5. Lā þū līccetere, ādō ǣrest ūt ðone bēam of þīnum āgenum ēagan, and behāwa þonne þæt þū ūt ādō þæt mot of þīnes brōður ēagan.[3]
+
+6. Nellen gē syllan þæt hālige hundum, nē gē ne wurpen ēowre meregrotu[4] tōforan ēowrum swȳnon, þē lǣs hig mid hyra fōtum hig fortredon, and hig þonne ongēan gewende ēow tōslȳton.[5]
+
+Ðys godspel sceal tō gangdagon.
+
+7. Biddaþ, and ēow bið geseald; sēceaþ, and gē hit findaþ; cnuciað, and ēow biþ ontȳned.[6]
+
+8. Witodlīce ǣlc þǣra þe bit, hē onfēhþ; and sē þe sēcð, hē hyt fint; and þām cnuciendum bið ontȳned.[7]
+
+9. Hwylc man is of ēow, gyf his sunu hyne bit hlāfes, sylst þū him stān;[8]
+
+10. oððe gyf hē bytt fisces, sylst þū him nǣddran?[9]
+
+11. Eornustlīce nū gē þe yfle synt cunnun gōde sylena ēowrum bearnum syllan, mycle mā ēower Fæder þe on heofenum ys syleþ gōd þām þe hyne biddað.[10]
+
+12. Eornustlīce ealle þā þing ðe gē wyllen þæt men ēow dōn, dōþ gē him þæt sylfe; þæt ys sōþlīce ǣ and wītegena bebod.[11]
+
+13. Gangað inn þurh þæt nearwe geat; for þon[12] þe þæt geat is swȳþe wīd, and sē weg is swīþe rūm þe tō forspillednesse gelǣt, and swȳþe manega synt þe þurh þone weg farað.[13]
+
+14. Ēalā hū neara and hū angsum is þæt geat and sē weg þe tō līfe gelǣdt, and swȳþe fēawa synt þe þone weg findon![14]
+
+Ðys godspell gebyrað on þǣre nygoðan wucan ofer pentecosten.
+
+15. Warniað ēow fram lēasum wītegum, þā cumað tō ēow on scēapa gegyrelum, ac hig bēoð innane rēafigende wulfas.[15]
+
+16. Fram hyra wæstmun gē hī undergytað. Cwyst þū gaderað man wīnberian of þornum, oððe fīcæppla of þyrncinum?[16]
+
+17. Swā ǣlc gōd trēow byrþ gōde wæstmas, and ǣlc yfel trēow byrþ yfele wæstmas.[17]
+
+18. Ne mæg þæt gōde trēow beran yfle wæstmas, ne þæt yfele trēow gōde wæstmas.[18]
+
+19. Ǣlc trēow þe ne byrð gōdne wæstm sȳ hyt forcorfen, and on fȳr āworpen.
+
+20. Witodlīce be hyra[19] wæstmum gē hig oncnāwað.
+
+21. Ne gǣð ǣlc þǣra on heofena rīce þe cwyþ tō mē, Drihten, Drihten; ac sē þe wyrcð mīnes Fæder willan þe on heofenum is, sē gǣð on heofena rīce.[20]
+
+22. Manega cweþað on þām dæge tō mē, Drihten, Drihten, hū ne wītegode wē on þīnum naman, and on þīnum naman wē ūt āwurpon dēoflu, and on þīnum naman wē worhton mycle mihta?[21]
+
+23. Þonne cweðe ic tō him, Þæt ic ēow nǣfre ne cūðe; gewītað fram mē, gē þe worhton unrihtwȳsnesse.[22]
+
+24. Eornustlīce ǣlc þǣra þe ðās mīne word gehȳrð, and þā wyrcð, byþ gelīc þām wīsan were sē hys hūs ofer stān getimbrode;[23]
+
+25. þā cōm þǣr rēn and mycele flōd, and þǣr blēowun windas, and āhruron on þæt hūs, and hyt nā ne fēoll; sōðlīce hit wæs ofer stān getimbrod.[24]
+
+26. And ǣlc þǣra þe gehȳrþ ðās mīne word, and þā ne wyrcð, sē byþ gelīc þām dysigan men þe getimbrode hys hūs ofer sandceosel;[25]
+
+27. þā rīnde hit, and þǣr cōmun flōd, and [26] blēowun windas, and āhruron on þæt hūs, and þæt hūs fēoll, and hys hryre wæs mycel.
+
+Ðys [godspel] sceal on þone þryddan sunnandæg ofer epiphaniam.
+
+28. Þā wæs geworden, þā sē Hǣlend þās word geendode, þā wundrode þæt folc his lāre.
+
+29. Sōþlīce hē lǣrde swylce hē anweald hæfde, and nā swā swā hyra bōceras and sundorhālgan.[27]
+
+
+
+
+
+↑ A, broðer, B, broður; Corp., egan; A, B, eagan.
+
+↑ Corp., cwistiþu, A, cwyst ðu, B, cwyst ðu; A, broðor (second time).
+
+↑ A, broðer.
+
+↑ A, Nellon ge þæt halige syllan hundum (changed order); A, worpen; A, meregrota.
+
+↑ A, swynum þy læs.
+
+↑ A, secað; A, cnyssað (for cnuciað).
+
+↑ A, seceð; A, fyndeð; A, cnyssendum (for cnuciendum).
+
+↑ A, sylest.
+
+↑ A, byt, B, bitt; A, sylest; A, B, nædran.
+
+↑ A, Eornostlice; A, B, yfele; A, synd; A, cunnon; A, mycele; A, eowre fæder.
+
+↑ A, Eornostlice; A, wyllon; B, witigena.
+
+↑ A, in; B, nearuwe; A, for ðam ðe þæt get.
+
+↑ A, forspyllednysse; B, gelætt; A, synd.
+
+↑ A, nearu; B, ancsum; A, læt (for gelædt); A, synd; B, finden.
+
+↑ A, gegyrlum; B, reafiende.
+
+↑ B, Cwysþu; A, winbergean; A, þyrcenum.
+
+↑ B, tryw (twice).
+
+↑ B, om. Ne . . . beoran yfle wæstmas (homœoteleuton; supplied by the scribe on the margin); A, yfele (twice).
+
+↑ A, heora.
+
+↑ A, hefena (second time).
+
+↑ B, Manege; A, witegodon; B, om. and on . . . deoflu (homœoteleuton; supplied by the scribe on the margin); A, awurpan; A, mycele.
+
+↑ A, unryhtwysnysse.
+
+↑ A, Eornostlice.
+
+↑ A, mycel, B, micele (first e above the line).
+
+↑ A, dysegan; A, stanceosel.
+
+↑ A, com; A, bleowon.
+
+↑ A, heora; A, sunder-.
+
+
+
+
+
+CAPUT VIII
+
+
+
+1. Sōþlīce þā sē Hǣlend of þām munte nyþer āstāh, þā fyligdon him mycle mænio.[1]
+
+2. Þā genēalǣhte ān hrēofla tō him, and hine tō him geēaðmēdde, and þus cwæð, Drihten, gyf þu wylt, þū miht mē geclǣnsian.[2]
+
+3. Ðā āstrehte sē Hǣlend hys hand, and hrepode hyne, and þus cwæð, Ic wylle; bēo geclǣnsod. And hys hrēofla wæs hrædlīce geclǣnsod.[3]
+
+4. Ðā cwæð sē Hǣlend tō him, Warna þē þæt þū hyt nǣnegum men ne secge; ac gang, ætēowe þē þām sācerde, and bring hym þā lāc þe Moyses bebēad, on hyra gecȳðnesse.[4]
+
+
+
+5. Sōþlīce þā sē Hǣlend in ēode on Capharnaum, þā genēalǣhte hym ān hundredes ealdor, hyne biddende,[5]
+
+6. and þus cweðende, Drihten, mīn cnapa līð on mīnum hūse, lama and mid yfle geðrēad.[6]
+
+7. Ðā cwæð sē Hǣlend tō him, Ic cume and hyne gehǣle.
+
+8. Ðā andswarode sē hundredes ealdor and þus cwæð, Drihten, ne eom ic wyrðe þæt þū in gange under mīne þecene; ac cweð þīn ān word, and mīn cnapa biþ gehǣled.[7]
+
+9. Sōðlīce ic eom man under anwealde gesett, and ic hæbbe þegnas under mē; and ic cweðe tō þysum, Gang, and hē gǣð; and ic cweðe tō ōþrum, Cum, and he cymð; tō mīnum þēowe, Wyrc þis, and hē wyrcð.[8]
+
+10. Witodlīce þā sē Hǣlend þis gehȳrde, þā wundrode hē, and cwæð tō þām þe hym fyligdon, Sōþ ic secge ēow, ne gemētte ic swā mycelne gelēafan on Israhel.[9]
+
+11. Tō sōþum ic secge ēow þæt manige cumað fram ēastdǣle and westdǣle, and wuniað mid Abrahame, Isahace, and Iacobe on heofena rīce.[10]
+
+
+
+12. Witodlīce þises rīces bearn bēoð āworpene on þā ȳtemestan þȳstro; þǣr bið wōp and tōþa grīstbitung.[11]
+
+13. And sē Hælend cwæð tō þām hundrydes ealdre, Gā, and gewurþe ðē swā swā þū gelȳfdest. And sē cnapa wæs gehǣled on þǣre tīde.[12]
+
+Đis [godspel] gebyrað on frīgedæg on þǣre twā and twēntugoðan wucan ofer pentecosten.
+
+14. Đā sē Hǣlend cōm on Petres hūse, þā geseah hē hys swegre licgende, and hriþgende.[13]
+
+15. And hē æthrān hyre hand, and sē fēfor hig forlēt; ðā ārās hēo, and þēnode him.[14]
+
+16. Sōþlīce þā hyt ǣfen wæs, hig brōhton him manege dēofolsēoce; and hē ūt ādrǣfde þā unclǣnan gāstas mid hys worde, and hē ealle gehǣlde þā yfel hæbbendan:[15]
+
+17. þæt wǣre gefylled þæt gecweden is þurh Esaiam þone wītegan, þus cweðende, Hē onfēng ūre untrumnessa, and hē ābær ūre ādla.[16]
+
+18. Đā geseah sē Hǣlend mycle menigeo ymbūtan hyne, þā hēt hē hig faran ofer þone mūþan.[17]
+
+
+
+Đis [godspel] sceal on wōdnesdæg on þǣre fēorðan wucan ofer twelftandæg.
+
+19. Đā genēalǣhte him ān bōcere, and cwæþ, Lārēow, ic fylige þē swā hwæder swā þū færst.[18]
+
+20. Đā cwæð sē Hǣlend tō him, Foxas habbað holu, and heofenan fuglas nest; sōþlīce mannes Sunu næfð hwǣr hē hys hēafod āhylde.[19]
+
+21. Đā cwæð tō him ōþer of hys leorningcnihtum, Drihten, ālȳfe mē ǣrest tō farenne and bebyrigean mīnne fæder.[20]
+
+22. Þa cwæð sē Hǣlend tō him, Fylig mē, and lǣt dēade bebyrigean hyra dēadan.[21]
+
+Đis [godspel] sceal on þone fēorðan sunnandæg ofer twelftandæg.
+
+23. And hē āstāh on scyp, and hys leorningcnyhtas hym fyligdon.
+
+24. Đā wearð mycel styrung geworden on þǣre sǣ, swā þæt þæt scyp wearð ofergoten mid ȳþum; witodlīce hē slēp.[22]
+
+25. And hig genēalǣhton, and hȳ āwehton hyne, þus cweðende, Drihten, hǣle ūs; wē mōton forwurþan.[23]
+
+26. Đā cwæð hē tō him, Tō hwī synt gē forhte, gē lȳtles gelēafan? Đā ārās hē, and bebēad þām[24] winde and þǣre sǣ; and þǣr wearð geworden mycel smyltness.[25]
+
+27. Gewisslīce þā men wundrodun and þus cwǣdon, Hwæt is ðēs þæt windas and sǣ him hȳrsumiað?[26]
+
+28. Þā sē Hǣlend cōm ofer þone mūþan on Geraseniscra rīce, þā urnon him tōgēnes twēgen þe hæfdon dēofolsēocnesse, of byrgenum ūt gangende; þā wǣron swīðe rēþe, swā þæt nān man ne mihte faran þurh þone weg.[27]
+
+29. And hig hrȳmdon and cwǣdon, Lā Hǣlend, Godes Sunu, hwæt ys þē and ūs gemǣne? cōme þū hider ǣr tīde ūs tō þrēagenne?
+
+30. Đǣr wæs sōþlīce unfeorr ān heord †manegra swȳna lǣswiende.[28]
+
+31. Þā dēofla sōðlīce hyne bǣdon þus cweþende, Gyf þū ūs ūt ādrīfst, āsende ūs on þās swīna heorde.[29]
+
+32. Đā cwæð hē tō him, Faraþ. And hig þā ūt gangende fērdon on þā swīn, and þǣrrihte fērde eall sēo heord myclum onrǣse niwel on þā sǣ, and hig wurdon dēade on þām wætere.[30]
+
+33. Đā hyrdas witodlīce flugon, and comun[31] on þā ceastre, and cȳddon ealle þās þing, and be þām þe ðā dēofulsēocnyssa hæfdon.[32]
+
+34. Ðā ēode eall sēo ceasterwaru tōgēanes þām Hǣlende; and þā þā hig hyne gesāwun, þā bǣdon hig hyne þæt hē fērde fram heora gemǣrum.[33]
+
+
+
+
+
+↑ Corp., hælnd, A, B, hælend; A, mycele.
+
+↑ A, geeadmedde.
+
+↑ A, hrepede; A, beo þu.
+
+↑ A, ætywe; A, -nysse.
+
+↑ B, hundrydes.
+
+↑ A, om. and (before þus); Corp., cwæd (corrected above the line into cweðende); A, mynon; A, B, yfele.
+
+↑ B, hundrydes; A, om. an.
+
+↑ A, geset; A þyssum; A, and ic cweðe to mynum þeowe.
+
+↑ B, fyligdon (g above the line); A, ysrahelum.
+
+↑ A, soðun; A, isaace.
+
+↑ A, B, aworpone; A, ytemystan.
+
+↑ A, hundredes; A, geweorðe; A, Amen at the end of the verse.
+
+↑ A, hus; A, hryðigende, B, hriþigende (g above the line).
+
+↑ A, fefer.
+
+↑ A, manige; Corp., defol-, A, B, deofol-.
+
+↑ B, þæt þe gecweden; A, -nyssa; A, B, bær.
+
+↑ A, mycele mænigeo; B, faran (supplied above the line).
+
+↑ A, hwyder.
+
+↑ A, heofenes, B, heofonan; A, fugelas; A, hwar; A, heafud.
+
+↑ A, alyf; A, bebyrgean.
+
+↑ A, bebyrgean; A, heora.
+
+↑ B, þæræ.
+
+↑ A, and awehton (om. hy); A, hæl us (p added afterwards: hælp); A, forweorðan.
+
+↑ A, hwig synd.
+
+↑ A, þæt hyg swigdon (inserted after sæ); A, þar; A, B, smyltnys.
+
+↑ A, gewyslice; A, wundredon.
+
+↑ A, B, togeanes; A, -nysse.
+
+↑ A, þar; A, unfeor; Corp., A, B, an swyna heord manegra (Corp. ma manegra) manna læswiende (A, læswigende).
+
+↑ A, deoflo; A, adryfest asend.
+
+↑ A, hyom (for him); A, þarryhte.
+
+↑ A, comon.
+
+↑ A, deofel-.
+
+↑ Corp., ceaster- (a above the line); A, gesawon; B, hyra.
+
+
+
+
+
+CAPUT IX
+
+
+
+Ðis godspel sceal on sunnandæg on þǣre twēntugoðan wucan ofer pentecosten.
+
+1. Đā āstāh hē on scyp, and oferseglode, and cōm on his ceastre.[1]
+
+2. Đā brōhton hig hym ǣnne laman, on bedde licgende; þā geseah sē Hǣlend hyra gelēafan, and cwæð tō þām laman, Lā bearn, gelȳfe; þē bēoþ þīne synna forgyfene.[2]
+
+3. Đā cwǣdon hig sume þā bōceras him betwȳnan, Đēs spycð bysmorsprǣce.[3]
+
+4. Þā sē Hǣlend geseah hyra geþanc, ðā cwæð hē, Tō hwī þence gē yfel on ēowrum heortum?[4]
+
+5. Hwæt is ēaþelīcre tō cweðenne, Þē bēoð forgyfene þīne synna, oððe tō cweþanne, Ārīs, and gā?[5]
+
+6. Þæt gē sōþlīce witon þæt mannes Sunu hæfð anweald on eorþan synna tō forgyfenne,—þā cwæð hē tō þām laman,—Ārīs, and nym þīn bedd, and gang on þīn hūs.[6]
+
+7. And hē ārās, and fērde tō hys hūse.
+
+8. Sōðlīce ðā þā sēo mænigeo þis gesāwon, þā ondrēdon hig hym, and wuldrodon God þe sealde swylcne anweald mannum.[7]
+
+Đis godspel sceal on sancte Matheus mæsseǣfen.
+
+9. Đā se Hǣlend þanon fērde, hē geseah ǣnne man sittende æt tollsceamule, þæs nama wæs Matheus; and hē cwæð tō him, Fylig mē. And hē ārās, and fyligde him.[8]
+
+10. And hyt wæs geworden þā hē sæt innan hūse, þā cōmun manega mānfulle and synfulle and sǣton mid þām Hǣlende and hys leorningcnyhtum.[9]
+
+11. Đā þā sundorhālgan þæt gesāwon, þā cwǣdon hig tō hys leorningcnyhtum, Hwī ytt ēower Lārēow mid mānfullum and synfullum?[10]
+
+12. And sē Hǣlend cwæð, þis gehȳrende, Nys hālum lǣces nān þearf, ac sēocum.[11]
+
+13. Gāð sōðlīce and leornigeaþ hwæt is, Ic wylle mildheortnesse, næs onsægdnesse;[12] sōþlīce ne cōm ic rihtwīse tō gecīgeanne, ac þa synnfullan.[13]
+
+Đis [godspel] sceal on frīgedæg on þǣre ōðre ēasterwucan.
+
+14. Þā genēalǣhton Iohannes leorningcnihtas tō hym, and þuss cwǣdon, Hwī fæste wē and þā sundorhālgan gelōmlīce? sōþlīce þīne leorningcnihtas ne fæstað?[14]
+
+15. And sē Hǣlend cwæð tō him, Cweþe ge sceolun þæs brȳdguman cnihtas wēpan, þā hwīle þe sē brȳdguma mid hym byþ? sōðlīce þā dagas cumað þæt sē brydguma byð āfyrred fram him, and þonne on ðām dagum hig fæstað.[15]
+
+16. Ne dēþ witodlīce nān man nīwes clāðes scyp on eald rēaf; hē tōbrycð hys stede on þām rēafe, and sē slite byþ þē wyrsa.[16]
+
+17. Nē hig ne dōð nīwe wīn on ealde bytta; gyf hī dōð, þā bytta bēoþ tōbrocene, and þæt wīn āgoten, and þā bytta forwurþað. Ac hig dōð nīwe wīn on nīwe bytta, and ǣgðer byþ gehealden.[17]
+
+Đis [godspel] sceal on sunnandæg on þǣre fīf and twēntugoðan wucan ofer pentecosten.
+
+18. Đā [hē][18] þās þing tō him spræc, þā genēalǣhte ān ealdor, and geēaðmēdde hyne tō him, þus cweðende, Drihten, mīn dohtor is dēad; ac cum, and sete þīne hand uppan hig, and hēo lyfað.[19]
+
+19. And sē Hǣlend ārās and fyligde hym, and hys leorningcnihtas.[20]
+
+20. And þā ān wif þe þolode blōdryne twelf gēar genēalǣhte widæftan, and æthrān hys rēafes fnæd;[21]
+
+21. hēo cwæð sōðlīce on hyre mōde, For ān ic bēo hāl, gyf ic hys rēafes æthrīne.
+
+22. And sē Hǣlend bewende hyne and hig geseah, and cwæð, Gelȳf, dohtor; þīn gelēafa þē gehǣlde. And þæt wīf wæs gehǣled on þǣre tīde.[22]
+
+23. And þā sē Hǣlend cōm intō þæs ealdres healle, and geseah hwistleras, and hlȳdende menigeo,[23]
+
+24. hē cwæð, Gāð heonun; nys þys mǣden dēad sōðlīce, ac hēo slǣpð. And hig tǣldon hyne.[24]
+
+25. And þā hē þā menigeo ūt ādrāf, hē geēode in, and nam hyre hand; and þæt mǣden ārās.[25]
+
+26. And þēs hlīsa sprang ofer eall þæt land.[26]
+
+
+
+Đis [godspel] sceal on wōdnesdæg on þǣre xiii. wucan ofer pentecosten.
+
+27. Þā sē Hǣlend þanun fōr, þā fyligdun hym twēgyn blinde, hrȳmynde and cweðende, Lā Dauides sunu, gemiltsa unc.[27]
+
+28. Sōðlīce þā hē hām cōm, þā blindan genēalǣhton tō him, and sē Hǣlend cwæð tō him, Gelȳfe gyt þæt ic inc mæg gehǣlan? Hig cwǣdon tō hym, Witodlīce, Drihten.[28]
+
+29. Đā æthrān hē hyra ēagena, cweðynde, Sȳ inc æftyr incrun gelēafan.[29]
+
+30. And hyra ēagan wǣrun ontȳnede. And sē Hǣlynd bebēad him, cweþende, Warniað þæt gē hyt nānum men ne secgeon.[30]
+
+31. Hig sōðlīce ūt gangynde gewīdmǣrsudun hyne ofer eall þæt land.[31]
+
+32. Đā hig wǣron sōðlīce ūt āgāne, hig brōhton him dumbne man, sē wæs dēofulsēoc.[32]
+
+33. And ūt ādryfenum þām dēofle, sē dumba spræc; and þā menigeo wundredon, cweðende, Nǣfre ætȳwde swylc on Israhela folce.[33]
+
+
+
+34. Sōþlīce þā sundorhālgan cwǣdon, On dēofla ealdre hē drīfð ūt dēoflu.[34]
+
+35. And sē Hǣlend ymbfōr ealle burga and ceastra, lǣrende on hyra gesomnungum, and bodiende rīces godspell, and hǣlende ǣlce ādle and ǣlce untrumnesse.[35]
+
+36. Hē gemiltsude sōðlīce þǣre menigeo, þā hē hī geseah, for þan hig wǣrun gedrehte, and licgende swā swā scēap þe hyrde nabbað.[36]
+
+37. Þā hē sǣde hys leorningcnihtun, Witodlīce micel rip ys, and fēawa wyrhtyna.[37]
+
+38. Biddaþ ðæs ripes hlāford þæt hē sende wyrhtan tō his ripe.[38]
+
+
+
+
+
+↑ Corp., cestre, A, B, ceastre.
+
+↑ A, heora; Corp., cw̄, A, B, cwæð.
+
+↑ A, B, om. hig; A, sprycð.
+
+↑ A, heora.
+
+↑ A, B, cweðanne (twice).
+
+↑ A, forgifanne; A, B, aris nym (om. and).
+
+↑ A, mænio; A, wuldredon.
+
+↑ þanen; A, tollsceamole.
+
+↑ A, comon; A, and myd hys leorningcnihtum.
+
+↑ A, sunderhalga; Corp., A, B, ys (for ytt).
+
+↑ B, þiss.
+
+↑ A, leorniað; A, myldheortnysse; A, onsægednysse.
+
+↑ A, synfullan.
+
+↑ Corp., þuss, A, B, þus; Corp., cweþende (corrected into cwædon); A, sunder-.
+
+↑ A, sceolon.
+
+↑ A, mann; Corp., on eald (on supplied above the line), B, om. on; A, styde.
+
+↑ B, ealde; A, forweorðað, B, forwurdað.
+
+↑ Corp., B, om. he, A, he.
+
+↑ A, leofað.
+
+↑ A, and þa se hælend.
+
+↑ A, ðolede, B, þolude.
+
+↑ B, gehælyd.
+
+↑ B, hælynd; B, hlydynde; A, mænio.
+
+↑ A, and cwæð; A, heonon; A, soðlice heo slæpð (om. ac); B, hi tældun.
+
+↑ A, mænio; Corp., geode, A, B, eode.
+
+↑ B, ofyr.
+
+↑ B, hælynd; A, þanon; A, fyligdon; A, twegen; A, hrymende; B, cweþynde; B, dauidys; A, me (for unc).
+
+↑ B, genealæhtun; A, mæge; B, cwædun; B, dryhtyn; A, Dryhten þu myht.
+
+↑ A, eagan cweðende sig inc æfter eorum geleafan; B, incrun (eow written above it).
+
+↑ A, heora; A, wæron; B, ontynyde; A, hælend; Corp., cwþende, A, cweðende, B, cweðynde; A, secgon.
+
+↑ A, -ende gewydmærsodon; B, ofyr.
+
+↑ B, hi wærun; B, hi brohtun; A, dumne; A, deofol-.
+
+↑ A, duma; A, seo mænio; B, wundrudun; A, ysraela, B, israela.
+
+↑ A, sunder-, B, sundur-; B, cwædun.
+
+↑ B, hælynd; B, embfor; A, heora; A, bodigende, B, bodiynde; A, B, godspel; A, B, -nysse.
+
+↑ A, gemyltsode þære mænio (om. soðlice); A, for ðam ðe hig wæron; A, om. swa swa.
+
+↑ A, -cnyhtum; A, wyrhtena.
+
+↑ B, ripys hlafurd; B, wyryhtan.
+
+
+
+
+
+CAPUT X
+
+
+
+1. And tōsomne gecīgydum hys twelf leorningcnihtun, hē sealde him unclǣnra gāsta anweald, þæt hig ādryfun hig ūt, and hǣldun ādle and ǣlce untrumnysse.[1]
+
+2. Đis synt sōðlīce þǣra twelf apostola naman: Sē forma ys Simon þe ys genemned[2] Petrus, and Andreas hys brōðor; Iacobus Zebedei, and Iohannes hys brōður.[3]
+
+3. Philippus, and Bartholomeus; Thomas, and Matheus, publicanus; and Iacobus Alphei, and Taddeus.[4]
+
+4. Simon Chananeus, and Iudas Scarioth þe hyne belǣwde.
+
+5. Ðās twelf sē Hǣlynd sende, him bebēodende and cweþende, Ne fare gē on þēoda weg, and ne gā gē innan Samaritana ceastre;[5]
+
+6. ac gāð mā tō þām scēapun þe forwurdun Israhela hīwrǣdene.[6]
+
+7. Sē Hǣlend cwæþ tō hys leorningcnihton, Gāð, and bodiaþ, cweþende þæt heofona rīce genēalǣcþ.[7]
+
+8. Hǣlað untrume, āwecceað dēade, clǣnsiað hrēofle, drīfað ūt dēoflu; gē onfēngun tō gyfe, syllað tō gyfe.[8]
+
+9. Næbbe gē gold, nē seolfer, nē feoh on ēowrum bigyrdlum;[9]
+
+10. nē codd on wege, nē twā tunecan, nē gescȳ, nē gyrde; sōþlīce sē wyrhta ys wyrþe hys metys.[10]
+
+11. On swā hwylce burh oððe ceastre swā gē in gāð, āhsiað hwā sī wyrðe on þǣre; and wuniaþ ðǣr, oð gē ūt gān.[11]
+
+12. Þonne gē in gān sōþlīce on þæt hūs, grētað hit, cweðende, Sȳ syb þisun hūse.[12]
+
+13. And gyf þæt hūs witodlīce wyrþe byð, ēower syb cymð ofer hyt; gyf hyt sōðlīce wyrþe ne byð, ēowur syb byð tō ēow gecyrred.[13]
+
+14. And swā hwā swā ēow ne underfēhð, nē ēowre sprǣca ne gehȳrð, þonne gē ūt gān of ðām hūse oððe of ðǣre ceastre, āsceacaþ þæt dūst of ēowrum fōtum.[14]
+
+15. Sōþlīce ic ēow secge, Ācumenlīcre byð Sodoma lande and Gomorra on dōmes dæg, þonne ðǣre ceastre.[15]
+
+Ðys godspel sceal tō manegra martyra mæssedæge.
+
+16. Nū ic ēow sende swā scēap gemang wulfas; bēoþ eornustlīce glēawe swā nǣddran, and bylwite swā culfran.[16]
+
+17. Warniað ēow sōþlīce fram mannum; hig syllaþ ēow sōþlīce on gemōtum, and swingað ēow on hyra gesomnungum.[17]
+
+18. And gē bēoþ gelǣdde tō dēmun and tō cyningun for mē, tō hyra dōme and þēodun.[18]
+
+19. Þonne belǣwaþ [hig and] syllað ēow, ne þence gē hū oððe hwæt gē sprecun; ēow byð geseald sōþlīce on þǣre tīde hwæt gē sprecun.[19]
+
+20. Ne synt gē nā þe þǣr sprecað, ac ēowres Fæder Gāst þe sprycð on ēow.[20]
+
+21. Sōþlīce brōþur sylþ hys brōður tō dēaðe, and fæder hys sunu; and bearn ārīsaþ ongēn māgas, and tō dēaþe hī fordōþ.[21]
+
+22. And gē bēoþ on hatunge eallum mannum for mīnum naman; soðlīce sē [ðe] þurhwunaþ oð ende sē byþ hāl.[22]
+
+23. Đonne hī ēow ēhtaþ on þysse byrig, flēoþ on ōþre; and ðonne hī on þǣre ēow ēhtaþ, flēoþ on þā þryddan. Sōþlīce ic ēow secge, Ne befaraþ gē Israhela burga, ǣr þan þe mannes Sunu cume.[23]
+
+24. Nys sē leorningcniht ofer hys lārēow, nē þēow ofer hys hlāford.[24]
+
+
+
+25. Genōh byþ sōþlīce þām leorningcnihte þæt hē sȳ swylce hys lārēow, and þēow swylce hys hlāfurd. Gyf hī þæs hīredes fæder Belzebub clypedon, mycle swȳþur hig ēow clypiað.[25]
+
+Đys godspel gebyrað tō ānes confessores mæssedæge.
+
+26. Eornustlīce ne ondrǣde gē hig; nys sōþlīce nān þing dȳhle þæt ne wurðe geswutelod, nē nān dīhle þing þæt ne wurðe geopenod.[26]
+
+27. Đæt ic ēow secge on þȳstrum, secgað hyt on lēohte; and þæt gē on ēare gehȳrað, bodiaþ uppan hrōfum.
+
+28. And ne ondrǣde gē þā ðe ēowyrne līchaman ofslēaþ; ne magon hig sōþlīce þā sāwle ofslēan; ac ondrǣdað mā þone þe mæg sāwle and līchaman fordōn on helle.[27]
+
+29. Hū ne becȳpað hig twēgen spearwan tō peninge? and ān of ðām ne befylð on eorðan būtan ēowrun Fæder.[28]
+
+30. And sōþlīce ealle ēowres hēafdes loccas synt getealde.[29]
+
+31. Ne ondrǣde gē; gē synt sēlran þonne manega spearuan.[30]
+
+32. Ǣlcne eornustlīce þe mē cȳþ beforan [31] mannun, ic cȳþe hyne beforan mīnun Fæder þe on heofenum ys.[32]
+
+33. Sē þe mē wiðsæcð beforan mannun, and ic wiþsace hyne beforan mīnum Fæder þe on heofenum ys.[33]
+
+34. Ne wēne gē þæt ic cōme sybbe on eorþan tō sendanne; ne cōm ic sybbe tō sendanne, ac swurd.[34]
+
+35. Ic cōm sōþlīce mann āsyndrian ongēn hys fæder, and dohtur ongēn hyre mōdur, and snore ongēn hyre swegre;[35]
+
+36. and mannes fȳnd, hys gehūsan.
+
+Đys godspel gebyrað tō ānes martyres mæssedæge.
+
+37. Sē Hǣlend cwæð tō hys leorningcnihtum, Sē þe lufaþ fæder oððe mōdor mā þonne mē, nys hē mē wyrþe; and sē ðe lufað sunu oððe dohtor swȳþur þonne mē, nys hē mē wyrþe.[36]
+
+38. And sē þe ne nimþ hys cwylminge, and fyligþ mē, nys hē mē wyrþe.[37]
+
+39. Sē þe gemēt hys sāwle sē forspilþ hig; and sē þe forspilþ hys sāwle for mē, hē gemēt hī.[38]
+
+40. Sē þe ēow underfēhþ, hē underfēhð mē; and sē ðe mē underfēhþ, hē underfēhð þone þe mē sende.
+
+41. Sē þe underfēhð wītegan on wītegan naman, hē onfēhþ wītygan mēde; and sē þe underfēhþ rihtwīsne on rihtwīses naman, hē onfēhþ rihtwīses mēde.[39]
+
+42. And swā hwylc swā sylþ ānne drinc cealdes wæteres ānum þyssa lȳtylra manna on leorningcnihtes naman, sōþ ic secge ēow, Ne āmyrð hē hys mēde.[40]
+
+
+
+
+
+↑ A, gecigedum; A, -cnyhtum; A, heom; A, adryfon; A, hældon ælce adle and ælce.
+
+↑ B, genemnyd.
+
+↑ A broðer (twice), B, broþur (twice).
+
+↑ B, Mattheus; Corp., B, puplicanus, A, publicanus; A, alfei.
+
+↑ A, hælend; B, bebeodynde and cweþynde; A, faron; A, samaritanan.
+
+↑ A, sceapum þe forwurdon; B, israela; A, hywræddene, B, hiwrædyne.
+
+↑ B, hælynd; A, -cnyhtum, B, -cnyhtun; B, cweþynde; A, heofena; A genealæceð.
+
+↑ A, hreofe, B, hreofle (l above the line); A, onfengon.
+
+↑ A, seolfor; B, eowrūn; A, byggyrdlum,B, bigyrdlun.
+
+↑ Corp., B, wyryhta, A, wyrhta; A, metes.
+
+↑ A, An (for On; illuminated A); B, buruh; A, acsiað; B on þere; A, þar.
+
+↑ A, þænne; A, þyssum, B, þysun.
+
+↑ A, cymeð; B, ofyr; A, eower.
+
+↑ B, ceastere; B, ascecað.
+
+↑ Corp., B, acumendlicre, A, acumenlicre.
+
+↑ A, eornostlice; B nædran; A, bylewite.
+
+↑ B, om. soðlice on gemotum . . . eow (homœoteleuton; supplied on the margin); A, heora; Corp., gesomnuncgum (c dotted for deletion).
+
+↑ A, demum; A, cyningum; A, domum and þeodum.
+
+↑ Corp., B, om. hig and, A, hig and; A, sprecon (twice).
+
+↑ A, B, synd; A, þar.
+
+↑ A, broðer (twice); A, ongean.
+
+↑ A, hatunga; Corp., B, om. ðe, A, ðe; A, Amen at the end of the verse.
+
+↑ A, Đonne ge (ge for hi); A, ær þam þe.
+
+↑ B, ofyr (first time); B, hlafurd.
+
+↑ A, hlaford; B, clypodun; A, swyðor, B, swiþur.
+
+↑ A, eornostlice; A, ondrædon; A, digle; A, weorðe (twice); A, dygle.
+
+↑ A, B, eowerne; B, magun.
+
+↑ B, becipað hi twegen spearuan; A, eowrum; B, fædyr.
+
+↑ B, heafudes; A, synd.
+
+↑ A, synd; A, spearwan.
+
+↑ A, eornostlice; A, mannum.
+
+↑ A, mynum; B, heofenun.
+
+↑ A, mannum; B, minun; B, heofenun.
+
+↑ A, sweord.
+
+↑ A, ongean (three times); A, dohtor; A, moder; A, swegran.
+
+↑ B, -cnihtun; A, moder, B, modur; A, dohter, B, dohtur.
+
+↑ B, fylgþ.
+
+↑ B, saule (twice).
+
+↑ B, witygan (three times), A, wytegan (second time), witegan (first and third times).
+
+↑ B, wæterys anun; A, lytelra.
+
+
+
+
+
+CAPUT XI
+
+
+
+1. And hyt wæs geworden, þā sē Hǣlynd þys geendude, hys twelf leorningcnihtum bebēodende, hē fōr þanun þæt hē lǣrde and bodude on hyra burgum.[1]
+
+Đys [godspel] gebyrað on þǣre ǣrran wucan ǣr mydawyntra.
+
+2. Þā Iohannes on bendum gehȳrde Crīstes weorc, þā sende hē tō him twēgen hys leorningcnihta,[2]
+
+3. and cwæð, Eart þū þe tō cumenne eart, oððe wē ōþres sceolon ābīdan?
+
+
+
+4. Sē Hǣlend andswarude and cwæð tō him, Gāþ, and cȳþaþ Iohanne þā ðing þe gē gehȳrdon and gesawōn:[3]
+
+5. blinde gesēoþ, healte gāð, hrēofe synt āclǣnsude, dēafe gehȳraþ, dēade ārīsað, þearfan bodiað.[4]
+
+6. And ēadig ys sē þe ne swicað on mē.
+
+7. Đā hī ūt ēodon, sōþlīce þā ongan sē Hǣlynd secgan be Iohanne and cwæþ tō þǣre menigeo, Hwī ēode gē ūt on wēsten gesēon winde āwegyd hrēod?[5]
+
+8. Oððe hwī ēode gē ūt gesēon mann hnescum gyrlum gescrȳdne? Nū þā þe synt hnescum gyrlum gescrȳdde synt on cyninga hūsum.[6]
+
+9. Ac hwæt ēode gē ūt wītegan gesēon? Ic ēow secge, Ēac māran þonne wītegan.
+
+10. Đēs ys sōþlīce be þām āwryten ys, Nū ic sende mīnne engyl beforan þīne ansȳne, sē gegearwað þīnne weg beforan þē.[7]
+
+11. Sōþlīce ic ēow secge, Ne ārās betwyx wīfa bearnum māra Iohanne fulwihtere; sōðlīce sē þe lǣssa ys ys on heofena rīce him māra.[8]
+
+12. Sōþlīce fram Iohannes dagum fulwihteres[9] oð þis heofena rīce þolað nēad, and strece nimað þæt.[10]
+
+13. Sōþlīce ealle wītegan and ǣ wītegudun oð Iohannes.[11]
+
+14. And gyf gē wyllað gelȳfan, hē ys Helias þe tō cumenne ys.[12]
+
+15. Sē ðe ēaran hæbbe tō gehȳrynne, gehȳre.[13]
+
+16. Sōþlīce hwām telle ic þās cnēorysse gelīce? Hēo ys gelīc sittendum cnapun on foretīge; þā hrȳmað tō hyra efengelīcon,[14]
+
+17. and cweþað, Wē sungun ēow, and gē ne frīcudun; we cwīþdun, and gē ne wēopun.[15]
+
+18. Sōþlīce Iohannes cōm nē etende nē drincende, and hī cwǣdun, Hē hæfð dēofulsēocnysse.[16]
+
+19. Mannes Sunu cōm etende and dryncynde, and hī cweðaþ, Hēr ys ettul mann and wīndrincende, mānfulra and synfulra frēond! And wīsdōm ys gerihtwīsud fram heora bearnum.[17]
+
+Đys godspel gebyrað on frīgedæg on þǣre þrȳttēoþan wucan ofer pentecosten.
+
+20. Đā ongan hē hyspan þā burga on þām wǣrun[18] gedōne manega hys mægena, for þām þe hī ne dydon dǣdbōte.[19]
+
+21. Wā þē, Corozaim! wā þē, Bethsaida! for þām gyf on Tyro and Sydone wǣrun gedōne þā mægnu þe gedōne synt on ēow, gefyrn hī dydun dǣdbōte on hǣran and on axan.[20]
+
+22. Đēah ic secge inc, Tyro and Sydone byþ forgifenlīcor on dōmes dæg þonne ēow.[21]
+
+23. And þū Capharnaum, cwyst þū byst þū ūp āhafen oþ heofen? ac þū nyþer færst oþ helle; for þām gyf on Sodomum wǣron gedōne þā mægnu þe gedōne synt on þē, witodlīce hī wunedun oþ þysne dæg.[22]
+
+24. Đēah hwæþere ic secge ēow þæt Sodumwara lande byð forgyfenlīcre on dōmes dæg þonne þē.[23]
+
+Đys [godspel] sceal on wōdnesdæg on þǣre syxtan wucan ofer pentecosten.
+
+25. Sē Hǣlynd cwæð andswariende, Ic andytte þē, Drihten heofenes and eorþan, þū þe behȳddyst þās þing fram wīsun and glēawun, and onwruge þā lȳtlingun;[24]
+
+
+
+26. swā, Fæder, for þām hyt wæs swā gecwēme beforan þē.[25]
+
+27. Ealle þing mē synt gesealde fram mīnum Fædyr; and nān mann ne can þone Sunu, būtun Fadyr; nē nān mann ne can þone Fædyr, būtun Sunu, and þām þe sē Sunu wyle onwrēon.[26]
+
+28. Cumaþ tō mē, ealle þe swincað and gesȳmede synt, and ic ēow geblissige.[27]
+
+29. Nimaþ mīn geoc ofer ēow, and leorniaþ æt mē; for þām ic eom bilwite and ēadmōd on heortan; and gē gemētað reste ēowrum sāwlum.[28]
+
+30. Sōþlīce mīn geoc ys wynsum, and mīn byrþyn ys lēoht.[29]
+
+
+
+
+
+↑ A, hælend; A, geendade; B, -cnihtun; A, þanon; A, bodode; A, heora; B, burgun.
+
+↑ B, bendun; Corp., B, weoruc, A, weorc.
+
+↑ Corp., antswarude, B, and-, A, andswarode; B, gehyrdun and gesawun.
+
+↑ A, synd geclænsode.
+
+↑ B, eodun; A, B, hælend, A, mænio; Corp., B wesðen; A, aweged.
+
+↑ A, man; A, synd (twice); B, cynega husun.
+
+↑ A, engel.
+
+↑ A, betwux; B, bearnun; A, mare; A, fulluhtere; A, læsse.
+
+↑ B, iohannys dagun; A, fulluhteres.
+
+↑ B, heofenan.
+
+↑ A, witegodon.
+
+↑ A, elias; A, cumene, B, cumynne.
+
+↑ A, gehyranne.
+
+↑ B, sittyndun; A, cnapan; A, heora; A, efengelicum, B, efyngelicun.
+
+↑ A, sungon; A, fricedan; A, cwyðdan; A, weopon.
+
+↑ B, drincynde; A, cwædon; A, deofel-.
+
+↑ A, dryncende, B, drincende; A, etul; A, B, man; B, -drincynde; A, geryhtwysod; A, hyra.
+
+↑ A, wæron.
+
+↑ A, mægnu, B, mægenu; B, dydun.
+
+↑ A, wæron; A, mægenu; A, synd; A, dydon; A, acsan.
+
+↑ A, Đeh; Corp., B, forgyfendlicur, A, forgifenlicor; B, domys.
+
+↑ B, heofon; A, sodom, B, sodoma lande (-doma lande on an erasure); B, mægenu; A, synd; A, wunedon.
+
+↑ A, sodomwara; B, domys.
+
+↑ A, hælend; A, andswarigende; A, andette; B, heofunys; A, behyddest; A, wisum and gleawum; A, onwrige; A, lytlingum.
+
+↑ B, fædyr; A, gecweme me (for gecweme).
+
+↑ A, synd; B, minun; A, fæder (three times); A, B, man (twice); A, suna (first time); A, butan (twice).
+
+↑ A, cumað ealle to me (changed order); A, synd.
+
+↑ A, bylewite; B, saulum.
+
+↑ A, byrðen.
+
+
+
+
+
+CAPUT XII
+
+
+
+Ðys [godspel] sceal on frȳgedæg on þǣre eahtoðan wucan ofer pentecosten.
+
+1. Sē Hǣlynd fōr on restedæge ofyr æcyras; sōþlīce hys leorningcnihtas hingryde, and hig ongunnun pluccian þā ēar, and ǣtan.[1]
+
+
+
+2. Sōþlīce þā ðā sundorhālgan þæt gesāwon, hī cwǣdon tō him, Nū þīne leorningcnihtas dōð þæt him ālȳfyd nys restedagun tō dōnne.[2]
+
+3. And hē cwæþ tō him, Ne rǣdde gē hwæt Dauid dyde, þā hyne hingrede, and þā ðe mid hym wǣrun;[3]
+
+4. hū hē in ēode on Godes hūs, and ǣt þā offringhlāfas þe nǣrun him ālȳfede tō etynne nē þām þe mid him wǣrun, būtun þām sācerdum ānum?[4]
+
+5. Oððe ne rǣdde gē on þǣre ǣ þæt þā sācerdas on restedagum on þām temple gewemmað þone restedæg, and synt būtan leahtre?[5]
+
+6. Ic secge sōðlīce ēow þæt þēs ys mǣrra þonne þæt templ.[6]
+
+7. Gyf gē sōðlīce wistun hwæt ys, Ic wylle mildheortnesse and nā onsægdnysse, ne genyþrude gē ǣfre unscyldige.[7]
+
+8. Sōðlīce mannes Sunu ys ēac restedæges hlāfurd.[8]
+
+9. Ðā sē Hǣlend þanun fōr, hē cōm intō hyra gesomnunge.[9]
+
+
+
+10. Þā wæs þǣr ān man sē hæfde forscruncene hand. And hī āhsudon hyne þus cweðende, Ys hyt ālȳfed tō hǣlenne on restedagum? þæt hī wrēhton hyne.[10]
+
+11. Hē sǣde him sōþlīce, Hwylc man ys of ēow þe hæbbe ān scēap, and gyf þæt āfylþ restedagum on pytt, hū ne nymþ hē þæt and hefþ hyt ūpp?[11]
+
+12. Witodlīce micle mā mann ys scēape betera! witodlīce ys ālȳfed on restedagum wel tō dōnne.[12]
+
+13. Đā cwæð hē tō þām menn, Āþene þīne hand. And hē hī āþenede; and hēo wæs hāl geworden swā sēo ōþer.[13]
+
+Đys [godspel] sceal on wōdnesdæg on þǣre xiiii. wucan ofer pentecosten.
+
+14. Þā sundorhālgan ēodun þā ūt sōþlīce, and worhton geþeaht ongēn hyne hū hī hyne forspildon.[14]
+
+15. Sē Hǣlend sōþlīce þæt wiste, and fērde þanon, and him fyligdon mycel mænigeo; and hē hǣlde hig ealle;[15]
+
+16. and bebēad him þæt hig hyt nānum men ne sǣdon:
+
+
+
+17. þæt wǣre gefylled þæt þe gecweden wæs þurh Isaiam þone wītegan, þus cweþende,[16]
+
+18. Hēr is min cnapa þone ic gecēas, mīn gecorena on þām wel gelīcode mīnre sāwle; ic āsette mīnne Gāst ofer hyne, and dōm hē bodað þēodum.[17]
+
+19. Ne flīt hē, nē hē ne hrȳmð; nē nān man ne gehȳrþ hys stemne on strǣton.[18]
+
+20. Tōcwȳsed hrēod hē ne forbrytt, and smēocende flex hē ne ādwǣscþ, ǣr þām þe hē āworpe dōm tō sige.[19]
+
+21. And on hys naman þēoda gehyhtað.
+
+Đys [godspel] sceal on þone þryddan sunnandæg innan lencten.
+
+22. Đā wæs him brōht ān dēofolsēoc man sē wæs blind and dumb; and hē hyne hǣlde, swā þæt hē spæc and geseah.[20]
+
+23. And þā menigeo ealle wundrudon, and cwǣdon, Cweðe wē is þēs Dauides sunu?[21]
+
+24. Sōþlīce þā þā sundorhālgan þis gehȳrdon, þā cwǣdon hig, Ne ādrīfþ ðēs dēoflu ūt, būton þurh Belzebub dēofla ealdre.[22]
+
+25. Sē Hǣlend sōþlīce wiste hyra[23] geþancas, and cwæð tō him, Ǣlc rīce þe byð twȳrǣde on him sylfum byþ tōworpen; and ǣlc ceaster oððe hūs þe byð wiþerweard ongēn hyt sylf, hyt ne stent.[24]
+
+26. And gyf sē deoful ādrīfð ūt þone dēoful, hig bēoþ tōdǣlede; hū mæg þonne his rīce standan?[25]
+
+27. And gyf ic þurh Belzebub ādrīfe ūt dēofla, þurh hwæne ādrīfað ēowre bearn? for þām hig sylfe bēoð ēowre dēman.
+
+28. Gyf ic sōþlīce on Godes Gāste āwurpe dēoflu, witodlīce on ēow becymð Godes rīce.
+
+29. Oþþe hū mæg man in gān on stranges hūs, and hys fata hyne berēafian, būton hē gebinde ǣrest þone strangan, and þonne hys hūs berēafige?[26]
+
+Ðys [godspel] sceal on wōdnesdæg on þǣre twelftan wucan ofer pentecosten.
+
+30. Sē þe nys mid mē, hē is ongēn mē; and sē þe ne gaderaþ mid mē, hē tōwyrpð.[27]
+
+31. For þām ic secge ēow, Ǣlc synn and bysmurspǣc byþ forgyfen mannum; sōþlīce þæs Hālgan Gāstes bysmurspǣc ne byð forgyfen. [28]
+
+32. And swā hwylc swā cwyð word ongēn mannes Sunu, him byð forgyfen; sē þe sōðlīce cwyþ ongēn[29] Hāligne Gāst, ne byð hyt hym forgyfen, nē on þisse worulde nē on þǣre tōweardan.[30]
+
+33. Oþþe wyrceað gōd trēow, and hys wæstm gōdne, oððe wyrceað yfel trēow, and hys wæstm yfelne; witodlīce be þām wæstme byð þæt trēow oncnāwen.[31]
+
+34. Lā gē nǣddrena cynryn, hū magon gē gōd sprecan, þonne gē synt yfele? sōþlīce of pǣre heortan willan sē mūþ spicþ.[32]
+
+35. Gōd mann sōþlīce of gōdum goldhorde bringþ gōd forð; and yfel mann of yfelum goldhorde bringð yfel forð.[33]
+
+36. Sōþlīce ic secge ēow þæt ǣlc īdel word þe menn specað, hī āgyldaþ gescēad be þām on dōmes dæge.[34]
+
+37. Sōþlīce of þīnum wordum þū byst gerihtwīsod, and of þīnum wordum þū byst genyðerod.
+
+Ðys [godspel] sceal on wōdnesdæg on þǣre forman lenctenwucan
+
+38. Þā andswarodun hym sume þā bōceras and þā sundorhālgan þus cweþende, Lārēow, wē willaþ sum tācn of þē gesēon.[35]
+
+
+
+39. Hē andswarode hym and cwæð, Yfel cnēorys and forliger sēcð tācn; and hyre ne byð nān tācn geseald, būton Ionas tācn þæs wītegan.[36]
+
+40. Witodlīce swā swā Ionas wæs on þæs hwæles innoþe þrȳ dāgas and þrēo niht, swā byþ mannes Sunu on eorþan heortan þrȳ dagas and þrēo niht.
+
+41. Niniuetisce weras ārīsað on dōme mid þysse cnēorysse, and hig genyþeriað hig; for þām þe hig dydon dǣdbōte on Ionas bodunge; and þēs ys māra þonne Ionas.
+
+42. Sūþdǣles cwēn ārīst on dōme mid þysse cnēorysse, and hēo genyþerað hig; for þām ðe hēo cōm fram landes gemǣrum tō gehȳranne Salomones wīsdōm; and þēs is māra þonne Salomon.[37]
+
+43. Sōþlīce þonne sē unclǣna gāst ūt færþ fram men, hē gǣð geond drīge stōwa, sēcende rest, and hē ne gemēt.[38]
+
+44. Þonne cwyþ hē, Ic gecyrre on mīn hūs þanon ic ūt ēode; and cumende hē gemēt hyt ǣmtig, and geclǣnsod mid besmum, and gefrætwod.[39]
+
+45. Ðonne gǣþ hē, and him tō genymþ seofun[40] ōþre gāstas wyrsan þonne hē, and in gangende hig eardigeað þǣr; and þonne wurðaþ þæs mannes ȳtemestan wyrsan þonne þā ǣrran. And swā byð þysse wyrrestan cnēorysse.[41]
+
+46. Đā hē þās þing þā gȳt spæc tō þām mænegum, þā stōd hys mōdor and his gebrōðra þǣr ūte, sēcende spæcon tō him.[42]
+
+47. Sōþlīce þā cwæþ sum tō him, Witodlīce þīn mōdur and þīne gebrōþra standaþ hēr ūte, þē sēcende.[43]
+
+48. And hē andswarode hym secgendum and cwæð, Hwylc ys mīn mōdur? and hwylce synt mīne gebrōþra?[44]
+
+49. And hē āþenede hys hand on his leorningcnihtas, and cwæð,[45]
+
+50. Witodlīce swā hwylc swā wyrcþ mīnes Fæder willan þe on heofenan is, he is mīn brōþur, and mīn swustor, and mōdor.[46]
+
+
+
+
+
+↑ A, hælend; A, restedæg; A, ofer; A, B, æceras; A, hingrede; A, hi ongunnon; A, etan.
+
+↑ A, sunder-; B, gesawun hi cwædun; A, heom alyfed; A, -dagum.
+
+↑ A, hingrode, B, hingryde; A, myd hyne wæron.
+
+↑ B, godys; A, næron; A, etanne; A, hym myd wæron buton (changed order); B, sacerdun anun.
+
+↑ A, om. þa; B, -dagun; A, synd.
+
+↑ A, tempel.
+
+↑ A, wyston; A, myldheortnysse, B, -nysse; A, genyðrade.
+
+↑ A, hlaford.
+
+↑ B, hælynd; A, þanen; A, heora gesamnunge.
+
+↑ A, þar; A, B, forscruncyne; A, acsodon; A, om. hyt; B, alyfyd; A, hælanne, B, hælynne; B, -dagun; B, wrehtun.
+
+↑ B, -dagun; A, he þæt an and; A, B, up.
+
+↑ A, mycele; A, man; B, alyfyd; B, -dagun.
+
+↑ A, men.
+
+↑ A, sunder-, B, sundur-; A, eodon; B, wurhton; A, ongean.
+
+↑ B, hælynd; A, þanen; A, mycele mænio.
+
+↑ A, om. þe; A, þur.
+
+↑ A, welgade (for wel gelicode).
+
+↑ A, strætum.
+
+↑ A, forbryt; A, adwæsceð; A, B, awurpe.
+
+↑ A, dum; A, spræc; B, spræc (r above the line).
+
+↑ A, mænio, B, mænigeo; A, wundredon, B, wundrodun.
+
+↑ A, sunder-; A, butan.
+
+↑ B, hælynd; A, heora.
+
+↑ A, ongean.
+
+↑ A, deofol (twice).
+
+↑ B, bereafigean.
+
+↑ A, ongean.
+
+↑ A, syn; A, bysmorspræc (twice), B, bysmoropræc (second r above the line; twice).
+
+↑ A, cwaeð (changed into cweð; twice); A, ongean (twice).
+
+↑ A, bissere.
+
+↑ A, wircað; Corp., weastm, A, B, wæstm; A, godne his wæstm (changed order); Corp., weastmme, A, wæstme, B, wæstmme; B, oncnæwen.
+
+↑ A, B, nedrena; A, cyn (for cynryn), B, cynnryn; A, synd; A, sprycð.
+
+↑ A, man (twice).
+
+↑ A, men; A, sprecað, B, sprecaþ (r above the line).
+
+↑ A, andswaredon; A, sunder-; A, tacen.
+
+↑ B, forliger (g above the line); A, tacen (last two times).
+
+↑ B, gehyrenne.
+
+↑ A, men; A, eond (for geond).
+
+↑ A, om. and (after æmtig), B, and (above the line); A, B, besemum; A, gefrætwad, B, gefrætuwod.
+
+↑ A, seofen.
+
+↑ A, eardiað þar; A, weorþað; B, cneoresse.
+
+↑ A, spræc, B, spræc (r above the line); A, moder; A, broðra; A, sprecan, B, spæcon (changed into sprecon).
+
+↑ A, moder.
+
+↑ A, moder; A, hylce (for hwylce); A, synd.
+
+↑ B, aþenude.
+
+↑ A, heofenum; A, broðer; A, swuster; A, and myn moder, B, and modur.
+
+
+
+
+
+CAPUT XIII
+
+
+
+1. On þām dæge þām Hǣlende ūt gangendum of hūse, hē sæt wiþ ðā sǣ.[1]
+
+
+
+2. And mycle mænigeo wǣron gesamnode tō hym, swā þæt hē ēode on scyp, and þǣr sæt; and eall sēo mænigeo stōd on þām waroþe.[2]
+
+3. And hē spræc tō hym fela on bigspellum, cweþende, Sōþlīce ūt ēode sē sǣdere hys sǣd tō sāwenne.[3]
+
+4. And þā þā hē sēow, sume hig fēollon wiþ weg; and fuglas cōmun, and ǣton þā.[4]
+
+5. Sōþlīce sume fēollon on stǣnihte, þǣr hyt næfde mycle eorþan; and hrædlīce ūp sprungon, for þām þe hig næfdon þǣre eorþan dȳpan.[5]
+
+6. Sōþlīce ūp sprungenre sunnan, hig ādrūwudon; and forscruncon, for þām þe hig næfdon wyrtrum.[6]
+
+7. Sōþlīce sume fēollon on þornas; and þā þornas wēoxon, and forþrysmudon þā.[7]
+
+8. Sume sōþlīce fēollon on gōde eorþan, and sealdon wæstm, sum hundfealdne, sum sixtigfealdne, sum þrīttigfealdne.[8]
+
+9. Sē þe hæbbe ēaran tō gehȳrenne, gehȳre.[9]
+
+10. And þā genēalǣhton his leorningcnihtas, and cwǣdon tō hym, For hwig spycst þū tō hym mid bigspellum?[10]
+
+11. Đā andswarode hē hym, For þām þe ēow is geseald tō witanne heofena rīces gerȳnu, and him nys nā geseald.
+
+12. Sōþlīce þām þe hæfþ, him byþ geseald, and hē hæfð; sōþlīce sē þe næfð, and þæt þe hē hæfð him bið ætbrōden.[11]
+
+13. For ðām ic spece tō him mid bigspellum; for þām þe lōciende hig ne gesēoþ, and gehȳrende hig ne gehȳraþ nē ne ongytaþ:[12]
+
+14. þæt on him sī gefylled Esaias wītegung, Of gehȳrnysse gē gehȳraþ, and gē ne ongytaþ; and lōciende gē gesēoþ, and [gē] ne gesēoð.[13]
+
+15. Sōþlīce þises folces heorte is āhyrd, and hig hefelīce mid ēarum gehȳrdon, and hyra ēagan beclȳsdon; þē lǣs hig ǣfre mid ēagum gesēon, and mid ēarum gehȳron, and mid heortan ongyton, and sīn gecyrrede, and ic hig gehǣle.[14]
+
+16. Sōþlīce ēadige synt ēowre ēagan, for þām þe hig gesēoþ; and ēowre ēaran, for þām þe hig gehȳraþ.[15]
+
+17. Sōþlīce on eornust ic ēow secge þæt manega wītegan and rihtwīse gewilnudon[16] þā þing tō gesēonne þe gē gesēoþ, and hig ne gesāwon; and gehȳran þā þing þe gē gehȳrað, and hig ne gehȳrdon.[17]
+
+18. Gehȳre gē sōþlīce þæs sāwendan bigspell.
+
+19. Ǣlc þǣra þe Godes word gehȳrð and ne ongyt, þonne cymþ dēoful and berēafað þæt on hys heortan āsawen is; þæt is sē þe wiþ ðone weg āsawen is.[18]
+
+20. Sōþlīce sē þe ofer þone stān āsawen is, þæt is sē þe þæt Godes word gehȳrð, and hrædlīce þæt mid blisse onfēhþ;[19]
+
+21. sōþlīce hyt næfþ þone wyrtrum on him, ac is hwīlwendlīc; gewordenre gedrēfednesse and ēhtnesse for þām worde, hrædlīce big bēoð geuntrēowsode.[20]
+
+22. Sōþlīce þæt þe āsawen is on þornum, þæt is sē þe þæt word gehȳrþ; and þonne geornfullnes þisse worulde and lēasung þissa woruldwelena forþrysmiaþ þæt word, and hit is būtan wæstme geworden.[21]
+
+23. Sōþlīce þæt þe āsawen[22] wæs on þæt gōde land, þæt is sē þe þæt word gehȳrþ and ongyt; and þone wæstm bringð, and þonne dēþ sum hundfealdne, sum sixtigfealdne, sum þrīttigfealdne.[23]
+
+24. Hē rehte him þā ōþer bigspel and þus cwæð, Heofona rīce is geworden þām men gelīc þe sēow gōd sǣd on his æcyre.[24]
+
+25. Sōþlīce þā þā men slēpon, þā cōm his fēonda sum, and ofersēow hit mid coccele on middan þām hwǣte, and fērde þanon.
+
+26. Sōþlīce þā sēo wyrt wēox, and þone wæstm brōhte, þā ætēowde sē coccel hine.[25]
+
+27. Þā ēodon þæs hlāfordes þēowas, and cwǣdon, Hlāford, hū ne sēow þū gōd sǣd on þīnum æcere? hwanon hæfde hē coccel?[26]
+
+28. Þā cwæþ hē, Þæt dyde unhold mann. Þā cwǣdon þā þēowas, Wylt þū wē gāð and gadriað hig?[27]
+
+29. Þā cwæð hē, Nese, þē lǣs gē þone hwǣte āwurtwalion, þonne gē þone coccel gadriað.[28]
+
+30. Lǣtað ǣgþer weaxan oð riptīman; and on þām riptīman ic secge þām rīperum, Gadriaþ ǣrest þone coccel, and bindaþ scēafmǣlum to forbærnenne; and gadriaþ ðone hwǣte intō mīnum berne.[29]
+
+
+
+31. Hē rehte him þā gȳt ōþer bigspel þus cweþende, Heofena rīce is geworden gelīc senepes corne þæt sēow sē man on hys æcre.[30]
+
+32. Þæt is ealra sǣda lǣst; sōþlīce þonne hit wyxþ, hit is ealra wyrta mǣst, and hit wyrþ trēow, swā þæt heofnan fuhlas cumaþ and eardiaþ on his bōgum.[31]
+
+33. Hē spræc tō him ōþer bigspel and þus cwæð, Heofena rīce is gelīc þām beorman þone þæt wīf onfēng and behȳdde on þrīm gemetum melwes, oð hē wæs eall āhafen.[32]
+
+34. Ealle þās þing sē Hǣlend spræc mid bigspellum tō þām weredum, and nān þing ne spræc hē būtan bigspellum:[33]
+
+35. þæt wǣre gefylled þæs wītegan cwyde, Ic ātȳne mīnne mūþ mid bigspellum; ic bodige dīgelnesse fram middaneardes gesetednesse.[34]
+
+36. Hē forlēt þā ðā mænegeo, and cōm tō his inne; and þā genēalǣhton tō him his leorningcnihtas, and cwǣdon, Ārece ūs þæt bigspell þæs hwǣtes and þæs coccles.[35]
+
+37. Þā andswarude hē him, Sē þe sēow þæt gōde sǣd sē is mannes Sunu.[36]
+
+
+
+38. Sōþlīce sē æcyr is þēs middangeard; þæt gōde sǣd, þæt synt þæs heofonlīcan rices bearn; sē coccel synt sōþlīce þā mānfullan bearn.[37]
+
+39. Sē unholda man sē þe þone coccel sēow, þæt is dēoful; sōðlīce þæt rip is worulde endung; þā rīperas synt englas.[38]
+
+40. Eornustlīce swā swā sē coccel byþ gegaderud and mid fȳre forbærned, swā byð on worulde endunge.[39]
+
+41. Mannes Sunu sent his englas, and hī gadriað of his rīce ealle gedrēfednesse, and þā þe unrihtwīsnesse wyrceað,[40]
+
+42. and āsendað hig on fȳres ofen; þǣr byþ wōp and tōþa grīstbitung.[41]
+
+43. Þonne scīnað ðā rihtwīsan swā swā sunne on hyra Fæder rice. [Gehȳre, sē ðe ēaran to gehȳranne hæfð.][42]
+
+Đys godspel sceal tō sancta Agnan mæssan.
+
+44. Heofona rīce is gelīc gehȳddum goldhorde on þām æcere; þone behȳt sē man þe hyne fint; and for his blysse gǣð and sylþ eall þæt hē āh, and gebigþ þone æcer.[43]
+
+
+
+45. Eft is heofena[44] rīce gelīc þām mangere þe sōhte þæt gōde meregrot;
+
+46. þā hē funde þæt ān dēorwyrðe meregrot, þā ēode hē and sealde eall þæt hē āhte, and bohte þæt meregrot.
+
+47. Eft is heofena rīce gelīc āsendum nette on þā sǣ, and of ǣlcum fisccynne gadrigendum;[45]
+
+48. þā hī þā þæt nett ūpp ātugon, and sǣton be þām strande, þā gecuron hig þā gōdan on hyra fatu; þā yflan hig āwurpon ūt.[46]
+
+49. Swā byþ on þisse worulde endunge; þā englas farað and āsyndriað þā yfelan of þǣra gōdra midlene,[47]
+
+50. and āworpað hig on þæs fȳres ofen; þǣr byð wōþ and tōða grīstbitung.[48]
+
+51. Ongyte gē ealle þās þing? Þā cwǣdon hig, Witodlīce wē hit ongytað.[49]
+
+52. Þā sǣde hē him, For þām is ǣlc gelǣred bōcere on heofenan rīce gelīc þām hīredes ealdre þe forð bringð of his goldhorde nīwe þing and ealde.[50]
+
+53. And hit wæs geworden, þā sē Hǣlend geendode þās bigspel, þā fērde hē þanone.[51]
+
+
+
+54. And þā hē cōm tō his earde, hē lǣrde hig on hyra gesamnungum, swā þæt hig wundredon and cwǣdon, Hwanon ys þysum þēs wisdōm and þis mægen?[52]
+
+55. Witodlīce þēs ys smiþes sunu; hū ne hātte hys mōdor Maria, and hys brōþru Iacob, and Ioseph, and Simon, and Iudas?[53]
+
+56. And hū ne synt ealle hys swustra mid ūs? Hwanon synt þisum ealle þās þing?[54]
+
+57. And hig wǣron geuntrȳwsode on him. Đā sōþlīce sǣde sē Hǣlend hym, Nys nān wītega būtan wurþscype, būton on hys earde and on hys hūse.[55]
+
+58. And hē ne worhte þǣr manega mægena, for hyra ungelēafulnysse.[56]
+
+
+
+
+
+↑ B, hælynde.
+
+↑ A, mycele; A, mænio (twice); A, gesomnode.
+
+↑ Corp., him to (marked for transposition); A, fæla; A, sawere (for sædere).
+
+↑ B, feollun; A, fugelas comon.
+
+↑ B, feollun; A, mycele.
+
+↑ A, adruwedon, B, adruwodun; A, wyrtruman.
+
+↑ B, feollun; A, forþrysmodon, B, forþrysmodun.
+
+↑ B, feollun; A, godre; Corp., weastm, A, B, wæstm; Corp., sum (above the line; last two times); A, þrytig-.
+
+↑ Corp., earan hæbbe (marked for transposition); A, gehyranne.
+
+↑ A, sprycst.
+
+↑ A, seald.
+
+↑ A, sprece; A, locigende.
+
+↑ B, -nesse; A, B, locigende; Corp., om. ge, A, B, ge.
+
+↑ A, hefilice; A, þy læs; A, oððe (for third and).
+
+↑ A, synd.
+
+↑ A, eornost; A, gewylnedon, B, gewilnodun.
+
+↑ B, gesawun; A, and to gehyranne (for and gehyran).
+
+↑ Corp., wurd, A, B, word; A, ongitt; A, deofol; A, om. þæt is se þe . . . asawen is (homœoteleuton).
+
+↑ Corp., wurd, A, B, word.
+
+↑ A, wyrtruman; A, -nysse (twice); Corp., wurde, A, B, worde.
+
+↑ Corp., wurd, A, B, word; Corp., eornfullness, A, eornfulnys, B, geornfullnes; A, weorulde; B, -welona; Corp., wurd, A, B, word; B, buton; Corp., weastme, A, B, wæstme.
+
+↑ A, þæt asawen (om. þe).
+
+↑ Corp., wurd, A, B, word; A, ongitt; Corp., weastm, A, B, wæstm; Corp., B, sixti-, A, syxtig-; Corp., þritti-, A, þryttig-, B, þriti-.
+
+↑ A, heofena; A, B, æcere.
+
+↑ Corp., weastm, A, B, wæstm; A, ætywde; B, cocel.
+
+↑ A, seowe.
+
+↑ A, B, man; A, gaderiað.
+
+↑ A, þy læs; A, awyrtwalion; A, gaderiað.
+
+↑ A, wexan; A, gaderiað (twice); A, B, forbærnanne; A, minon.
+
+↑ A, bigspell; B, heofona; A, æcere.
+
+↑ A, wyxt; A, heofenfugelas.
+
+↑ A, bigspell; B, heofona; A, melewes.
+
+↑ Corp., ne spræc (repeated; repetition dotted for deletion).
+
+↑ A, ontyne; A, digolnyssa (altered from deagolnysse); A, gesetednysse.
+
+↑ A, mænio, B, menegeo.
+
+↑ A, andswarode; B, seow (o above the line).
+
+↑ A, B, æcer; A, synd (twice); A, heofenlican.
+
+↑ B, sew; A, ryp ys þysre worulde; A, synd.
+
+↑ A, Eornostlice; A, gegaderod; A, geendunge.
+
+↑ A, hig gaderiað; A, gedrefednysse; A, unryhtwysnysse.
+
+↑ A, þar.
+
+↑ A, heora; A, Corp., om. Gehyre . . . hæfð, A, Gehyre se ðe earan to gehyranne hæfð, B, Gehyre . . . hæfð (by the same hand that has inserted the rubrics from A).
+
+↑ A, Heofena, B, Hefona.
+
+↑ B, hefona
+
+↑ B, heofona; A, gaderiendum.
+
+↑ A, heora; A, B, yfelan.
+
+↑ B, worolde.
+
+↑ B, awurpað; A, þar.
+
+↑ A, hig (for hit).
+
+↑ A, om. he; A, for þam ælc gelæred bocere on heofena rice byð gelyc (changed order); B, heofonan; Corp., of his (repeated; repetition dotted for deletion).
+
+↑ B, færde.
+
+↑ A, gesomnungum; A, þyssum.
+
+↑ A, witegere (for witodlice); A, moder; A, broðra; A, iosep.
+
+↑ A, synd; A, hwanen synd þyssum; A, þing geseald.
+
+↑ A, geuntreowsode; A, weorðscype.
+
+↑ A, þar; A, heora; A, B, ungeleaffulnysse.
+
+
+
+
+
+CAPUT XIV
+
+
+
+1. On þǣre tīde gehȳrde Herodes sē fēorðan dǣles rīca þæs Hǣlendes hlīsan.
+
+2. And þā sǣde hē his cnihtum, Þēs is Iohannes sē fulluhtere þe ic behēafdode; hē ārās of dēaþe; and for þan synd þās wundru gefremode on him.[1]
+
+
+
+3. Sōðlīce Herodes nam Iohannem, and geband hyne, and sette on cwertern for þām wife Herodiaden, Philippes hys brōþer.
+
+4. Iohannes him sǣde, Nys þē ālȳfed hī tō wīfe tō hæbbenne.[2]
+
+5. And þā hē hyne ofslēan wolde, hē ādrēd him þæt folc, for þām þe hig hæfdon hyne for ǣnne wītegan.[3]
+
+6. Đā on Herodes gebyrddæge tumbude þǣre Herodiadiscean dohtur beforan him; and hit līcode Herode.[4]
+
+7. Þā behēt hē mid āþe hyre tō syllenne swā hwæt swā hēo hyne bǣde.[5]
+
+8. Đā cwæð hēo, fram hyre mēder gemyngod, Syle mē on ānum disce Iohannes hēafod þæs fulluhteres.
+
+9. Đā wæs sē cyning geunrēt for þām āðe, and for þām þe him sǣton mid.[6]
+
+10. And hē āsende þā, and behēafdode Iohannem on þām cwerterne.[7]
+
+11. And man brōhte þā his hēafod on ānum disce, and sealde þām mǣdene, and þæt mǣden hyre mēder.[8]
+
+12. And þā genēalǣhton[9] his leorningcnihtas, and nāmon hys līchaman, and bebyrgdon hyne, and cōmon and cȳddon hyt þām Hǣlende.[10]
+
+13. Đā sē Hǣlend þæt gehȳrde, þā fērde hē þanon onsundron on ānum scype; and þā þā gangendan mænigeo þæt gehȳrdon, hig fyligdon him of þām burgum.[11]
+
+14. And þā hē þanon fērde, hē geseh mycele mænigu; and hē him gemiltsode, and gehǣlde þā untruman.[12]
+
+15. Sōðlīce þā hyt wæs ǣfen geworden, him tō genēalǣhton hys leorningcnihtas, and him tō cwǣdon, Đēos stōw ys wēste, and tīma is forð āgān; forlǣt þās mænegeo þæt hī faron intō þās burga and him mete bicgean.[13]
+
+16. Þā cwæð sē Hǣlend tō him, Nabbað hī nēode to farenne; sylle gē him etan.[14]
+
+17. Þā andswarodun hig, Wē nabbað hēr būtun fīf hlāfas and twēgen fixas.[15]
+
+18. Þā cwæð sē Hǣlend, Bringaþ mē hider þā.
+
+19. And þā hē hēt þā menegu ofer þæt gærs hī sittan; and hē nam þā fīf hlāfas and twēgen fixas, and beseah on þone heofon, and blētsiende bræc þā hlāfas, and sealde his leorningcnihtum, and hī þām folce.[16]
+
+
+
+20. And hī ǣton ealle and wǣron gefyllede; and hī nāmon þā lāfa, twelf wylian fulle þǣra gebrytsena.[17]
+
+21. Sōþlīce þǣra etendra getæl wæs fīf þūsenda wera, būtan wīfum and cildum.[18]
+
+Đys godspel sceal in octabas Petri et Pauli.
+
+22. And þā sōna hēt sē Hǣlend his leorningcnihtas on scyp āstīgan, and tōforan him faran ofer þone mūþan, oð þæt hē þā menegu forlēte.[19]
+
+23. And þā hē hig forlǣten hæfde, hē ēode on þone munt, and hyne þǣr āna gebæd; sōþlīce þā hyt ǣfen wæs, hē wæs āna þǣr.[20]
+
+24. Witodlīce wæs þæt scyp of þām ȳþum tōtorfod; for þām þe hyt wæs strang wind.[21]
+
+25. Þā cōm sē Hǣlend embe þone fēorþan hancrēd tō him, ofer þā sǣ gangende.[22]
+
+26. Đā hī gesāwon þæt, hī wurdon þā gedrēfede, and for þām ege clypodon and cwǣdon þus, Sōþlīce hyt ys scīnlāc.[23]
+
+27. Đā spræc sē Hǣlend and cwæþ, Habbaþ gelēafan; ic hyt eom; nellen gē ēow ondrǣdan.[24]
+
+28. Đā andswarode him Petrus and cwæð, [25] Drihten, gyf þū hyt eart, hāt mē cuman tō þē ofer þās wæteru.
+
+29. Đā cwæð hē, Cum tō mē. Đā ēode Petrus of þām scype ofer þæt wæter þæt hē tō þām Hǣlende cōme.[26]
+
+30. Þā hē geseh þone strangan wind, hē him ondrēd; ðā hē wearð gedofen, hē cwæð, Drihten, gedō mē hālne.[27]
+
+31. And þā hrædlīce hē gefēng hyne, and þus cwæð, Lā lȳtles gelēafan, hwī twȳnedest þū?[28]
+
+32. And þā hī wǣron on þām scype, geswāc sē wind.[29]
+
+33. Sōþlīce þā þe on þām scype wǣron cōmon, and tō him gebǣdon, and þus cwǣdon, Sōþlīce þū eart Godes Sunu.
+
+34. And þā hig ofer segelodon, hī cōmon on þæt land Genesareth.[30]
+
+35. And þā þæt folc hyne gecnēow, hī sendon geond eall þæt land, and brōhton tō him ealle untrume;[31]
+
+36. and hyne bǣdon þæt hig huruþinga his rēafes fnæd æthrinon; and swā hwylce his æthrinon wurdon hāle.[32]
+
+
+
+
+
+↑ A, for þam; A, wundra gefremede.
+
+↑ A, habbanne.
+
+↑ A, anne.
+
+↑ B, gebyrdæge; A, tumbade; A, herodiadiscan dohter.
+
+↑ A, syllanne.
+
+↑ A, geunrotsud.
+
+↑ A, cwearterne.
+
+↑ A, heafud.
+
+↑ B, genealæhtun.
+
+↑ A, bebyrigdon.
+
+↑ B, hælynd; A, þanen; A, B, mænigu.
+
+↑ A, þanen; A, geseah; B, manegu; A, gemyltsade.
+
+↑ A, mænygeo; B, mænegu; A, B, bicgan.
+
+↑ A, faranne.
+
+↑ A, andswaredon; A, buton.
+
+↑ A, mænegeo; A, bletsigende.
+
+↑ A, B, brytsena.
+
+↑ A, þusend.
+
+↑ B, leorningc-; A, mænigu, B, mænegu.
+
+↑ A, þar (second time).
+
+↑ A, totorfud.
+
+↑ A, ymbe; A, ofer þone sæ.
+
+↑ A, wurdon gedrefede (om. þa); A, clypedon; A, þus cwædon (changed order).
+
+↑ A, nellon.
+
+↑ A, Petrus hym (changed order).
+
+↑ A, com (for come).
+
+↑ A, geseah.
+
+↑ Corp., B, gefengc, A, gefeng; A, hwig tweonedest.
+
+↑ A, and þa he wæs on þam scype þa geswac se wynd; B, he (for hi).
+
+↑ A, seglodon; A, genezareth.
+
+↑ A, eond (for geond).
+
+↑ A, æthrynan; A, B, æthrynon (second time).
+
+
+
+
+
+CAPUT XV
+
+
+
+Ðys godspel gebyrað on þone þryddan wōdnesdæg innan lenctene.
+
+1. Ðā cōmon tō him fram Hierusalem þā bōceras and Fariseisce, and cwǣdon,
+
+2. Hwī forgȳmað þīne leorningcnihtas ūre yldrena lage? ne þwēað hī hyra handa, þonne hig mete þicgeað.[1]
+
+3. Đā andsworode hē him, And hwī forgȳme gē Godes bebod for ēowre lage?[2]
+
+4. Witodlīce God cwæþ, Wurþa þīnne fæder and mōdor; and, Sē þe wyrgð hys fæder and mōdor, swelte sē dēaþe.[3]
+
+5. Sōþlīce gē cweðaþ, Swā hwylc swā segð hys fæder and mēder, Swā hwylc lāc swā of mē is fremaþ þē;[4]
+
+6. and ne wurðiaþ fæder and mōdor. And gē for nāht dydon Godes bebod for ēowre lage.[5]
+
+7. La līcceteras, wel be ēow wītegode Isaias sē wītega, þā hē cwæð,[6]
+
+
+
+8. Þis folc mē mid welerum wurþað, and hyra heorte ys feorr fram mē;[7]
+
+9. būtan intingan hig mē wurþiaþ, and lǣrað manna lāra.[8]
+
+10. And hē þā, ðām menegum tōgædere geclypedum, þus cwæð, Gehȳrað and ongytaþ:[9]
+
+11. ne besmīt þone mann þæt on hys mūþ gǣþ; ac hyne besmīt þæt of hys mūþe gǣþ.[10]
+
+12. Þā genēalǣhton hys leorningcnihtas, and cwǣdon, Wāst þū þæt þā Fariseiscean synt gedrēfede, þisum worde gehȳredum?[11]
+
+13. Þā andswarode hē him, Ǣlc plantung þe mīn heofenlīca Fæder ne plantode byþ āwyrtwalod.[12]
+
+14. Lǣtað hī; hig synt blinde and blindra lāttēowas. Sē blinda gyf hē blindne lǣt, hig feallað bēgen on ǣnne pytt.[13]
+
+15. Đā andswarode him Petrus, Ārece ūs þis bigspell.[14]
+
+16. Đā andswarode hē him, And synt gē gȳt būtan andgyte?[15]
+
+17. Ne ongyte gē þæt eall þæt on þone mūþ gǣþ gǣþ on þā wambe, and byþ on forþgang āsend?
+
+
+
+18. Sōþlīce þā þing þe of þām mūðe gāþ cumað of þǣre heortan, and þā smītaþ þone mann.[16]
+
+19. Of þǣre heortan cumaþ yfle geþancas, mannslyhtas, unrihthǣmedu, forligru, stale, lēase gewitnyssa, tāllīce word:[17]
+
+20. þis synt þā ðing þe þone mann besmītað; ne besmīt þone mann, þēah hē unþwogenum handum ete.[18]
+
+Đys godspel gebyrað on þone forman þunresdæg innan lenctene.
+
+21. And þā fērde sē Hǣlend þanon on Tyrisce and Sydonisce endas.[19]
+
+22. And efne þā of þām Chananeiscum gemǣrum clypode sum wīf and cwæð, Drihten, Dauides sunu, gemiltsa mē; mīn dohtor ys yfle mid dēofle gedreht.[20]
+
+23. Þā ne geandswarode hē hyre. Þā genēalǣhton hys leorningcnihtas, and him tō cwǣdon, Forlǣt hig; for þām hēo clypað æfter ūs.
+
+24. Đā andswarode hē, Ne eom ic āsend, būton tō þām scēapum þe forwurdon of Israhela hūse.[21]
+
+25. Đā cōm hēo, and hig tō him gebæd and þus cwæð, Drihten, gefylst mē.[22]
+
+
+
+26. Đā cwæð hē, Nys hit nā gōd þæt man nime bearna hlāf and hundum wurpe.[23]
+
+27. Þā cwæþ hēo, Drihten, þæt ys sōð; witodlīce þā hwelpas etað of þām crumum þe of hyra hlāforda bēodum feallaþ.[24]
+
+28. Þā andswarode Drihten hyre, Ēalā þū wīf, mycel ys þīn gelēafa; gewurþe þē eal swā þū wylle. And þā of þǣre tīde wæs hyre dohtor hāl geworden.[25]
+
+29. Đā sē Hǣlend þanon fērde, eft hē cōm wiþ ðā Galileiscean sǣ; and āstāh on þone munt, and þǣr sæt.[26]
+
+30. Þā genēalǣhton him tō mycele menegu, mid him hæbbende manega healte, and blinde, and wanhāle, and manega ōþre, and ālēdon tō hys fōtum; and hē gehǣlde þā:[27]
+
+31. swā þæt þā mænegu wundredon, gesēonde dumbe specende, healte gangende, blinde gesēonde; and hig mǣrsodon Israhela God.[28]
+
+Đys godspel gebyrað on þǣre eahtoðan wucan ofer pentecosten.
+
+32. Þā cwæþ sē Hǣlend, tōgædere geclypedum his leorningcnihtum, Đisse menegu[29] ic gemiltsige, for þām hig þrȳ dagas mid mē wunodon, and hig nabbað hwæt hig eton; and ic hig nelle fæstende forlǣtan, þē lǣs hig on wege getēorian.[30]
+
+33. Đā cwǣdon hys leorningcnihtas, Hwār nime wē swa fela hlāfa on þīs wēstene, þæt wē gefyllan swā mycele mænegu?[31]
+
+34. Þā cwæð hē, Hū fela hlāfa hæbbe gē? Þā cwǣdon hig, Seofon, and fēawa fixa.[32]
+
+35. And hē bebēad þā þæt sēo menegu sǣte ofer þǣre eorþan;[33]
+
+36. and hē nam þā þā seofon hlāfas and þā fixas, and bræc, and sealde hys leorningcnihtum, and hig sealdon þām folce.[34]
+
+37. And hig ǣton ealle and wǣron gefyllede; and þæt tō lāfe wæs of þām gebrote hig nāmon, seofon wilian fulle.[35]
+
+38. Witodlīce þā [þe] þǣr ǣton wǣron fēower þūsend manna, būtan cildum and wīfum.[36]
+
+39. And hē forlēt þā þā menegu, and ēode on scyp, and cōm on þā endas Magedan.[37]
+
+
+
+
+
+↑ A, þonne hig heora mete þicgað (hig above the line).
+
+↑ A, B, andswarode; A, hym and cwæð for hwig forgime.
+
+↑ A, weorða; A, moder (twice); A, wyrigð.
+
+↑ Corp., om. swā segð . . . hwylc (homœoteleuton; then supplied); B, sægð.
+
+↑ A, B, weorþiað; A, moder.
+
+↑ A, lyceteras, B, liceteras.
+
+↑ A, B, weorþað; A, heora; A, feor.
+
+↑ A, weorþiað.
+
+↑ A, mænegum.
+
+↑ A, man; A, ut gæð (for gæþ).
+
+↑ A, fariseiscan synd; Corp., wurde, A, B, worde; A, gehyrendum.
+
+↑ A, answarede; B, heofonlica; Corp., B, awurtwalod, A, awyrtwalod.
+
+↑ A, synd; A, lattewas.
+
+↑ A, petrus and cwæð; A, bigspel.
+
+↑ A, synd; A, buta.
+
+↑ A, besmytað; A, man.
+
+↑ A, yfele, B, hyfele; A geþohtas (for geþancas); A, man-; B, forligru (g above the line); A, stala; A, -nessa; A, tællice.
+
+↑ A, synd; A, man (twice).
+
+↑ A, And þa se hælend ferde þanen (changed order).
+
+↑ A, dohter; A, B, yfele.
+
+↑ B, sceapun; A, on (for of).
+
+↑ A, gemyltsa (for gefylst).
+
+↑ Corp., cw̄., A, B, cwæþ; Corp., worpe, A, weorpe (changed from sylle), B, wurpe.
+
+↑ A, heora.
+
+↑ A, B, geweorþe; A, dohter.
+
+↑ A, þar.
+
+↑ A, B, mænigu; A, aluton (for aledon).
+
+↑ A, mænigu; A, sprecende, B, sprecende (r above the line).
+
+↑ A, geclypodum; A, mænigu.
+
+↑ A, wunedon; B, etun; A, þy læs; A, geteorion.
+
+↑ A, fæla; A, gefyllon; A, mænigu.
+
+↑ A, fæla; A, habbe; A, seofun.
+
+↑ A, mænio.
+
+↑ A, seofen.
+
+↑ A, and þar (for and þæt); B, (lafe (-fe above the line); A, seofen.
+
+↑ Corp., A, B, om. þe; A, butan wifum and cyldum (changed order).
+
+↑ A, mænigu; Corp., Magedon (with a above o), A, Magedon, B, Magedan.
+
+
+
+
+
+CAPUT XVI
+
+
+
+Đys [godspel] sceal on wōdnesdæg on þǣre eahtoðan wucan ofer pentecosten.
+
+1. And þā genēalǣhton him tō Farisei and Saducei, and hyne costodon and bǣdon þæt hē him sum tācen of heofone ætȳwde.[1]
+
+2. Þā andswarode hē him and cwæð, On ǣfen gē cweðaþ, Tō morgen hyt byþ smylte weder; þēs heofon ys rēad.[2]
+
+3. And on morgen gē cweþað, Tō dæg hyt byþ hrēoh weder; þēos lyft scīnð unwederlīce. Nū cunne gē tōcnāwan heofones hīw; witodlīce gē ne magon witan þǣra tīda tācnu.[3]
+
+4. Sēo yfele cnēoryss and unrihthǣmende tācen sēcþ; and hyre ne byð geseald būton Ionas tācen þæs wītegan. And him forlǣtenum, hē fērde.[4]
+
+5. And þā his leorningcnihtas cōmon ofer þone mūþan, hig forgēton þæt hig hlāfas nāmon.[5]
+
+6. And þā sǣde hē, Gȳmað and warniað fram beorman Fariseorum and Saduceorum.
+
+7. Þā ðōhton hig betwux him and cwǣdon, [Ne] nāmon wē hlāfas mid ūs.[6]
+
+
+
+8. Þā sē Hǣlend wiste hyra geþancas, hē cwæþ tō him, Hwæt þence gē betwux ēow, lȳtles gelēafan, þæt gē hlāfas nabbað?[7]
+
+9. Ne understande gē gȳt, nē gē ne geþenceað þǣra fīf hlāfa and fīf þūsend manna, and hū fela wyligena gē nāmon?[8]
+
+10. Nē þǣra seofon hlāfa and fēower þūsend manna, and hū fela wyligena gē nāman?[9]
+
+11. Hwī ne ongyte gē gȳt þæt ic ne sǣde be hlāfe, Warniað fram ðām beorman Fariseorum and Saduceorum?
+
+12. Þā ongēton hig þæt hē ne sǣde, Warniað fram hlāfa beorman, ac fram lāre Fariseorum and Saduceorum.[10]
+
+Đys godspel gebyrað on Petres mæssedæg.
+
+13. Witodlīce þā cōm sē Hǣlend on þā dǣles Cesareæ Philippi, and āhsode hys leorningcnihtas, Hwæne secgeað menn þæt sȳ mannes Sunu?[11]
+
+14. Đā cwǣdon hig, Sume, Iohannem þone fulluhtere; sume, Heliam; sume, Hieremiam, oðþe ān þǣra wītegyna.[12]
+
+
+
+15. Đā sǣde hē, Hwæt secge gē þæt ic sī?
+
+16. Đā andswarode him Petrus, Đū eart þæs lyfigendes Godes Sunu.[13]
+
+17. Þā andswarode him sē Hǣlend, Ēadig eart þū, Simon, culfran bearn; for þām hit þē ne onwrēah flǣsc nē blōd, ac mīn Fæder þe on heofenum ys.[14]
+
+18. And ic secge þē þæt þū eart Petrus, and ofer þisne stān ic timbrige mīne cyricean; and helle gatu ne magon ongēn þā.[15]
+
+19. And þē ic sylle heofona rīces cǣgia: and swā hwæt swā þū ofer eorþan gebindst, þæt byþ on heofonum gebunden; and swā hwæt swā þū unbindst ofer eorþan, þæt byð unbunden on heofonum. [16]
+
+20. Þā bebēad sē Hǣlend hys leorningcnihtum þæt hig nānum menn ne sǣdon þæt hē wǣre Hǣlend Crīst.[17]
+
+21. Syððan hē ongan swutelian hys leorningcnihtum þæt hē wolde faran tō Hierusalem, and fela þinga þolian fram yldrum, and bōcerum, and ealdormannum þǣra sācerda, and bēon ofslegen, and þȳ þryddan dæge ārīsan.[18]
+
+
+
+22. And þā genam Petrus hyne onsundron, and cwæð tō him, Drihten, ne gewurþe þæt.[19]
+
+23. Þā beseah hē hyne, and cwæð tō Petre, Gang bæftan mē, Satanas; wiþerrǣde þū eart mē, for þām þū nāst þā þing þe synd Godes, ac þā þe synt manna.[20]
+
+Đys godspel sceal on sancte Laurentius mæssedæg.
+
+24. Þā sǣde sē Hǣlend hys leorningcnihtum, Gyf hwā wylle fyligean mē, wiþsace hyne sylfne, and nyme hys rōde, and mē fylige.[21]
+
+25. Sōþlīce sē þe wyle hys sāwle hāle gedōn, hē hig forspilþ; and sē þe wyle hig for mē forspyllan sē hig fint.
+
+26. Hwæt fremað ǣnegum menn, þēah hē ealne middaneard gestrȳne, gyf hē hys sāwle forwyrd þolað? Oððe hwylc gewrixl sylþ sē mann for hys sāwle?[22]
+
+27. Witodlīce mannes Sunu ys tō cumenne on hys Fæder wuldre mid hys englum; and þonne āgylt ǣghwylcum be hys āgenum weorce.[23]
+
+Đys [godspel] sceal on sæternesdæg on þǣre forman lenctenwucan.
+
+28. Sōðlīce ic secge ēow, Sume synt[24] hēr dende þe dēaþ ne onbyrigeað, ǣr hig gesēon mannes Sunu cumende on hys Fæder rīce.[25]
+
+
+
+
+
+↑ A, costedon changed into (costnedon; n above the line); A, tacn; A, heofene.
+
+↑ B, æfyn; A, mergen; A, heofen.
+
+↑ A, mergen; A, heofenes; A, tacna.
+
+↑ A, cneoris, B, cneorys.
+
+↑ A, forgeaton.
+
+↑ A, betweox; Corp., A, B, om. Ne; B, naman.
+
+↑ A, heora; A, betweox.
+
+↑ A, þencað; A, þusenda; A, fæla; A, B, wilegena; A, naman.
+
+↑ A, seofen; A, fæla; A, wylegena, B, wilegena; A, B, namon.
+
+↑ A, ongeaton.
+
+↑ A, cesaree, B, cesaree; A, acsode; A, B, secgað; A, men.
+
+↑ A, B, fulluhtwer; A, eliam; B, þara; A, wytegena, B, witgyna (changed into witegyna; e above the line).
+
+↑ A, lyfiendan, B, lyuigendes.
+
+↑ B, heofonum.
+
+↑ A, getymbrige, B, getimbrige; A, cyrcean; A, ongean.
+
+↑ A, heofena; A, gebyntst þæt byð gebunden on heofenum (changed order); A, unbyndest; A, heofenum.
+
+↑ A, men; A, hælende.
+
+↑ A, geswutelian; A, fæla; A, ealdrum; B, bocrum.
+
+↑ A, geweorðe.
+
+↑ A, hyne to petre and cw̄. (changed order); A, synd (second time).
+
+↑ A, filige.
+
+↑ A, men; A, man.
+
+↑ A, cumanne; A, æghwylcum men (men marked for deletion); Corp., worce, A, B, weorce.
+
+↑ A, synd.
+
+↑ A, onbyrgeað,B, onbyrigað; B, cumendne.
+
+
+
+
+
+CAPUT XVII
+
+
+
+1. And æfter six dagum nam sē Hǣlend Petrum, and Iacobum, and Iohannem hys brōþor, and lǣdde hig onsundron on ǣnne hēahne munt.[1]
+
+2. And hē wæs gehīwod beforan him; and his ansȳn scēan swā swā sunne, and hys rēaf wǣron swā hwīte swā snāw.
+
+3. And efne þā ætȳwde Moyses and Helias mid him sprecende.
+
+4. Þā cwæð Petrus tō him, Drihten, gōd ys ūs hēr tō bēonne; gyf þū wylt, uton wyrcean hēr þrēo eardungstōwa, þē āne, Moyse āne, and Helie āne.[2]
+
+5. Him þā gȳt sprecendum, and sōþlīce þā beorht wolcn hig oferscēan; and þā efne cōm stefn of þām wolcne and cwæþ, Hēr ys mīn lēofa Sunu on þām mē wel gelīcaþ; gehȳrað hyne.
+
+6. And þā hig þis gehȳrdon hys leorningcnihtas, hig fēollon on hyra ansȳne, and hym swȳþe ādrēdon.[3]
+
+7. Hē genēalǣhte þā and hig æthrān, and him tō cwæþ, Ārīsað, and ne ondrǣdaþ ēow.[4]
+
+
+
+8. Đā hig hyra ēagan ūpp hōfon, ne gesāwon hig nǣnne būton þone Hǣlend sylfne.[5]
+
+9. And þā hig of ðām munte ēodon, sē Hǣlend hym bebēad and þus cwæþ, Nānum menn ne secgean gē þis, ǣr mannes Sunu of dēaþe ārīse.[6]
+
+Đys [godspel] sceal on frīgedæg on þǣre fīftan wucan ofer pentecosten.
+
+10. And þā āxodon hys leorningcnihtas hyne, Hwæt secgeað þā bōceras þæt gebyrige ǣrest cuman Heliam?[7]
+
+11. Đā andswarode hē hym, Witodlīce Helias ys tōweard, and hē geednīwað ealle þing.[8]
+
+12. Sōþlīce ic ēow secge þæt Helias cōm, and hig hyne ne gecnēowon; ac hig dydon ymbe hyne swā hwæt swā hig woldon. And swā ys mannes Sunu ēac fram him tō þrowigenne.[9]
+
+13. Đā ongēton hys leorningcnihtas þæt hē hyt sǣde be Iohanne þām fulluhtere.[10]
+
+Đys [godspel] sceal on wōdnesdæg tō þām fæstene ǣr hærfestes emnyhte.
+
+14. And þā hē cōm tō þǣre menegu, him tō genēalǣhte sum mann, gebīgedum cnēowum tōforan him, and cwæþ,[11]
+
+
+
+15. Drihten, gemiltsa mīnum suna, for þām þe hē ys fyllesēoc, and yfel þolað; oft hē fylþ on fȳr, and gelōmlīce on wæter.
+
+16. And ic brōhte hyne tō þīnum leorningcnihtum, and hig ne mihton hyne gehǣlan.
+
+17. Đā andswarode hē him, Ēalā gē ungelēaffulle and þwȳre cnēores, hū lange bēo ic mid ēow? hū lange forbere ic eow? bringað hyne tō mē hider.[12]
+
+18. And þā þrēade sē Hǣlend hyne, and sē dēofol hyne forlēt; and sē cnapa wæs of þǣre tīde gehǣled.[13]
+
+19. Đā genēalǣhton hys leorningcnihtas him tō, and him tō cwǣdon dīglīce, Hwī ne mihte wē hyne ūt ādrīfan?[14]
+
+20. Þā cwæð hē for hyra ungelēafulnesse, Sōþlīce on eornost ic ēow secge, Gyf gē hæfdon gelēafan swā senepes corn, and gē cwǣdon tō þissum munte, Far heonone, þonne fērde hē; and ēow ne byð ǣnig þing unmihtelīc.[15]
+
+21. Sōþlīce þis cynn ne byþ ūt ādryfen, būton þurh gebed and fæsten.[16]
+
+22. Đā hig wunedon on Galilea, þā cwæð sē Hǣlend, Mannes Sunu ys tō syllenne on manna handa;[17]
+
+
+
+23. and hig ofslēað hyne, and hē ārīst on þām þriddan dæge. Đā wurdon hig þearle geunrōtsode.[18]
+
+24. And þā hē cōm tō Cafarnaum, þā genēalǣhton tō Petre þā þe gafol nāmon, and þus cwǣdon, Ēower lārēow ne gylt hē gafol?[19]
+
+25. Þā cwæð hē, Gyse, hē dēð. And þā hē cōm intō þām hūse, þā cwæð sē Hǣlend, Hwæt þincð þē, Symon? æt hwām nimað cyningas gafol oððe toll? of hyra bearnum, hwæðer ðe of fremedum?[20]
+
+26. Đā cwæþ hē, Of fremedum. Þā cwæð hē, Eornostlīce þā bearn synt frīge.[21]
+
+27. Þēah hwæþere þæt wē hī ne geunrōtsigeon, gang tō þǣre sǣ, and wurp þīnne angel ūt, and nim þone ǣrestan fisc, and hys mūþ geopena; þū fintst ǣnne wecg on him; nim þone, and syle for mē and for þē.[22]
+
+
+
+
+
+↑ A, broðer; A, anne hehne.
+
+↑ A, wyrcan.
+
+↑ A, heora; A, ondrǣdon.
+
+↑ B, genealæcte.
+
+↑ A, heora; A, ahofon.
+
+↑ A, men ge þys ne secgon (changed order), B, menn ge þis ne secgean (changed order).
+
+↑ A, acsedon; A, secgad; A, eliam.
+
+↑ A, elias.
+
+↑ A, elias; A, þrowianne.
+
+↑ A, ongeaton.
+
+↑ A, mænigu; A, B, man.
+
+↑ A, þweore.
+
+↑ B, deoful.
+
+↑ A, digelice.
+
+↑ A, heora; A, ungeleaffulnysse, B, ungeleaffulnesse; A, eornest; A, þysum.
+
+↑ A, cyn; A, and þurh fæsten.
+
+↑ A, syllanne.
+
+↑ A, dæg.
+
+↑ A, An þa; A, capharnaum; Corp., genealæton, A, B, genealæhton; Corp., A, B, þæt (for þe); A, gafel (twice).
+
+↑ A, heora; A, om. hwæðer; A, fremdum.
+
+↑ A, fremdum; A, synd.
+
+↑ A, hwæðre, B, hwæþre; A, geunrotsion; A, weorp; A, opena.
+
+
+
+
+
+CAPUT XVIII
+
+
+
+Đys [godspel] sceal on sancte Michaeles mæssedæg.
+
+1. On þǣre tīde genēalǣhton hys leorningcnihtas tō þām Hǣlende, and cwǣdon, Hwa wēnst þū ys yldra on heofena rīce?[1]
+
+
+
+2. And ðā clypode sē Hǣlend ǣnne lȳtling, and gesette on hyra midlen,[2]
+
+3. and cwæþ, Sōðlīce ic secge ēow, Būton gē bēon gecyrrede, and gewordene swā swā lȳtlingas, ne gā gē on heofena rīce.
+
+4. Swā hwylc swā hyne geēaþmēt swā þēs lȳtling, sē ys māra on heofena rīce.[3]
+
+5. And swā hwylc swā ānne þilīcne lȳtling on mīnum naman onfēhþ, sē onfēhþ mē.[4]
+
+6. Sōþlīce sē þe beswīcð ǣnne of ðyssum lȳtlingum þe on mē gelȳfað, betere him ys þæt ān cwyrnstān sī tō hys swȳran gecnytt, and sī besenced on sǣs grund.[5]
+
+7. Wā þysum middangearde þurh swicdōmas! Nēod ys þæt swycdōmas cumon; þēah hwæðere wā þām menn þe swycdōm þurh hyne cymð![6]
+
+8. Gyf þīn hand oððe þīn fōt þē swicað, āceorf hyne of, and āwurp fram þē; betere þē ys þæt þū gā wanhāl oþþe healt tō līfe, þonne þū hæbbe twā handa and twēgen fēt and sȳ on ēce fȳr āsend.[7]
+
+9. And gyf þīn ēage þē swicað, āhola hyt ūt, and āwurp hyt fram þē; betere þē ys mid ānum ēagan[8] on līfe tō gānne, þonne þū sī mid twām āsend on helle fȳr.[9]
+
+10. Warniað þæt gē ne oferhogian ǣnne of þysum lȳtlingum þe gelȳfað on mē.[10]
+
+11. Sōðlīce mannes Sunu cōm tō gehǣlenne þæt forwearð.[11]
+
+12. Hwæt ys ēow geþūht? gyf hwylc mann hæfð hund scēapa, and him losað ān of þām, hū ne forlǣt hē þā nigon and hundnigontig on þām muntum, and gǣð and sēcþ þæt ān þe forwearð?[12]
+
+13. And gyf hyt gelimpþ þæt hē hyt fint, sōðlīce ic ēow secge þæt hē swȳdor geblissaþ for þām ānum, þonne ofer þā nigon and hundnigontig þe nā ne losedon.[13]
+
+14. Swā nys willa beforan ēowrum Fæder þe on heofenum ys, þæt ān forwurþe of þisum lȳtlingum.[14]
+
+Đis [godspel] sceal on tīwesdæg on þǣre þryddan lenctenwucan.
+
+15. Sōþlīce gyf þīn brōþor syngað wið þē, gā and stȳr him betwux þē and him sylfum; gyf hē þē gehȳrð, þū gestaþelast þīnne brōþor.[15]
+
+16. Gyf hē þē ne gehȳrþ, nim þonne gȳt ǣnne oððe twēgen tō þē, þæt ǣlc word stande on twēgra oððe þrēora gewittnesse.[16]
+
+17. Gyf hē hig ne gehȳrþ, sege hyt gefērrǣddene; gyf hē hig ne gehȳrð, sī hē þē swā swā hǣþen and mānfull.[17]
+
+18. Sōþlīce ic secge ēow, Swā hwylce swā gē gebindað ofer eorþan, þā bēoþ gebundene on heofonum; and swā hwylce swā gē ofer eorþan unbindaþ, þā bēoþ on heofonum unbundene.[18]
+
+19. Eft ic ēow secge, Gyf twēgen of ēow geþwǣriað ofer eorþan be ǣlcum þinge þe hig biddað, hit gewurð him of mīnum Fæder þe on heofonum ys.[19]
+
+20. Đǣr twēgen oððe þrȳ synt on mīnum naman gegaderode, þǣr ic eom on hyra midlene.[20]
+
+21. Đā genēalǣhte Petrus tō him, and cwæð, Drihten, gyf mīn brōþor syngaþ wið mē, mōt ic him forgyfan oð seofon sīþas?[21]
+
+22. Đā cwæþ sē Hǣlend, Ne secge ic þē, Oð seofon sīþas; ac, Oð seofon hundseofontigon sīþon.[22]
+
+
+
+Đys [godspel] sceal on þǣre xxiii. wucan ofer pentecosten.
+
+23. For þām ys heofena rīce anlīc þām cyninge þe hys þēowas gerādegode.[23]
+
+24. And þā hē þæt gerād sette, him wæs ān brōht sē him sceolde tȳn þūsend punda.[24]
+
+25. And þā hē næfde hwanon hē hyt āgulde, hyne hēt hys Hlāford gesyllan, and hys wīf, and hys cild, and eall þæt hē āhte.[25]
+
+26. Þā āstrehte sē þēow hyne, and cwæð, Hlāford, gehafa geþyld on mē, and ic hyt þē eall āgylde.[26]
+
+27. Þā gemiltsode sē hlāford him, and forgeaf him þone gylt.[27]
+
+28. Þā sē þēowa ūt ēode, hē gemētte hys efenþēowan sē him sceolde ān hund penega; and hē nam hyne þā and forþrysmede hyne, and cwæð, Āgyf þæt þū mē scealt.[28]
+
+29. And þā āstrehte hys efenþēowa hyne, and bæd hyne and þus cwæð, Geþyldega, and ic hyt þē eall āgyfe.[29]
+
+30. Hē ðā nolde; ac fērde and wearp hyne on cweartern, oð ðæt hē him eall āgēfe.
+
+31. Đā gesāwon hys efenþēowas þæt, ðā wurdon hig swȳðe geunrōtsode, and cōmon and sǣdon hyra hlāforde ealle þā dǣde.[30]
+
+
+
+32. Đā clypode hys hlāford hyne, and cwæþ tō him, Ēalā þū lȳþra þēowa, eallne þīnne gylt ic ðē forgeaf, for þām þe ðū mē bǣde;[31]
+
+33. hū ne gebyrede þē gemiltsian þīnum efenðēowan, swā swā ic þē gemiltsode?[32]
+
+34. Đā wæs sē hlāford yrre, and sealde hyne þām wītnerum, oð þæt hē eall āgulde.[33]
+
+35. Swā dēþ mīn sē heofonlīca Fæder, gyf gē of ēowrum heortum ēowrum brōðrum ne forgyfaþ.[34]
+
+
+
+
+
+↑ B, heofona.
+
+↑ A, anne; A, heora mydlene.
+
+↑ B, heofona (twice).
+
+↑ A, ænne þyllicne.
+
+↑ A, cweornstan; A, sweoran gecnyt; A, sægrund.
+
+↑ A, þyssum; A, cuman; A, men.
+
+↑ A, aweorp; A, send.
+
+↑ A, aweorp fram þe (om. hyt); Corp., B, anum eage, A, anum eagan.
+
+↑ A, onsend.
+
+↑ A, oferhogion; A, þyssum.
+
+↑ A, Soðlice ic eow secge mannes; A, B, gehælanne.
+
+↑ A, man; A, nygen; A, gæð secþ (om. and).
+
+↑ A, nigen.
+
+↑ B, heofonum; A, forweorðe.
+
+↑ Corp., solice; A, B, Soþlice; A, betwyx; A, broðer (second time).
+
+↑ B, twegera; A, gewytnysse, B, gewitnysse.
+
+↑ B, sæge; A, geferrædene; A, om. swa (second time); A, manful.
+
+↑ A, ic eow secge (changed order); A, heofenum, B, heofonan; A, heofenan, B, heofonan.
+
+↑ A, ælcon þynge; A, B, gewyrð; A, heofenum.
+
+↑ A, þar (twice); A, þreo synd; B, gegadorede.
+
+↑ B, genealæcte; A, broðer; A, seofen.
+
+↑ A, seofen syðon hundseofentygon (changed order).
+
+↑ B, heofona; B, geradogode.
+
+↑ Corp., A, and þa þe þæt, B, and þa he þæt.
+
+↑ A, hwanen.
+
+↑ A, hafa.
+
+↑ B, þæne.
+
+↑ A, forþrysmode, B, forþrysmyde.
+
+↑ A, eal.
+
+↑ A, heora.
+
+↑ A, lyðera; A, ealne.
+
+↑ A, þinon; A, ic gemyltsode þe (changed order).
+
+↑ Corp., dð, A, B, oð.
+
+↑ A, heofenlica.
+
+
+
+
+
+CAPUT XIX
+
+
+
+1. And þā sē Hǣlend geendode þās sprǣca, hē fērde fram Galilea and cōm on Iudeisce endas begeondan Iordanen.
+
+2. And hym fyligdon mycele mænegu, and hē hig gehǣlde þǣr.
+
+3. Đā genēalǣhton him to Farisei, hyne costnigende, and cwǣdon, Is ālȳfed ǣnegum menn hys wīf tō forlǣtenne for ǣnegum þinge?[1]
+
+4. Đā andswarode hē him, Ne rǣdde gē, Sē þe on fruman worhte, hē worhte wǣpmann and wīfmann,[2]
+
+5. and cwæþ, For þām sē mann forlǣtt[3] fæder and mōdor, and hyne tō his wīfe geþēot; and bēoð twēgen on ānum flǣsce?[4]
+
+6. Witodlīce ne synt hig twēgen, ac ān flǣsc. Ne getwǣme nān mann þā ðe God gesomnode.[5]
+
+7. Đā cwǣdon hig, Hwī hēt Moyses syllan hīwgedāles bōc, and hig forlǣton?[6]
+
+8. Đā cwæð hē, Moyses for ēower heortan heardnesse lȳfde ēow ēower wīf tō forlǣtenne; [sōðlīce næs hyt on frymðe swā.][7]
+
+9. Sōþlīce ic secge ēow, Swā hwā swā forlǣtt hys wīf, būton for forligere, and ōþer fetað, sē unrihthǣmð; and sē ðe forlǣtene æfter him nymð sē unrihthǣmð.[8]
+
+10. Đā cwǣdon hys leorningcnihtas, Gyf hyt swā ys þām menn mid hys wīfe, ne fremað nānum menn tō wīfienne.[9]
+
+11. Đā cwæþ hē, Ne underfōð ealle menn þis word, ac þām þe hyt geseald ys.[10]
+
+12. Sōþlīce synd belistnode þe of hyra mōdor innoþum cumað; and eft synd belistnode [þā men þe man belistenað; and eft synd belistnode] þe[11] hig sylfe belistnodon for heofena rīce. Undernyme, sē þe undernyman mæge.[12]
+
+13. Þā wǣron him gebrōhte lȳtlingas tō þæt hē hys hand on hig āsette and hig geblētsode; þā þrēadon hys leorningcnihtas hig.[13]
+
+14. Þā cwæð sē Hǣlend, Lǣtað þā lȳtlingas, and nelle gē hig forbēodan cuman tō me; swylcra ys heofena rīce.[14]
+
+15. And þā hē him hys handa on āsette, þā fērde hē þanon.[15]
+
+16. And þā genēalǣhte him ān mann tō, and cwæþ, Lā gōda Lārēow, hwæt gōdes dō ic þæt ic ēce līf hæbbe?[16]
+
+17. Đā cwæþ hē, Hwæt āxast þū mē be gōde; ān God ys gōd; sōþlīce gyf þū wylt on līf becuman, heald þā beboda.[17]
+
+18. Đā cwæþ hē, Hwylce? Đā cwæð sē Hǣlend, Ne dō þū mannslyht; Ne dō þū unrihthǣmed; Ne stel þū; Ne sege þū lēase gewittnysse;[18]
+
+19. Wurða þīnne fæder and mōdor; and, Lufa þīnne nēhstan swā þē sylfne.[19]
+
+20. Þā cwæð sē geonga, Eall þiss ic gehēold; hwæt ys mē gȳt wana?[20]
+
+
+
+21. Đā cwæð sē Hǣlend, Gyf þū wylt bēon fullfremed, gā and becȳp eall þæt þū āhst, and syle hyt þearfum, and þonne hæfst þū goldhord on heofone; and cum and folga mē.[21]
+
+22. Đā sē geonga mann gehȳrde þis word, þā ēode hē aweg unrōt; sōþlīce hē hæfde mycele ǣhta.[22]
+
+23. Witodlīce sē Hǣlend cwæð tō hys leorningcnihtum, Sōþlīce ic ēow secge, Þæt earfoðlīce sē welega gǣð on Godes rīce.
+
+24. And eft ic ēow secge, Þæt eaðelīcre byð þām olfende tō gānne þurh nǣdle ēage, þonne sē welega on heofona rīce gā.[23]
+
+25. Đā hys leorningcnihtas þis gehȳrdon, hig wundrodun and cwǣdon, Hwā mæg þis gehealdan?[24]
+
+26. Þā cwæð sē Hǣlend, Unēaþelīc þæt ys mid mannum; ac ealle þing synt mid Gode ēaþelīce.[25]
+
+Đys [godspel] sceal tō sancte Paulus mæssedæge, and tō sancte Benedictus.
+
+27. Đā andswarode Petrus and cwæð, Nū wē forlēton ealle þing, and folgodon þē; hwæt byð ūs tō mēde?[26]
+
+
+
+28. Đā cwæþ sē Hǣlend, Sōþ ic ēow secge þæt gē þe mē folgodon, on edcenninge þonne mannes Sunu sitt on hys mægenþrymme, þæt gē sittað ofer twelf setl, dēmende twelf mǣgða Israhel.[27]
+
+29. And ǣlc þe forlǣt for mīnum naman hys hūs, oððe hys gebrōþru, oððe swustra, oþþe fæder, oþþe mōdor, oððe wīf, oþþe bearn, oððe land, be hundfealdon hē onfēhþ lēan, and hæfð ēce līf.[28]
+
+30. Sōþlīce manega fyrmeste bēoð ȳtemeste, and ȳtemeste fyrmeste.[29]
+
+
+
+
+
+↑ A, farisei; A, costigende; A, men.
+
+↑ A, -man (twice).
+
+↑ A, man forlæt.
+
+↑ A, moder.
+
+↑ A, synd; A, man.
+
+↑ A, forleton, B, forleton.
+
+↑ A, om. he; B, heardnysse; A, he lyfde; B, forlætanne; Corp., om. soðlice . . . frymðe swa, A, Soðlice næs hyt on frymðe swa, B, Soþlice . . . frymþe swa.
+
+↑ A, forlæt, A, butan for forlygre; B, se ðe þæt forlætene (þæt and -ne above the line).
+
+↑ A, men (twice); A, wyfianne.
+
+↑ A, men; B, -foð (above the line).
+
+↑ Corp., belistnode (t above the line; twice); A, heora moder; B, synt; Corp., B, om. þā men . . . belistnode (homœoteleuton), A, þa men þe man belistenað and eft synd belistnode (above the line and on the margin).
+
+↑ B, heofona.
+
+↑ A, brohte; A, gebletsade.
+
+↑ A, nellon; A, hym (for hig); A, swylcera; B, heofona.
+
+↑ A, þanen.
+
+↑ A, B, man.
+
+↑ A, acsast.
+
+↑ A, manslyht; B, sæge; A, gewytnysse, B, gewitnysse.
+
+↑ A, weorða; A, moder; A, swa swa.
+
+↑ A, þys, B, þis.
+
+↑ A, fulfremed (ful- above the line); B, eal; A, heofenum; A, om. and cum.
+
+↑ A, B, man.
+
+↑ A, eaðelicere; A, heofena.
+
+↑ A, wundredon, B, wundrodon.
+
+↑ A, om. þæt; A, syndon myd.
+
+↑ Corp., B, þingc, A, þing.
+
+↑ A, syt (for sitt).
+
+↑ A, moder; A, hundfealdum; B, onfehð (corrected from onfeht).
+
+↑ A, ytemyste (twice).
+
+
+
+
+
+CAPUT XX
+
+
+
+Đys [godspel] sceal on þone sunnandæg þe man belȳcð alleluia.
+
+1. Sōþlīce heofona rīce ys gelīc þām hīredes ealdre þe on ǣrne mergen ūt ēode āhȳrian wyrhtan on hys wīngeard.[1]
+
+2. Gewordenre gecwydrǣdene þām wyrhtum [þæt] hē sealde ǣlcon ǣnne penig wiþ hys dæges worce, hē āsende hig on hys wīngeard.[2]
+
+3. And þā hē ūt ēode embe underntīde, hē geseah ōþre on strǣte īdele standan.[3]
+
+
+
+4. Đā cwæð hē, gā gē on mīnne wīngeard, and ic sylle ēow þæt riht byþ; and hig þā fērdon.
+
+5. Eft hē ūt ēode embe þā sixtan and [þā] nigoþan tīde, and dyde þām swā gelīce.[4]
+
+6. Þā embe þā endlyftan tīde hē ūt ēode, and funde ōþre standende; and þā sǣde hē, Hwī stande gē hēr eallne dæg īdele?[5]
+
+7. Þā cwǣdon hig, For þām þe ūs nān mann ne hȳrode. Đā cwæð hē, And gā gē on mīnne wīngeard.[6]
+
+8. Sōþlīce þā hyt wæs æfen geworden, þā sǣde sē wīngeardes hlāford hys gerēfan, Clypa þā wyrhtan, and āgyf him heora mēde; āgynn fram þām ȳtemestan oþ þone fyrmestan.[7]
+
+9. Eornostlīce þā ðā gecōmon þe embe þā endlyftan tīde cōmon, þā onfēngon hig ǣlc his pening.[8]
+
+10. And þā þe þǣr ǣrest cōmon wēndon þæt hig sceoldon māre onfōn; þā onfēngon hig syndrige penegas.[9]
+
+11. Đā ongunnon hig murcnian ongēn þone hīredes ealdor,[10]
+
+12. and þus cwǣdon, Þās ȳtemestan worhton āne tīde, and þū dydest hig gelīce ūs þe bǣron byrþena on þises dæges hǣtan.
+
+13. Đā cwæð hē andswarigende hyra ānum, Ēalā þū frēond, ne dō ic þē nǣnne tēonan; hū ne cōme þū tō mē tō wyrceanne wið ānum penige?[11]
+
+14. Nim þæt þīn ys, and gā; ic wylle þysum ȳtemestan syllan eal swā mycel swā þē.[12]
+
+15. Oþþe ne mōt ic dōn þæt ic wylle? hwæþer þe þīn ēage mānful ys, for þām þe ic gōd eom?[13]
+
+16. Swā bēoð þā fyrmestan ȳtemeste, and þā ȳtemestan fyrmeste; sōþlīce manega synt geclypede, and fēawa gecorene.[14]
+
+Đys godspel gebyrað on wōdnesdæg on þǣre ōðre lenctenwucan.
+
+17. Đā fērde sē Hǣlend tō Hierusalem, and nam hys leorningcnihtas onsundron, and þus cwæð,
+
+18. Nū wē farað tō Hierusalem; and mannes Sunu byþ geseald þǣra sācerda ealdrum and bōcerum, and hig genyþeriað hyne tō dēaþe,[15]
+
+19. þēodum tō bysmrigenne, and tō swingenne, and to āhōnne; and þām þryddan dæge hē ārīst.[16]
+
+20. Đā cōm tō him Zebedeis bearna mōdor[17] mid hyre bearnum, hig geēadmēdende and sum þing fram him biddende.[18]
+
+21. Þā cwæð hē, Hwæt wylt tū? Đā cwæð hēo, Sege þæt þās mīne twēgen suna sittan, ān on þīne swīþran healfe and ān on þīne wynstran, on þīnum rīce.[19]
+
+22. Đā andswarode him sē Hǣlend, Gyt nyton hwæt gyt biddaþ. Mage gyt drincan þone calic ðe ic tō drincenne hæbbe? Þā cwǣdon hig, Wyt magon.[20]
+
+23. Đā cwæð hē, Witodlīce gyt mīnne calic drincaþ; tō sittanne on mīne swīþran healfe, oððe on wynstran, nys mē inc tō syllanne, ac þām þe hyt fram mīnum Fæder gegearwod ys.[21]
+
+24. And þā ðā tȳn leorningcnihtas gebulgon wiþ ðā twēgen gebrōðru.
+
+25. Þā clypode sē Hǣlend hig tō him, and cwæð, Wite gē þæt ealdormenn wealdað hyra þēoda, and þā ðe synt yldran habbað anweald on him.[22]
+
+26. Ne byþ swā betweox ēow; ac swā hwylc swā wyle betweox ēow bēon yldra, sȳ hē ēower þēn;[23]
+
+27. and sē þe wyle betweox ēow bēon fyrmest, sȳ hē ēower þēow:[24]
+
+
+
+28. swā mannes Sunu ne cōm þæt him man þēnode, ac þæt hē þēnode, and sealde his sāwle līf tō ālȳsednesse for manegum.
+
+Gē wilniað tō geþēonne on gehwǣdum þinge, and bēon gewanod on þām mǣstan þinge. Witodlīce þonne gē tō gerēorde gelaþode bēoð, ne sitte gē on þām fyrmestan setlum, þē læs þe ārwurðra wer æfter þē cume, and sē hūsbōnda hāte þē ārīsan and rȳman þām ōðron, and þū bēo gescynd; gyf þū sitst on gerēorde on þām ȳtemestan setle, and æfter þē cymþ ōþer gebēor, and sē laþigenda cweþe tō þe, Site innor, lēof, þonne byþ ðē ārwurðlīcor þonne þē man ūttor scufe.[25]
+
+Đys [godspel] sceal on sæternesdæg on þǣre pentecostenes wucan tō þām ymbrene.
+
+29. And þā hig fērdon fram Hiericho, him fyligde mycel menegu.[26]
+
+30. And þā sǣton twēgen blinde wiþ ðone weg, and gehȳrdon þæt sē Hǣlend fērde; and þā clypodon hig tō him and cwǣdon, Drihten, gemiltsa unc, Dauides sunu.[27]
+
+31. Đā bēad sēo menegu him þæt hig suwodon;[28] þā clypodon hig þæs ðē mā, Drihten, gemiltsa unc, Dauides sunu.[29]
+
+32. Þā stōd sē Hǣlend, and clypode hig tō him, and cwæð, Hwæt wylle gyt þæt ic inc dō?[30]
+
+33. Đā cwǣdon hig, Drihten, þæt uncre ēagan sīn geopenode.[31]
+
+34. Đā gemiltsode hē him, and hyra ēagan æthrān; and hig sōna gesāwon, and fyligdon him.[32]
+
+
+
+
+
+↑ A, heofena; A, wyneard.
+
+↑ A, gecwydrædenne; Corp., A, B, om. þæt; A, weorce; A, wyneard.
+
+↑ A, ymbe.
+
+↑ A, ymbe; Corp., B, and nigoþan, A, and þa nygeðan; A, om. swa.
+
+↑ A, ymbe; A, B, ealne.
+
+↑ A, B, man; A, hyrede.
+
+↑ A, hyra; A, agin, B, aginn; B, ðæne.
+
+↑ A, Eornestlice; Corp., B, þa ðæ gecomon, A, om. ðæ gecomon; A, ymbe; A, penig.
+
+↑ A, þar.
+
+↑ A, ongean.
+
+↑ A, andswariende heora; A, wyrcanne; A, penige.
+
+↑ A, þyssum ytemystum.
+
+↑ A, ege; B, mannful.
+
+↑ A, synd; A, B, geclypode.
+
+↑ A, deðe.
+
+↑ A, bysmrianne; A, swinganne.
+
+↑ A, om. to him; A, suna (for bearna); A, moder.
+
+↑ A, bearnnum; A, geeaðmedende; Corp., B, þingc, A, þing.
+
+↑ A, ðu; B, sæge; A, sytton.
+
+↑ A, drincanne.
+
+↑ B, syllenne; A, geearwod.
+
+↑ A, wytodlice (for wite ge þæt); A, -men; A, heora; A, synd.
+
+↑ A, betwyx (first time); A, wylle; A, yldran sig.
+
+↑ A, wylle.
+
+↑ A, -nysse; A, gereordum; A, þy læs ðe; Corp., B, arwurðre, A, arwyrðra; A, husbunda; Corp. oðrum (-on above the line), A, oðrum, B, oþron.—A, laðienda; A, lyof; A, arweorðlycor; B, utor.
+
+↑ A, iericho; A, mænigeo.
+
+↑ A, clypedon.
+
+↑ A, mænio; A, swigedon (for suwodon).
+
+↑ A, clypedon.
+
+↑ A, clypode to heom (om. hig).
+
+↑ Corp., B, geoponede, A, geopenode.
+
+↑ A, heora.
+
+
+
+
+
+CAPUT XXI
+
+
+
+Đys [godspel] sceal on þǣre fēorðan wucan ǣr myddawyntra.
+
+1. And þā hē genēalǣhte Hierusalem, and cōm tō Bethfage, tō Oliuetes dūne, þā sende hē hys twēgen leorningcnihtas,[1]
+
+2. And sǣde him, Farað on þæt castel þæt foran ongēn ēow ys, and þonne sōna finde gyt āne assene getiggede and hyre folan mid hyre; untīgeað hig, and lǣdað to mē.[2]
+
+3. And gyf hwā ēow ǣnig þing tō cwyð, secgeað þæt Drihten hæfð þyses nēode; and þonne forlǣt hē ēow hrædlīce.[3]
+
+4. Eall þis wæs geworden þæt wǣre gefylled þæt þurh Esaiam þone wītegan gecweden wæs,[4]
+
+
+
+5. Secgeað hēahnesse dehter, Nū þīn Cyning þē cymð tō, gedæfte, and rīt uppan tamre assene, and hyre folan.[5]
+
+6. Þā fērdon hys leorningcnihtas and dydon swā hē him bebēad,
+
+7. and lǣddon þā assene tō him and hyre folan, and lēdon hyra rēaf uppan hig, and setton hyne anuppan.[6]
+
+8. Witodlīce þæt folc strehton hyra rēaf on þone weg; sume hēowun þǣra trēowa bōgas, and strewodun on þone weg.[7]
+
+9. Þæt folc þæt þār beforan fērde and þæt þār æfter fērde clypodon and cwǣdon, Hāl sȳ þū, Dauides sunu; sȳ geblētsod sē þe cōm on Drihtenes naman; sȳ him hǣl on hēhnessum![8]
+
+10. Đā hē fērde tō Ierusalem, þā wearð eall sēo burhwaru onstyred, and cwǣdon, Hwæt is þēs?[9]
+
+11. Þā cwæð þæt folc, Þis ys sē Hǣlend, wītega, of Nazareth on Galilea.[10]
+
+12. Þā sē Hǣlend intō þām temple ēode, hē ādrāf ūt ealle þā þe cēapodun innan þām temple, and þāra mynetera sceamelas and hyra setlu þāra þe culfran sealdon hē tōbræc;[11]
+
+
+
+13. and cwæþ tō him, Hyt ys āwriten, Mīn hūs ys gebedhūs; witodlīce gē worhtun þæt tō þēofa cote.[12]
+
+14. Đā ēodan tō him þā blindan and þā healtan; and hē hī gehǣlde.[13]
+
+15. Witodlīce þā ðāra sācerda ealdras and þā bōceras gesāwun þā wundru þe sē Hǣlend worhte, and gehȳrdon hū þā cild clypodun on þām temple and cwǣdon, Sȳ Dauides sunu hāl! ðā wǣron hig yrre,[14]
+
+16. and cwǣdun, Gehȳrst þū hwæt þās cweðaþ? Þā cwæð hē, Witodlīce; ne rǣddon gē nǣfre, Þū fulfremedest lof of cilda and of sūcendra mūþe?[15]
+
+17. And hē forlēt hī þā, and fērde of þǣre byrig tō Bethania, and lǣrde hī þār be Godes rīce.[16]
+
+18. On morgen þā hē eft tō þǣre byrig fōr, þā hingrede hyne.[17]
+
+19. And hē geseh ān fīctrēow wið þone weg; þā ēode hē tō him, and ne funde on him būton þā lēaf āne; ðā cwæð hē, Ne wurþe nǣfre wæstm of þē ācenned. Đā sōna forscranc þæt fīctrēow.[18]
+
+20. And his leorningcnihtas wundrodon[19] and cwǣdon, Lōca, nū hū hrædlīce þæt fīctrēow forscranc!
+
+21. Þā andswarode hē him and cwæð, Sōþ ic ēow secge, Gyf gē habbað gelēafan and ne twȳniað, ne dō gē nā þæt ān be þām fīctrēowe, ac ēac þēh gē cweþan tō þisum munte, Āhefe þē ūpp and feall innan þā sǣ,[20]
+
+22. and ealles þæs þe gē biddaþ gē bēoð tīþa, gyf gē gelȳfað.
+
+Đys [godspel] sceal on wōdnesdæg on þǣre fīftan wucan ofer pentecosten.
+
+23. Đā hē cōm intō þām temple, þā cōmon þāra sācerda ealdras him tō, and cwǣdon, On hwylcre mihte wyrcsð þū þās þing? and hwā sealde þē þisne anweald?[21]
+
+24. Þā andswarode sē Hǣlend him and cwæð, And ic āhsige ēow ānre sprǣce; gyf gē mē þā sprǣce secgeað, þonne secge ic ēow on hwylcum anwealde ic þās þing wyrce.[22]
+
+25. Hwæðer wæs Iohannes fulluht? þe of heofonum, þe of mannum? Đā cwǣdon hig betwux him, Gyf wē secgaþ, Of heofone, þonne cwyð hē, For hwām ne gelȳfde ge him?[23]
+
+
+
+26. Gyf wē secgað, Of mannum, wē ondrǣdað þis folc; ealle hig hæfdon Iohannem for ānne wītegan.[24]
+
+27. Đā andswaredon hig and cwǣdon, Wē nyton. Þā cwæð hē, Nē ic ēow ne secge of hwylcum anwealde ic þās þing wyrce.
+
+28. Hū þincð ēow? Ān mann hæfde twēgen suna; þā cwæð hē tō þām yldran suna, Gā and wyrce tō dæg on mīnum wīngearde.[25]
+
+29. Đā cwæð hē, Ic nelle; ēode þēh syðþan tō þām wingearde.[26]
+
+30. Þā cwæð hē eal swā tō þām ōðrum. Đā andswarode sē him and cwæð, Hlāford ic gā; and ne ēode swā þēah.[27]
+
+31. Hwæðer þāra twēgra dyde þæs fæder willan? Þā cwǣdon hig, Sē æftera. Þā cwæð sē Hǣlend tō him, Sōð ic ēow secge þæt mānfulle and myltystran gāð beforan ēow on Godes rīce.[28]
+
+32. Iohannes cōm on rihtwīsnesse wege, and gē ne gelȳfdon him; witodlīce mānfulle and myltystran gelȳfdon; and gē gesāwon, and ne dydon syðþan nāne dǣdbōte þæt gē gelȳfdon on him.[29]
+
+
+
+Đys [godspel] sceal on þǣre ōðre wucan innan lenctene on frīgedæg.
+
+33. Gehȳrað nū ōþer bigspel: Sum hīredes ealdor wæs sē plantode wingeard, and betȳnde hyne, and sette þǣr on wīnwringan, and getimbrode ānne stȳpel, and gesette þone mid eorþtylion; and fērde on elþēodignysse.[30]
+
+34. Þā ðāra wæstma tīd genēalǣhte, þā sende hē hys þēowas tō þām eorðtylion þæt hig onfēngon his wæstmas.[31]
+
+35. Đā nāmon hig hys þēowas, and swungon sumne, sumne hig ofslōgun, sumne hig oftorfodun.[32]
+
+36. Đā sende hē eft ōðre þēowas sēlran þonne þā ǣrran wǣron; ðā dydon hig þām gelīce.[33]
+
+37. Æt nēhstan hē sende hys sunu him tō, and cwæð, Hig forwandiað þæt hig ne dōn mīnum suna swā.[34]
+
+38. Witodlīce þā ðā tylian þone sunu gesāwun, þā cwǣdon hig betwyx him, Đēs ys yrfenuma; uton gān and ofslēan hyne, and habban ūs hys ǣhta.[35]
+
+39. Đā nāmon hig and ofslōgon hyne, and āwurpon wiðūtan þone wīngeard.[36]
+
+
+
+40. Hwæt dēþ ðēs wīngeardes hlāford þām eorþtylion, þonne hē cymð?[37]
+
+41. Đā cwǣdon hig, Hē fordēð þā yfelan mid yfele, and gesett hys wingeard myd ōþrum tilion þe him hys wæstm hyra tīdon āgyfon.[38]
+
+42. Đā cwæð sē Hǣlynd, Ne rǣdde gē nǣfre on gewritum, Sē stān þe ðā timbriendan āwurpon ys geworden tō þǣre hyrnan hēafde; ðys ys fram Drihtne gewordyn, and hyt ys wundorlīc on ūrum ēagum.[39]
+
+43. For þām ic secge ēow þæt ēow byð ætbrōden Godes rīce, and byð geseald þǣre þēode þe hys earnað.[40]
+
+44. And sē þe fylþ uppan þysne stān, hē byð tobrȳsed; and hē tōbrȳsð þone ðe hē onuppan fylð.[41]
+
+45. Þā þǣra sācerda ealdras and þā Pharisei hys bigspel gehȳrdon, þā ongēton hig þæt hē hit sǣde be him.[42]
+
+46. Hī sōhton hyne, and ondrēdon þæt folc, for þām þe hī hæfdon hyne for ǣnne wītegan.
+
+
+
+
+
+↑ A, bethphage; A, asende.
+
+↑ A, ongean; A, getigede.
+
+↑ Corp., B, þingc, A, þyng; A, B, secgað; A, þysses.
+
+↑ B, Eal; A, gecwæden.
+
+↑ A, B, Secgað; A, -nysse; A, þe cymð to ðe.
+
+↑ B, hyra fola; A, heora reaf; A, onuppan.
+
+↑ A, heora; A, on hys weg; A, heowon; B, þara; A, streowedon, B, strewedon.
+
+↑ A, clypedon; A, B, dryhtnes; A, -nyssum.
+
+↑ A, hierusalem; B, burg-.
+
+↑ Corp., B, galiglea, A, galilea.
+
+↑ A, ceapedon; A, heora setlu þæra.
+
+↑ A, worhton.
+
+↑ A, eodon.
+
+↑ B, Witudlice; A, þæra; A, gesawon; A, clypedon, B, clypudun; B, cwædun; B, wærun.
+
+↑ A, cwædon; Corp., cwæðaþ, A, B, cweþað; Corp., A, B, sacerda (for sucendra—Skeat).
+
+↑ A, hig þær.
+
+↑ A, mergen.
+
+↑ B, læf; A, weorðe; Corp., weastm, A, B, wæstm.
+
+↑ A, wundredon.
+
+↑ A, tweoniað; A, þeah; A, cweðon; A, up; B, feal.
+
+↑ A, þæra; A, hwylcere, B, hwilcre; A, wyrcst, B, wyrcaþ.
+
+↑ A, om. and (before ic acsige); A, B, secgað; A, do (for wyrce).
+
+↑ A, heofenum; A, betweox; A, heofene; A, gelyfdon.
+
+↑ A, ænne.
+
+↑ A, B, man; Corp., wingerde, A, wynearde, B, wingearde (a above the line).
+
+↑ Corp., wingerde, A, wynearde, B, wingearde (a above the line).
+
+↑ A, eall; A, andswarede, B, andswarude.
+
+↑ A, hwæðer þær dyde (þær for þara; om. twegra); B, hælynd.
+
+↑ Corp., myltysran, A, myltestran, B, myltystran.
+
+↑ A, bigspell; Corp., wingerd, A, wyneard, B, wingeard (a above the line); A, ænne; A, elþeodiynsse.
+
+↑ A, B, ðæra; Corp., weastma, A, B, wæstma; A, eorðtylian.
+
+↑ A, ofslogon; A, oftorfodon.
+
+↑ B, oþore.
+
+↑ A, nyhstan; A, doð (for don).
+
+↑ A, gesawon; A, betweox.
+
+↑ A, wineard.
+
+↑ B, wingeardes (a above the line); A, eorðtylian.
+
+↑ B, hyfelan (for yfelan); Corp., B, wingerd, A, wyngeard; B, oðram; A, tylian; A, heora tydum agyfan.
+
+↑ A, hælend; B, gewritun; A, geworden, B, gewurdyn (second time); B, urun eagun.
+
+↑ B, ætbrodyn.
+
+↑ B, tobrysyd; A, tobryst.
+
+↑ B, hys (changed into þys); A, bygspell; A, ongeaton, B, ongetun.
+
+
+
+
+
+CAPUT XXII
+
+
+
+1. Đā sǣde hē hym eft ōðer bigspel and þus cwæð,[1]
+
+2. Heofona rīce ys gelīc geworden þām cyninge þe macude hys suna gyfta,[2]
+
+3. and sende his þēowas and clypode þā gelaðodan tō þām gyftum; þā noldon hī cuman.[3]
+
+4. Đā sende hē eft ōðere þēowas, and sǣde þām gelaþedon, Nū ic gegearwode mīne feorme; mīne fearras and mīne fugelas synt ofslegene, and ealle mīne þing synt gearwe; cumað tō þām gyftum.[4]
+
+5. Đā forgȳmdon hig þæt, and fērdun, sum tō his tūne, sum tō hys mangunge.[5]
+
+6. And þā ōþre nāmon hys þēowas, and mid tēonan geswencton, and ofslōgon.[6]
+
+7. Đā sē cyning þæt gehȳrde, þā wæs hē yrre; and sende hys here tō, and fordyde þā manslagan, and hyra burh forbærnde.[7]
+
+8. Þā cwæð hē tō hys þēowum,[8] Witodlīce þās gyfta synt gearwe, ac þā ðe gelaþode wǣron ne synt wyrþe.[9]
+
+9. Gāð nū witodlīce to wega gelǣtum, and clypiað to þisum gyftum swā hwylce swā gē gemēton.[10]
+
+10. Đā ēodon þā þēowas ūt on þā wegas, and gegaderedon ealle ðā þe hig gemētton, gōde and yfele; þā wǣrun þā gyfthūs mid sīttyndum mannum gefyllede.[11]
+
+11. Đā ēode sē cyning in þæt hē wolde gesēon þā ðe þǣr sǣton, þā geseah hē þǣr ǣnne mann þe næs mid gyftlīcum rēafe gescrȳd;[12]
+
+12. þā cwæð hē, Lā frēond, hūmeta ēodest þū in, and næfdest gyftlīc rēaf? Đā gesuwode hē.[13]
+
+13. And sē cyning cwæþ tō hys þēnon, Gebindað hys handa and hys fēt, and wurpaþ hyne on þā ūttran þȳstro; þǣr byþ wōp and tōþa grīstbitung.[14]
+
+14. Witodlīce manega synt gelaþode, and fēawa gecorene.[15]
+
+Đys godspel sceal on xxiii. wucan ofer pentecosten.
+
+15. Đā ongunnon þā Pharisei rǣdan þæt hig woldon þone Hǣlend on hys sprǣce befōn.[16]
+
+
+
+16. Þā sendon hī him hyra leorningcnihtas tō mid þām Herodianiscum, and þus cwǣdon, Lārēow, wē witon þæt þū eart sōðfæst, and þū lǣrst Godes weg mid sōðfæstnysse, and ðū ne wandest for nānon menn, nē þū ne bescēawast nānes mannes hād.[17]
+
+17. Sege ūs, Hwæt þincð þē? ys hyt ālȳfed þæt man Cāsere gaful sylle, þe na?[18]
+
+18. Þā sē Hǣlend hyra fācn gehȳrde, þā cwæð hē, Lā līcceteras, hwī fandige gē mīn?[19]
+
+19. Ætȳwað mē þæs gafoles mynyt. Đā brōhton hī him ānne pening.[20]
+
+20. Đā cwæð sē Hǣlend tō him, Hwæs anlīcnys ys þis and ðis ofergewrit?[21]
+
+21. Hig cwǣdon, Þæs Cāsyres. Đā cwæð hē, Āgyfað þām Cāsere þā þing þe ðæs Cāsyres synt, and Gode þā ðing þe Godes synt.[22]
+
+22. Þā hig þæt gehȳrdon, þā wundrodon hig, and forlēton hyne, and fērdon on weg.[23]
+
+23. On þām dæge cōmon tō him Saducei, þā secgeað þæt nān ǣryst ne sȳ, and hig āxodon hyne,[24]
+
+24. and cwǣdon, Lāreow, Moyses[25] sǣde gif hwā dēad syg, and bearn næbbe, þæt his brōðor nyme hys wīf, and strȳne him bearn.[26]
+
+25. Witodlīce mid ūs wǣrun seofun gebrōþru; and sē forma fette wīf, and forð fērde, and lǣfde hys brēþer his wīf būtan bearne;[27]
+
+26. and sē ōðer eal swā, and sē þrydda, oþ ðone seofoþan.[28]
+
+27. Þā æt sīþemestan forþ fērde þæt wīf.[29]
+
+28. Hwylces þǣra seofona byð þæt wīf on þām ǣriste? ealle hig hæfdon hig.[30]
+
+29. Đā andswarode sē Hǣlend hym and cwæð, Gē dweliað, and ne cunnon hālige gewritu, nē Godes mægen.[31]
+
+30. Witodlīce ne wīfiað hig, nē hig ne ceorliað on þām ǣryste, ac hig synt swylce Godes englas on heofone.[32]
+
+31. Ne rǣdde gē be dēadra manna ǣryste þæt ēow fram Gode gesǣd wæs,[33]
+
+32. Ic eom Abrahames God, and Isaaces God, and Iacobes God? Nys God nā dēadra, ac lybbyndra.[34]
+
+33. Þā þæt folc þæt gehȳrde, þā wundrudon hig hys lāre.[35]
+
+
+
+Đys [godspel] sceal on þǣre wucan ofer pentecosten.
+
+34. Þā þā Phariseiscean gehȳrdon þæt hē hēt þā Saduceiscan stylle bēon, þā ēodon hig tōgædere.[36]
+
+35. And ān þe wæs þǣre ǣ lārēow āxode hyne, and fandode hys, þus cweðende,[37]
+
+36. Lā Lārēow, hwæt ys þæt mǣste bebod on þǣre ǣ?
+
+37. Đā cwæð sē Hǣlend, Lufa Drihten þīnne God on ealre þīnre heortan, and on ealre þīnre sāwle, and on eallum þīnum mōde.[38]
+
+38. Þis ys þæt mǣste and þæt fyrmyste bebod.[39]
+
+39. Ōþyr ys þysum gelīc, Lufa þīnne nēhstan swā swā þē sylfne.[40]
+
+40. On þysum twām bebodum byþ gefylled eall sēo ǣ.[41]
+
+41. Þā þā Phariseiscan gegaderude wǣrun, þā cwæð sē Hǣlynd,[42]
+
+42. Hwæt þincð ēow be Crīste? hwæs sunu ys hē? Hig cwǣdun, Dauides.[43]
+
+43. Đā cwæð sē Hǣlend, Hwī clypað Dauid hyne on Gāste Drihtyn, and cwyð,[44]
+
+44. Drihten[45] cwæð tō mīnum Drihtne, Site on mīne swȳþran healfe, oð þæt ic gesette þīne fȳnd þē tō fōtscamole.[46]
+
+45. Gyf Dauid hyne on Gāste Dryhten clypað, hū ys hē hys sunu?[47]
+
+46. Đā ne mihton hig him nān word andswarian, nē nān ne dorste of ðām dæge hyne nān þing māre āxigean.[48]
+
+
+
+
+
+↑ B, oðyr; A, bygspell, B, bigspell.
+
+↑ A Heofena; Corp., gewurden, A, geworden, B, gewordyn; A, cynge, B, cincge; B, macode; Corp., gyfata (-a above the line), A, gifta, B, gyfta.
+
+↑ A gelaðedan.-
+
+↑ A, oðre; A, gelaðedan; A, synd (twice); A, ofslagene; B, þinc; B, gyftan.
+
+↑ A, ferdon; Corp., B, manggunge, A, mangunge.
+
+↑ B, oþore.
+
+↑ B, cinc; A, forbærnde heora burh (changed order).
+
+↑ B, þeowum.
+
+↑ A, synd (twice); Corp., earwe, A, B, gearwe; A, gelaðede.
+
+↑ B, gelætun; A, þyssum, B, þysun; B, gyftun; B, gemetun.
+
+↑ A, gegaderodon; A, wæron; A, syttendum, B, sittyndun; B, mannun.
+
+↑ B, cinc; B, ænne (æ changed from a); A, man; Corp., B, wæs, A, næs; A, gyftlicon, B, gyftlicun.
+
+↑ A, ynn.
+
+↑ A, þenum; A, weorpað; B, utteran; A, þeostro þar.
+
+↑ A, synd.
+
+↑ A, spæce.
+
+↑ B, herodianiscun; A, lærest; A, nanum men.
+
+↑ B, sæge; B, casyre; A, gafol.
+
+↑ B, hælynd; A, heora; A, B, lyceteras.
+
+↑ Corp., B, ætgywað, A, ætywað; A, gafeles mynet; A, ænne; Corp., B, peninc, A, penig.
+
+↑ A, hælynd.
+
+↑ Corp., casyres (changed above the line into caserys), A, caseres, B, casyrys; B, casyre; A, caseres, B, casyrys; A, synd (twice); B, þinc (second time).
+
+↑ A, wundredon.
+
+↑ A, B, secgað; A, acsedon.
+
+↑ B, moises.
+
+↑ B, beanr; A, broðer.
+
+↑ A, wæron; A, seofon, B, sufun.
+
+↑ A, eall; A, seofeðan, B, sufoþon.
+
+↑ A, syðemystan.
+
+↑ Corp., B, sufona, A, seofena.
+
+↑ A, andswarede; B, hælynd; A, dwoliað (o changed into e).
+
+↑ A, synd.
+
+↑ A, wæs gesæd (changed order).
+
+↑ A, lybbendra.
+
+↑ A, wundredon, B, wundrydon.
+
+↑ A, B, phariseiscan.
+
+↑ Corp., B, æ ys (for æ), A, æ; A, acsode; B, cweþynde.
+
+↑ B, hælynd; B, dryhtyn; B, eallun þinun.
+
+↑ A, fyrmeste.
+
+↑ A, Oðer; A, þyssum, B, þysun.
+
+↑ A, þyssum, B, þysun; B, bebodun; B, gefyllyd.
+
+↑ Corp., phariseiscean; A, B, phariseiscan; Corp., cw̄, A, B, cwæð; A, hælend.
+
+↑ A, cwædon.
+
+↑ B, hælynd; A, dryhten.
+
+↑ B, dryhtyn.
+
+↑ B, swiðeran; Corp., -sceamole (first e dotted for deletion), A, -sceamele, B, -scamole.
+
+↑ B, dryhtyn; A, cleopað.
+
+↑ B, þinc; A, acsian.
+
+
+
+
+
+CAPUT XXIII
+
+
+
+1. Þā spræc sē Hǣlynd to þām folce and tō hys leorningcnyhton,[1]
+
+2. and cwæð, Bōceras and Pharisei sǣtun ofer Moyses lārēowsetl:[2]
+
+3. healdaþ and wyrceað swā hwæt swā hig secgeaþ; and ne dō gē nā æfter heora worcum: hig secgeað, and ne dōð.[3]
+
+4. Hig bindað hefige byrþyna þe man āberan ne mæg, and lecgeað þā uppan manna exla; and nellað hig þā mid heora fingre æthrīnan.[4]
+
+5. Ealle heora worc hig dōð þæt menn[5] hī gesēon; hig tōbrǣdaþ hyra healsbēc, and mǣrsiað heora rēafa fnadu;[6]
+
+6. hig lufigeað þā fyrmystan setl on gebēorscypum, and þā fyrmystan lārēowsetl on gesomnungum,[7]
+
+7. and þæt hig man grēte on strǣtum, and þæt menn hig lārēowas nemnon.[8]
+
+8. Ne gyrne gē þæt ēow man lārēowas nemne; ān ys ēower lārēow; gē synt ealle gebrōþru.[9]
+
+9. And ne nemne gē ēow fædyr ofer eorþan; ān ys ēower Fædyr, sē þe on heofonum ys.[10]
+
+10. Nē ēow man ne nemne lārēowas; for þām ān, Crīst, is ēower Lārēow.[11]
+
+11. Sē þe ēower yltst sȳ, bēo sē ēower þēn.[12]
+
+12. Witodlīce sē þe hyne ūpp āhefð se byþ genyþerud; and sē þe hyne sylfne geēaðmēt sē byð ūpp āhafyn.[13]
+
+Đys [godspel] sceal on frīgedæg on þǣre nygeðan wucan ofer pentecosten.
+
+13. Wā ēow, bōcyras and Pharisei, līccetteras! for þām gē belūcað heofona rice beforan [14] mannum; nē gē in ne gāþ, nē gē ne geþafiað þæt ōðre in gān.[15]
+
+14.
+
+15. Wā ēow, bōcyras and Pharisei, līccetteras! for þām gē befarað sǣ and eorþan þæt gē dōn ānne elþēodigne; and þonne hē gewordyn byð, gē gedōð hyne helle bearn twȳfealdlīcor þonne ēow.[16]
+
+16. Wā ēow blindan lāttēowas! gē secgeað swā hwylc swā swereþ on temple, þæt hē ys nāht; swā hwā swā swereð on þæs temples golde, sē ys scyldig.[17]
+
+17. Ēalā gē dysegan and blindan! hwæþer ys māre, ðe þæt gold, þe þæt templ ðe þæt gold gehālgað?[18]
+
+18. And swā hwā swā swereþ on þām wēofode, þæt ys nāht; swā hwylc swā swereþ on þǣre offrunge þe ofer þæt wēofud ys, sē ys gyltig.[19]
+
+19. Ēalā gē blindan! hwæþer ys māre, þe offrung, þe þæt wēofud þe gehālgað þā offrunge?[20]
+
+20. Witodlīce sē þe swereþ on wēofude, hē swereð on him and on eallum þām þe him ofer synt.[21] {{nop} 21. And sē þe swereð on temple, hē swereð on him and on þām þe him on eardiað.[22]
+
+22. And sē ðe swerað on heofonan, hē sweryð on Godes þrymsetle and on þām þe ofer þæt sitt.[23]
+
+23. Wā ēow, bōceras and Pharisei, liccetteras! gē þe tēoðiað mintan, and dile, and cymen, and gē forlēton þā þing þe synt hefegran þǣre ǣ, dōm, and mildheortnysse, and gelēafan; þās þing hyt gebyrede þæt gē dydon, and þā ōðre ne forlētun.[24]
+
+24. Lā blindan lāttēowas, gē drehnigeað þone gnætt aweg, and drincað þone olfynd.[25]
+
+25. Wā ēow, bōceras and Pharisei, līccetteras! for þām gē clǣnsiað þæt wiðūtan ys caliceas and dixas, and gē synt innan fulle rēaflāces and unclǣnnysse.[26]
+
+26. Ēalā þū blinda Phariseus, clǣnsa ǣryst þæt wiðinnan ys calicys and discys, þæt hyt sī clǣne þæt wiðūtan ys.[27]
+
+27. Wā ēow, bōcyras and Pharisei, līccetteras![28] for þām gē synt gelīce hwītum byrgenum, þā þinceað mannum ūtan wlitige, and hig synt innan fulle dēadra bāna and ealre fȳlþe.[29]
+
+28. And swā gē ætȳwað mannum ūtan rihtwīse, innan gē sunt fulle līccettunge and unrihtwīsnesse.[30]
+
+29. Wā ēow, bōcyras and Pharisei, līccetteras! gē þe timbriað wītegena byrgene, and glengað rihtwīsra gemyndstōwa,[31]
+
+30. and gē cweþað, Gyf wē wǣrun on ūre fædera dagum, nǣre wē heora gefēran on þǣra wītegena blōdes gyte.[32]
+
+31. Witodlīce gē synt ēow sylfum to gewittnysse þæt gē synt þǣra bearn ðe ofslōgon þā wītegan.[33]
+
+32. And gefylle gē þæt gemet ēowra fædera.[34]
+
+32. Ēalā gē nǣddran and nǣddrena cynn, hū flēo gē fram helle dōme?[35]
+
+Đys godspel sceal on sancte Stefanes mæssedæg.
+
+34. Ic sende tō ēow wītegan and wīse bōcyras;[36] and gē hig ofslēað, and hōð, and swingað on ēowrum gesomnungum, and gē hig ēhtað of byrig on byrig:[37]
+
+35. þæt ofer ēow cume ǣlc rihtwīs blōd þe wæs āgoten ofer eorþan, fram Abelys blōde þæs rihtwīsan oð Zacharias blōd, Barachias suna, þone gē ofslōgon betwyx þām temple and þām wēofode.[38]
+
+36. Sōþ ic ēow secge, Ealle þās þing cumaþ ofer þās cnēorisse.[39]
+
+37. Ēalā Ierusalem, ēalā Ierusalem, þū þe wītegan ofslihst, and mid stānum oftorfast þā ðe tō þē āsende synt! swīðe oft ic wolde þīne bearn gegaderigan, swā sēo henn hyre cīcenu under hyre fyþeru gegaderað, and þū noldest![40]
+
+38. Witodlīce nū byþ ēower hūs ēow wēste forlǣten.[41]
+
+39. Sōð ic secge ēow, Ne gesēoþ gē mē heonon forð, ǣr þām þe gē secgeon, Sȳ geblētsod sē þe cōm on Drihtnes naman.[42]
+
+
+
+
+
+↑ A, hælend; A, -cnyhtum.
+
+↑ Corp., cw̄., A, B, cwæþ; B, bocyras; A, sæton; B, ofyr moises.
+
+↑ A, wyrcað; A, secgað (twice); B, æftyr hyra; A, weorcum, B, weorcun.
+
+↑ A, byrþena; A, lecgað; A, upan; B, hyra.
+
+↑ B, hyra; Corp., worc (above the line), A, B, weorc; A, men.
+
+↑ A, tobredað heora; Corp., healsbæc, A, halsbæc, B, healsbec; B, hyra.
+
+↑ A, lufiað; A, fyrmestan, B, fyrmysþan; B, -scypun; A, B, fyrmestan; A, B, gesamnungum.
+
+↑ B, strætun; A, men.
+
+↑ B, eowyr; A, synd; A, gebroðra.
+
+↑ A, nemnon; A, fæder (twice); B, ofyr; A, heofenum, B, heofenon.
+
+↑ B, eowyr.
+
+↑ A, yldest syg; B, eowyr.
+
+↑ B, Witudlice; A, ahefðe; A, genyðerod; A, geeadmet; A, up ahafen (up above the line).
+
+↑ A, boceras; A, B, liceteras; A, heofena; B, mannun.
+
+↑ A, inn; A, þafiað, B, geþafigeað; B, oþore.
+
+↑ A, boceras ; A, lyceteras, B, liceteras; A, ænne; Corp., B, elþeodine, A, ælðeodigne; A, geworden, B, gewurdyn.
+
+↑ A, latewas (a second t above the line); A, B, secgað.
+
+↑ A, dysigan; A, tempel.
+
+↑ B, sweryþ (twice); B, ofrunge; B, ofyr; A, weofod.
+
+↑ B, hwæþyr; A, ofrung; A, weofod; A, ofrunge.
+
+↑ B, sweryð; A, weofode; B, eallun; A, synd.
+
+↑ B, eardigað.
+
+↑ A, heofenan; A, swerað (second time); B, ofyr.
+
+↑ B, bocyras; A, lyceteras, B, liceteras; B, teoðigað; A, myntan and dyle; Corp., cymyn (changed into cvmyn), A, cymen, B, cymyn; A, synd; A, hefigran, B, hefegeran; B, þinc; B, oðere; A, forlæton.
+
+↑ A, lateowas (a second t above the line); A, drehniað; B, gnæt; A, olfend.
+
+↑ B, bocyras; A, lyceteras, B, liceteras; B, clænsigað; A, calicas; B, dyxsas; A, synd.
+
+↑ A, ærest; A, calices; A, disces.
+
+↑ A, boceras; A, lyceteras, B, liceteras.
+
+↑ A, synd (twice); B, hwitun byrgenun; A, þincað; B, mannun; B, banun.
+
+↑ B, mannun; A, synd; A, B, licetunge; B, unryhtwisnysse.
+
+↑ A, boceras; A, B, liceteras; B, timbrigað; A, byrgena; B, glencgað.
+
+↑ A, wæron; B, dagun; A, næron; B, hyra; B, witegyna.
+
+↑ B, Witudlice; A, synd (twice); B, sylfun; A, gewytnesse, B, gewitnysse.
+
+↑ A, eowre, B, eowera.
+
+↑ A, B, nædran; B, nædryna.
+
+↑ A, boceras
+
+↑ B, eowrun gesomnungun.
+
+↑ A, abeles, B, abylys; A, betweox; B, þan (for þam; twice); A, weofede.
+
+↑ B, ic secge eow (changed order); B, þinc; B, ofyr.
+
+↑ Corp., gerusalem (second time), A, hierusalem (twice), B, gerusalem (twice); A, synd; A, gegaderian.
+
+↑ B, Witudlice; B, eowyr.
+
+↑ Corp., eow secge (marked for transposition); A, syngon (for secgeon), B, sycgon; A, sig gebletsod sig gebletsod.
+
+
+
+
+
+CAPUT XXIV
+
+
+
+1. And þā sē Hǣlend ūt ēode of þām temple; him tō gēnēalǣhton hys leorningcnihtas þæt hī him ætȳwdon þæs temples getimbrunge.[1]
+
+2. Þā andswarode hē him and cwæð, Gesēoþ gē eall þis? Sōð ic secge ēow, Ne bið hēr lǣfed stān uppan stāne þe ne bēo tōworpen.[2]
+
+3. Đā hē sæt uppan Oliuetes dūne, þā comun hys leorningcnihtas dīhlīce, and cwǣdon, Sege ūs hwænne þās ðing gewurþun? and hwilc tācn sī þīnes tōcymys, and worulde geendunge?[3]
+
+4. Đā andswarode hē him and cwæð, Warniað þæt ēow nān man ne beswīce.[4]
+
+5. Manega cumaþ on mīnum naman, and cweðaþ, Ic eom Crīst; and beswīcaþ manega.[5]
+
+6. Witodlīce gē gehȳrað gefeoht and gefeohta hlīsan; warnigeað þæt gē ne bēon gedrēfede; ðās þing sceolun gewurþan, ac nys þonne gȳt sē ende.[6]
+
+7. Þēod winð ongēn þēode, and rīce ongēn rīce; and manncwealmas bēoð, and hungras wīde geond land, and eorþan styrunga.[7]
+
+
+
+8. Ealle þās þing synt þǣra sāra anginnu.[8]
+
+9. Ðonne syllað hī ēow on gedrēfednysse, and ofslēað ēow; and ealle menn ēow hatigeað for mīnum naman.[9]
+
+10. And þonne bēoð manega ungetrȳwsode, and belǣwað betwyx him, and hatigað him betwȳnan.[10]
+
+11. And manega lēase wītegan cumað, and beswīcað manega.
+
+12. And for þām þe unryhtwīsnys rīxað, manegra lufu ācōlaþ.[11]
+
+13. Witodlīce sē þe þurhwunað oð ende sē byþ hāl.[12]
+
+14. And þis godspel byþ bodod ofer ealle eorþan on gewittnysse eallum þēodum; and þonne cymð sēo geendung.[13]
+
+15. Ðonne gē gesēoð þā onsceonunge þǣre tōworpennysse þe sē wītega gecwæð, Daniel, þā hē stōd on hāligre stōwe,—ongyte sē ðe hit rǣt,—[14]
+
+16. Flēon þonne tō muntum, þā þe on Iudea lande synt.[15]
+
+
+
+17. And sē þe ys uppan hys hūse, ne gā hē nyþyr þæt hē ǣnig þing on his hūse fecce.[16]
+
+18. And sē þe is on æcyre, ne cyrre hē þæt he hys tunecan nyme.[17]
+
+19. Wā ēacniendum and fēdendum on þām dagum![18]
+
+20. Biddað þæt ēower flēam on wintra oððe on restedæge ne gewurþe.[19]
+
+21. Witodlīce þonne byð swā mycel gedeorf, swā næs of middangeardes fruman oþ þis, nē nū ne gewurð.[20]
+
+22. And būton þā dagas gescyrte wǣrun, nǣre nān mann hāl gewordyn; ac for þām gecorenum þe hē gecēas þā dagas bēoð gescyrte.[21]
+
+23. Đonne gyf ēow hwā segð, Nū Crīst ys hēr, oþþe ðǣr; ne gelȳfe gē him.[22]
+
+24. Þonne cumað lēase Crīstas and lēase wītegan, and dōð mycle tācn and forebēacn, þæt ðā bēoþ on gedwolan gelǣdde, gyf hyt bēon mæg, þe gecorene wǣrun.[23]
+
+25. Witodlīce ic hyt ēow foresǣde.[24]
+
+26. Gyf hig ēow secgeað,[25] Hēr hē ys on wēstene; ne fare gē ūt: gyf hig secgeað, Hēr hē is on þurhfērun; ne gelȳfe gē.[26]
+
+27. Witodlīce swā swā līgyt færð fram ēastdǣle and ætȳwð oþ westdǣl, swā byð mannes Suna tōcyme.[27]
+
+28. Swā hwǣr swā hold byþ, þæder bēoð earnas gegaderude.[28]
+
+29. Sōna æfter þǣra daga gedrēfydnesse, sēo sunne byð forsworcen, and sē mōna hys lēoht ne sylð, and steorran feallaþ of þǣre heofenan, and þǣre heofenan mægenu bēoþ āstyrede:[29]
+
+30. and þonne ætȳwð mannes Suna tācn on heofonan; and þonne wēpað ealle eorþan mǣgþa, and gesēoð mannes Sunu cumende on heofonan, genipum mid myclum mægene and mægenþrymme.[30]
+
+31. And hē āsent hys englas mid bȳman and mycelre stefne, and hī gegaderigað hys gecorenan of fēower middaneardes endum, of heofona hēahnyssum oð hyra gemǣru.[31]
+
+
+
+32. Leornigeað bigspell be þām fīctrēowe: þonne hys twig byþ hnesce, and lēaf ācennede, gē witun þæt sumor ys gehende;[32]
+
+33. and wite gē swā, þonne gē þās þing gesēoð, þæt hē ys on durum gehende.[33]
+
+34. Sōð ic secge ēow þæt ðēos cnēorys ne gewīt, ǣr þām þe ealle þās þing gewurðon.[34]
+
+35. Heofone and eorþe gewītað; witodlīce mīne word ne gewītað.[35]
+
+36. Nāt nān mann be þām dæge nē be þǣre tīde, nē furðun englas, būton Fæder āna.[36]
+
+37. Witodlīce swā swā on Noes dagum wæs, swā byð mannes Suna tōcyme.[37]
+
+38. Swā hī wǣrun on þām dagum ǣr þām flōde, etende, and drincynde, and wīfigende, and gyfta syllende, oð þone dæg þe Noe on þā earce eode,[38]
+
+39. and hī nyston ǣr þæt flōd cōm, and nam hig ealle; swā byð mannes Suna tōcyme.[39]
+
+40. Ðonne bēoð twēgen on æcyre; ān byð genumen, and ōðer byþ lǣfyd.[40]
+
+41. Twā bēoð æt cwyrne[41] grindende; ān byð genumen, and ōðer byþ lǣfed. Twēgen bēoþ on bedde; ān byð genumen, and ōþer byð lǣfed.[42]
+
+Đys godspel sceal to mænies confessores mæssedæge.
+
+42. Wacigeað witodlīce, for þām þe gē nyton on hwylcyre tīde ēower Hlāford cuman wyle.[43]
+
+43. Witað þæt gyf sē hīredes ealdor wiste on hwylcere tīde sē þēof tōwerd wǣre, witodlīce hē wolde wacigean, and nolde geþafigan þæt man hys hūs underdulfe.[44]
+
+44. And for þām bēo gē gearwe; for þām ðe mannes Sunu wyle cuman on þǣre tīde þe gē nyton.[45]
+
+45. Wēnst þū hwā sȳ getrȳwe and glēaw þēow, þone geset hys hlāfurd ofer his hīred þæt hē him on tīde mete sylle?[46]
+
+46. Ēadig ys sē þēow þe hys hlāfurd hyne gemēt þus dōndne, þonne hē cymð.[47]
+
+47. Sōþ ic ēow secge þæt ofer eall þæt hē āh hē hyne gesett.[48]
+
+48. Gyf sē yfela þēowa ðencþ on hys heortan and cwyþ, Mīn hlāfurd uferað hys cyme;[49]
+
+
+
+49. and āgynð bēatan hys efenþēowas, and yt and drincþ mid druncenum;[50]
+
+50. þonne cymþ ðæs wēales hlāford on þām dæge ðe hē nā ne wēnþ, and on ðǣre tīde þe hē nāt,[51]
+
+51. and tōdǣlþ hyne, and āsett hys dǣl mid līccetterum; þǣr byþ wōp and tōþa grīstbitung.[52]
+
+
+
+
+
+↑ B, hælynd; B, ætywdun.
+
+↑ A, andswarede; A, ealle; B, læfyd; A, om. stane.
+
+↑ B, oliuetys; A, comon; A, digelice; B, cwædun sæge; B, ðinc; A, geweorðon; A, tacen; A, tocymes.
+
+↑ B, warnigeað.
+
+↑ B, minun.
+
+↑ B, Witudlice; A, warniað, B, warnigað; B, þinc; A, sceolon geweorðan.
+
+↑ A, ongean (twice); A, man-; A, eond.
+
+↑ B, ðinc; A, synd; A, angin.
+
+↑ A, men; A, hatiað, B, hategeað; B, minun.
+
+↑ A, ungetreowsade, B, geuntrysude; A, betweox; A, hatiað.
+
+↑ A, rycsað.
+
+↑ B, Witudlice; B, ot (changed into oð)
+
+↑ A, gewytnysse, B, gewitnysse; B, eallun þeodun.
+
+↑ A, onscununge; B, toworþonnysse; B, wityga; A, þa he stod (standan above these words); B, halire.
+
+↑ B, muntun; A, synd.
+
+↑ A, nyðer; B, þinc; A, fecce on his huse (changed order).
+
+↑ A, on hys æcere.
+
+↑ B, eacniendon and fedendon; B, dagun.
+
+↑ A, om. on wintra oððe (homœoteleuton); A, geweorðe.
+
+↑ B, Witudlice; A, geweorð, B, gewyrð.
+
+↑ B, butun; A, wæron; A, B, man; A, geworden; B, ðan gecorenun.
+
+↑ B, sægþ; A, lyfe.
+
+↑ A, mycele, B, micle; B, gecoryne; A, wæron.
+
+↑ B, Witudlice.
+
+↑ A, B, secgað.
+
+↑ B, westynne; A, secgað, B, sycgað; A, þurhfarenne.
+
+↑ Corp., Witolice, A, Witodlice, B, Witudlice; A, lyget; Corp., estdæle, A, eastdæle, B, iestdæle; B, ot (for oþ).
+
+↑ A, þyder; A, gearnas gegaderode.
+
+↑ A, gedrefednysae, B, gedrefydnysse; B, forsworcyn; B, hefonan (first time).
+
+↑ A, tacen; A, heofenan, B, hefonan; B, manes; B, cumyndne; A, heofenan; Corp., B, genipod, A, genypon; A, mycelum, B, mycelun; B, mægyn-.
+
+↑ A, gegaderiað; B, feowur; A, myddangeardes; B, endun; A, heofena; B, heahnyssun; B, ot; A, heora.
+
+↑ A, Leorniað bygspel; Corp., B, -treowwe, A, -treowe; B, twi (for twig); A wyton; A, sumer, B, sumur.
+
+↑ B, þinc; B, durun.
+
+↑ A, om. þas; B, þinc; A, geweorðan.
+
+↑ A, heofene, B, Hefone; B, witudlice; B, wurd.
+
+↑ A, B, om. mann; B, þan; A furðon, B, furþon; B, butun.
+
+↑ B, Witudlice; B, dagun.
+
+↑ A, wæron; B, dagun; B, etynde; A, dryncende, B, drincende; B, ot.
+
+↑ Corp., B, nysðon, A, nyston; B, tocyme (to- on the margin).
+
+↑ A, æcere; B, genumon; A, læfed.
+
+↑ A, cweorne.
+
+↑ B, genumyn.
+
+↑ Corp., Đ (for W), A, Waciað, B, Wacigað; B, witudlice; A, B, hwylcere.
+
+↑ A, toweard; B, witudlice; A, wacian, B, wacigan; Corp., geþafigen, A, geþafian, B, geþafigan; B, undyr-.
+
+↑ Corp., sunnu, A, B, sunu; B, nytun.
+
+↑ Corp., B, Wens, A, Wenst; A, treowe; A, hlaford; A, om. he.
+
+↑ Corp., B, Eadi, A, eadig; A, hlaford; A, donde.
+
+↑ A, geset.
+
+↑ A, hlaford.
+
+↑ A, et and dryncð; B, druncenun.
+
+↑ Corp., weles, A, weales, B, wieles.
+
+↑ A, aset; A, lyceterum, B, liceterun; A, þær byþ . . . gristbitung (above the line).
+
+
+
+
+
+CAPUT XXV
+
+
+
+Đys [godspel] sceal tō hāligra fǣmnena mæssedæge.
+
+1. Þonne byþ heofena rīce gelīc þām tȳn fǣmnum þe ðā lēohtfatu nāmon, and fērdon ongēn þone brȳdguman and þā brȳde.[1]
+
+2. Hyra fīf wǣron dysige, and fīf glēawe.[2]
+
+3. Ac þā fīf dysegan nāmon lēohtfatu, and ne nāmon nānne ele mid hym;[3]
+
+4. ðā glēawan nāmon ele on hyra fatum mid þām lēohtfatum.[4]
+
+5. Đā sē brȳdguma ylde, þā hnappudon hig ealle and slēpun.[5]
+
+
+
+6. Witodlīce tō middyre nihte man hrȳmde and cwæþ, Nū sē brȳdguma cymð; farað him tōgēnys.[6]
+
+7. Þā āryson ealle þā fǣmnan, and glengdon heora lēohtfatu.[7]
+
+8. Đā cwǣdon þā dysegan tō þām wīsum, Syllaþ ūs of ēowrum ele; for þām ūre lēohtfatu synt ācwencte.[8]
+
+9. Đā andswarudun þā glēawan and cwǣdun, Nese, þē lǣs þe wē and gē nabbon genōh; gāþ tō þām cȳpendum, and bycgað ēow ele.[9]
+
+10. Witodlīce þā hig fērdun and woldon bycgean, þā cōm sē brȳdguma; and þā ðe gearwe wǣrun ēodun in mid him tō þām gyftum; and sēo duru wæs belocyn.[10]
+
+11. Đā æt nēhstan cōmon þā ōðre fǣmnan, and cwǣdun, Dryhtyn, Dryhtyn, lǣt ūs in.[11]
+
+12. Đā andswarode hē heom and cwæð, Sōþ ic ēow secge, ne cann ic ēow.[12]
+
+13. Witodlīce waciað, for þam ðe gē nyton nē þone dæg nē þā tīde.[13]
+
+
+
+Đys godspel gebyrað on sancte Syluestres mæssedæge, and tō ōðra confessorum.
+
+14. Sum mann fērde on elþēodignesse, and clypode hys þēowas, and betǣhte hym hys ǣhta.[14]
+
+15. And ānum hē sealde fīf pund, sumum twā, sumum ān; ǣghwylcum be hys āgenum mægene; and fērde sōna.[15]
+
+16. Đā fērde sē þe ðā fīf pund underfēng, and gestrȳnde ōþre fīfe.[16]
+
+17. And eal swā sē ðe þā twā underfēng gestrȳnde ōðre twā.[17]
+
+18. Witodlīce sē þe þæt ān underfēng fērde and bedēalf hyt on eorðan, and behȳdde hys hlāfurdes feoh.[18]
+
+19. Witodlīce æfter miclum fyrste cōm þǣra þēowa hlāfurd, and dyhte hym gerād.[19]
+
+20. Đā cōm sē þe ðā fīf pund underfēng, and brōhte ōþre fīfe, and cwæð, Hlāfurd, fīf pund þū sealdest mē; nū ic gestrȳnde ōðre fīfe.[20]
+
+21. Đā cwæþ hys hlāford tō hym, Bēo blīþe, þū gōda þēow and getrȳwa; for þām ðe þū wǣre getrȳwe ofer lȳtle þing, ic gesette þē ofer mycle; gā intō þīnes hlāfordes blisse.[21]
+
+
+
+22. Þā cōm sē þe þā twā pund underfēng, and cwæð, Hlāford, twā pund þū mē sealdest; nū ic hæbbe gestrȳnyd ōðre twā.[22]
+
+23. Đā cwæð hys hlāford tō hym, Geblissa, þū gōda þēowa and getrȳwa; for þām ðe þū wǣre getrȳwe ofer fēawa, ofer fela ic ðē gesette; gā on þīnes hlāfordes gefēan.[23]
+
+24. Đā cōm sē þe þæt ān pund underfēng, and cwæð, Hlāford, ic wāt þæt ðū eart heard mann; þū rīpst þǣr ðū ne sēowe, and gaderast þǣr ðū ne sprengdest:[24]
+
+25. and ic fērde ofdrǣd, and behȳdde þīn pund on eorþan; hēr þū hæfst þæt ðīn ys.
+
+26. Đā andswarode hys hlāford him and cwæþ, Þū yfela ðēow and slāwa, ðū wistest þæt ic rȳpe þǣr ic ne sāwe, and ic gaderige þǣr ic ne strēdde;[25]
+
+27. hyt gebyrede þæt þū befæstest mīn feoh mynyterum; and ic nāme, þænne ic cōme, þæt mīn ys mid þām gafole.[26]
+
+28. Ānymaþ þæt pund æt hym, and syllað þām þe mē ðā tȳn pund brōhte.
+
+29. Witodlīce[27] ǣlcon þǣra þe hæfð man sylþ, and hē hæfð genōh; ðām þe næfð, þæt hym þincð þæt hē hæbbe, þæt hym byð ætbrōdyn.[28]
+
+30. And wurpað þone unnyttan þēowan on þā ūttran þȳstru; þǣr byð wōp and tōþa grīstbitung.[29]
+
+Đys [godspel] sceal on mōnandæg on forman fæstendæg.
+
+31. Witudlīce þonne mannes Sunu cymð on hys mægenþrymme, and ealle englas mid him, þonne sitt hē ofer hys mægenþrymmes setl.[30]
+
+32. And ealle þēoda bēoþ tōforan hym gegaderude; and hē āsyndrað hī hym betwȳnan, swā swā sē hyrde āsyndraþ ðā scēp fram tyccenum;[31]
+
+33. and hē gesett þā scēp on hys swīðran healfe, and þā tyccenu on hys wynsteran healfe.[32]
+
+34. [Đonne cwið sē Cyning tō ðām þe on his swīðran healfe bēoð,] Cumað gē geblētsode mīnes Fæder, and onfōð þæt rīce þæt ēow gegearwod ys of middaneardes frymþe.[33]
+
+35. Mē hingrode, and gē mē sealdon etan; mē þyrste, and gē mē sealdun drincan; ic wæs cuma, and gē mē in laþodon;[34]
+
+
+
+36. ic wæs nacud, and gē mē scrȳddon; ic wæs untrum, and gē ēodun tō mē; ic wæs on cwearterne, and gē cōmon tō mē.[35]
+
+37. Þonne andswariað þā rihtwīsan and cweþað, Drihten, hwænne gesāwe wē ðē hingrigendne, and wē ðē fēddon? þyrstendne, and wē ðē drinc sealdon?[36]
+
+38. Hwænne gesāwe wē þæt ðū cuma wǣre, and þē in laþodon? oððe nacodne, and wē þē scrȳddon?[37]
+
+39. [oððe hwænne gesāwon wē ðē untrumne,] oððe on cwearterne, and cōmon tō þē?[38]
+
+40. Đonne andswarað sē Cyning hym and cwyþ tō heom, Sōþ ic ēow secge, Swā lange swā gē dydon ānum of ðysum mīnum lǣstum gebrōðrum, swā lange gē hyt dydon mē.[39]
+
+41. Þonne segþ hē þām þe bēoð on hys wynstran healfe, Gewītað, āwyrgyde, fram mē on þæt ēce fȳr þe ys dēofle and hys englum gegearwud.[40]
+
+
+
+42. Witodlīce mē hingryde, and gē ne sealdon mē etan; mē þyrste, and gē mē drincan ne sealdun;[41]
+
+43. ic wæs cuma, and gē mē †in ne gelaþodun; ic wæs nacod, and gē ne scrȳddon mē; ic wæs untrum and on cwearterne, and gē ne cōmon æt mē.[42]
+
+44. Đonne andswarigeaþ hym þā and cweðaþ, Dryhtyn, hwænne gesāwe wē þē hingrigendne, oððe þyrstendne, oðþe cuman, oððe untrumne, oþþe on cwearterne, and wē ne þēnedon þē?[43]
+
+45. Þonne andswarað sē Cyning heom and cwyð, Sōþ ic ēow secge, Swā lange swā gē ne dydon ānum of þysum lǣstum, ne dyde gē hyt mē.[44]
+
+46. And þonne farað hig on ēce sūsle; and þā rihtwīsan on þæt ēce līf.
+
+
+
+
+
+↑ B, heofona; B, fæmnun; B, namun; B, ferdun; A, ongean.
+
+↑ A, heora; B, wærun.
+
+↑ B, namun (twice); A, nænne.
+
+↑ B, namun; A, heora; B, fatun; B, -fatun.
+
+↑ A, hnappedon; A, slepon.
+
+↑ B, Witudlice; A, myddre; A, togeanes.
+
+↑ B, arysun; B, glencdon hyra.
+
+↑ A, wysan, B, wisun; B, eoworun; A, synd.
+
+↑ A, andswaredon; A, cwædon; A, þy læs þe; B, cypendun.
+
+↑ B, Witudlice; A, ferdon; A, B, bycgan; B, gearuwe; A, eodon; B, gyftun; A, belocen.
+
+↑ B, comun; B, oðore; A, cwædon; A, dryhten (twice).
+
+↑ A, B, hym; B, sycge; A, B, can.
+
+↑ B, witudlice wacigað; B, nytun.
+
+↑ A, B, man; Corp., B, elþeodinysse, A, elþeodignysse.
+
+↑ B, anun; B, sumun (twice); B, æghwylcun; B, agenun.
+
+↑ B, underfenc; B, oþere.
+
+↑ A, eall; B, underfenc; B, oðere.
+
+↑ B, Witudlice; B, underfenc; Corp., bedelf, A, bedealf, B, bedielf; A, hlafordes.
+
+↑ B, Witudlice; A, mycelum, B, myclun; A, hlaford.
+
+↑ B, underfenc; B, oþere (twice); A, hlaford; A, and nu.
+
+↑ B, hlafurd; A, getreowa; B, ofor; B, þinc; B, ofyr; A, mycele.
+
+↑ B, underfenc; B, Hlafurd; A, gestryned; B, oþore.
+
+↑ B, hlafurd; A, getreowa; A, fæla.
+
+↑ B, underfenc; B, Hlafurd; A, man; A, þar (second time).
+
+↑ B, andswarude; B, hlafurd; A, þar (second time).
+
+↑ B, gebyryde; A, myneterum myn feoh (changed order); B, mynytyrun; A, þonne.
+
+↑ B, Witudlice.
+
+↑ A, ætbroden.
+
+↑ A, weorpað; A, utteran, B, uttyran; A, þeostru.
+
+↑ A, Witodlice; A, megen-, B, mægyn-; A, syt, B, sit; B, ofyr.
+
+↑ A, gegaderode; A, om. betwynan; A, asyndreð; B, tyccenun.
+
+↑ A, geset; A, sceap; B, swiþeran; A, wynstran.
+
+↑ Corp., B, om. Đonne cwið . . . beoð, A, Đonne cwið se cyning to ðam þe on his swiðran healfe beoð (at first omitted, then supplied above the line); B, gebletsude minys fædyr; A, B, -geardes.
+
+↑ A, hyngrede, B, hingryde; B, sealdun (twice); A, sealdon (second time); A, yn laþedon.
+
+↑ A, nacod; B, scryddun; A, eodon; B, cwierterne.
+
+↑ B, andswarigeað; B, Dryhtyn; A, hyngrigende; B, sealdun.
+
+↑ A, gesawon; A, yn laðedon, B, in laþodun; A, nacedne.
+
+↑ Corp., B, om. oððe hwænne . . . untrumne, A, oððe hwænne gesawon we ðe untrumne; B, cwierterne; A, and we comon.
+
+↑ B, cyninc; A, hym, B, him (for heom); B, dydun; B, anun; A, þyssum; B, þysun; B, minun læstun; Corp., gebroðorum, A, gebroðrum, B, gebroðorun; B, dydun.
+
+↑ B, sægþ; B, wynsteran; A, gewytað ge awyrgede; B, englun; A, gegearwod, B, gegearewud.
+
+↑ B, Witudlice; A, hyngrede; A, and ge me ne (changed order); B, sealdun; A, dryncan ne sealdon.
+
+↑ Corp., B, ge me ne in ne gelaþodun, A, ge me in ne laðedon; B, nacud; A, B, ge me ne scryddon (changed order); B, cwærterne; B, comun.
+
+↑ A, om. entire verse (homœoteleuton); Corp., B, þyrsþendne; B, cwærterne.
+
+↑ A, hym se cyning (changed order), B, se cyninc him; B, dydun anun þysun læstun; A, dydon ge.
+
+
+
+
+
+CAPUT XXVI
+
+
+
+1. Witodlīce þā sē Hǣlend hæfde ealle þās sprǣca geendud, þā cwæð hē tō hys leorningcnihtum,[1]
+
+2. Wite gē þæt æfter twām dagum bēoð ēastro,[2] and mannes Bearn byþ geseald þæt hē sī on rōde āhangen.
+
+3. Đā wǣron gesamnode þā ealdras þǣra sācerda, and hlāfordas þæs folces, to ðǣra sācerda ealdres botle þe wæs genemned Kaiphas;[3]
+
+4. and hig hæfdon mycel gemōt þæt hig woldon þone Hǣlend mid fācne besyrwan, and ofslēan.[4]
+
+5. Hig cwǣdon witodlīce sume þæt hyt ne mihte bēon on þām frēolsdæge, þē lǣs tō mycel styrung wurde on þām folce.[5]
+
+6. Đā sē Hǣlynd wæs on Bethania, on Symones hūse þæs hrēoflan,[6]
+
+7. ðā genēalǣhte him tō sum wīf, sēo hæfde box mid dēorwyrðre sealfe, and āgēat uppan hys hēafud þǣr hē sæt.[7]
+
+8. Þā gesāwun hys leorningcnihtas þæt, and wurdon gebolgene, and cwǣdon, Tō hwan ys þiss forspilled?[8]
+
+9. Þis mihte bēon geseald tō myclum wurþe, and þearfum gedǣled.[9]
+
+10. Þā sē Hǣlend hyt wiste, þā cwæð hē tō heom, Hwī synt gē grame þysum wīfe? witodlīce gōd weorc hēo worhte on me.[10]
+
+
+
+11. Symle gē habbað þearfan mid ēow; ac gē nabbað mē symle.
+
+12. Hēo dyde þās sealfe on mīnne līchaman þæt ic wǣre gesmyryd tō bebyrgynne.[11]
+
+13. Sōð ic secge ēow, Swa hwǣr swā þys godspel byð gebodud on eallum middanearde, byð gesǣd on hyre gemynd þæt hēo ðiss dyde.[12]
+
+14. Đā fērde ān of þām twelfum, þe wæs genemned Iudas, sē wiþersaca, tō þǣra sācerda ealdrum,
+
+15. and cwæð tō heom, Hwæt wylle gē mē syllan, and ic hyne belǣwe ēow? Đā behēton hig hym þrītig scyllinga.[13]
+
+16. And syþþan hē smēade geornlīce þæt hē hyne wolde belǣwan.
+
+17. Þā on þām forman gearcungdæge genēalǣhton ðā leorningcnihtas tō þām Hǣlende, and þus cwǣdon, Hwǣr wylt ðū þæt wē gegearwion þē þīne ðēnunga tō ēastron?[14]
+
+18. Đā cwæð sē Hǣlynd, Farað on þās ceastre tō sumum menn, and secgeað him, Sē Lārēow segð, Mīn tīma ys gehende þæt ic mid þē wyrce mīne ēastro mid mīnum leorningcnihtum.[15]
+
+
+
+19. And þā leorningcnihtas dydon swā sē Hǣlynd heom bebēad; and hig gegearwodon him ēasterþēnunga.[16]
+
+20. On þām ǣfene sæt sē Hǣlynd mid hys twelf leorningcnihtum æt gereorde.[17]
+
+21. And þā hī ǣtun, hē cwæð tō him, Witodlīce ic secge ēow þæt ān ēower belǣwð mē.[18]
+
+22. Đā wurdon hig swīþe geunrōtsode, and ongann ānra gehwylc cweðan, Drihtyn, cwyst þū eom ic hyt?[19]
+
+23. And hē andswarode and þus cwæð, Sē þe bedȳpð on disce mid mē hys hand sē mē belǣwð.[20]
+
+24. Witodlīce mannes Sunu færþ, swā hit āwriten ys be him; wā þām menn þurh þone þe byþ mannes Sunu belǣwed! betere wǣre þām menn þæt hē nǣfre nǣre ācenned.[21]
+
+25. Þā cwæð Iudas þe hyne belǣwde, Cwyst þū, Lārēow, hwæðer ic hyt sī? Đā cwæð sē Hǣlend, Þū hyt sǣdest.[22]
+
+26. Witodlīce þā hig ǣtun, sē Hǣlend nam hlāf, and hyne geblētsode, and bræc, and sealde hys leorningcnihtum, and cwæð, Onfōþ, and etað; þis ys mīn līchama.[23]
+
+
+
+27. And hē genam þone calic, þanciende, and sealde hym, þus cweþende, Drincað ealle of þisum;[24]
+
+28. þis is witodlīce mīnes blōdes calic nīwre ǣ, þæt byð for manegum āgoten on synna forgyfenysse.[25]
+
+29. Witodlīce ic secge ēow þæt ic ne drince heonun forð of þysum eorðlīcan wīne, ǣr þām dǣge þe ic drince þæt nīwe mid ēow on mīnes Fæder rīce.[26]
+
+30. Đā hig hæfdon heora lofsang gesungene, þā fērdon hig uppan Oliuetes dūne.[27]
+
+31. Đā sǣde sē Hǣlend heom, Ealle gē wurþað geuntrēowsode on mē on þysse nihte: hyt ys āwriten, Þurh þæs hyrdes slege byð sēo heord tōdrǣfed.[28]
+
+32. Witodlīce æfter þām þe ic of dēaþe ārīse, ic cume tō ēow on Galilea.[29]
+
+33. Đā andwyrde Petrus him and þus cwæð, Đēah þe hig ealle geuntrēowsion on þē, ic nǣfre ne geuntrēowsige.
+
+34. Þā cwæð sē Hǣlend, Sōþ ic secge þē þæt on þissere nihte, ǣr þām þe cocc crāwe þrīwa, þū wiðsæcst mīn.[30]
+
+
+
+35. Đā sǣde Petrus him, Witudlīce þēah þe ic scyle sweltan mid þē, ne wiþsace ic þīn. Gelīce þām cwǣdon ealle ðā ōþre leorningcnihtas.[31]
+
+36. Đā cōm sē Hǣlynd mid him on þone tūn þe is genemned Gezemani, and sǣde hys leorningcnihtum, Sittað hēr, oð þæt ic gā hider geond and mē gebidde.[32]
+
+37. And hē genam Petrum and Zebedeus twēgen suna, and ongann unrōtsian and bēon unrōt.[33]
+
+38. Đā sǣde sē Hǣlynd heom, Unrōt ys mīn sāwl oþ dēað; gebīdað hēr, and waciað mid mē.[34]
+
+39. And þā hē wæs lȳthwōn þanon āgān, hē āfēoll on hys ansȳne, and hyne gebæd and þus cwæð, Fæder mīn, gyf hyt bēon mæge, gewīte þēs calic fram mē; þēah hwæþere nā swā swā ic wylle, ac swā swā þū wylt.[35]
+
+40. And hē cōm tō hys leorningcnihtum, and hē gemētte hig slǣpende; and hē sǣde Petre, Swā, ne mihton gē nū wacian āne tīd mid mē?[36]
+
+41. Waciaþ and gebiddað ēow þæt gē in ne gān on costunge; witudlīce sē gāst is hræd, and þæt flǣsc ys untrum.[37]
+
+42. Eft ōþre sīðe hē fērde, and hyne gebæd and cwæþ, Mīn Fæder, gyf þēs calic ne mæge gewītan būton ic hyne drince, gewurþe þīn willa.[38]
+
+43. And hē cōm eft, and gemētte hig slǣpende; sōðlīce heora ēagan wǣron gehefegode.[39]
+
+44. And hē forlēt hig eft and fērde, and hyne gebæd þryddan sīðe, cweþende þæt ylce gebed.
+
+45. Þā cōm hē tō hys leorningcnihtum, and sǣde heom, Slāpað eallunga, and restað ēow; nū genēalǣcþ sēo tīd, and mannes Sunu byð geseald on synfulra hand.[40]
+
+46. Ārīsað, uton faran; nū genēalǣcð sē þe mē belǣwð.[41]
+
+47. Đā hē þās þing spræc, þā cōm Iudas, ān of þām twelfum, and micel folc mid hym mid swurdum and sāhlum, āsende fram þǣra sācerda ealdrum and þæs folces ealdrum.[42]
+
+48. Sē þe hyne belǣwde sealde heom tācn and cwæð, Swā hwæne swā ic cysse, sē hyt is; nimaþ hyne.[43]
+
+49. And hē genēalǣhte hrædlīce tō þām Hǣlende, and cwæð, Hāl bēo þū, Lārēow; and he cyste hyne.[44]
+
+50. Đā cwæð sē Hǣlend tō him, Ēalā frēond, tō hwan becōm þū? Đā genēalǣhton hig, and þone Hǣlend genāmon.[45]
+
+
+
+51. Witudlīce ān þǣra þe mid þām Hǣlende wæs ābrǣd hys swurd, and āslōh of ānys þǣra sācerda ealdres þēowan ēare.[46]
+
+52. Đā cwæð sē Hælend tō hym, Dō þīn swurd on hys scǣþe; witodlīce ealle þā ðe swurd nymað, mid swurde hig forwurþað.[47]
+
+53. Wēnst þū þæt ic ne myhte biddan mīnne Fæder þæt hē sende mē nū mā þonne twelf ēorydu engla?[48]
+
+54. Hū magon bēon gefyllede þā hālgan gewritu þe be mē āwritene synt, for þām þus hyt gebyrað tō bēonne?[49]
+
+55. On þǣre tīde cwæð sē Hǣlend tō þām folce, Eall swā tō þēofe gē synt cumene mid swurdum and mid sāhlum mē tō nymenne; dæghwāmlīce ic sæt mid ēow on þām temple and lǣrde ēow, and gē mē ne nāmon.[50]
+
+56. Đis eall ys geworden þæt ðǣra wītegena hālgan gewritu sȳn gefyllede. Þā flugon ealle þā leorningcnihtas, and forlēton hyne.[51]
+
+57. And hig genāmon þone Hǣlend, and lǣddon hyne tō Caiphan þǣra sācerda ealdre þǣr ðā bōceras and þā ealdras gesamnod wǣron.[52]
+
+
+
+58. Petrus hym fylide feorrane oð hē cōm tō þǣra sācerda ealdres botle; and hē in ēode, and sæt mid þām þēnum þæt hē gesāwe þone ende.[53]
+
+59. Witodlīce þǣra sācerda ealdras and eall þæt gemōt sōhton lēase saga ongēn þone Hǣlend ðæt hig hyne tō dēaþe sealdon;[54]
+
+60. and hig ne mihton nāne findan. Đā þā manega mid lēasum onsagum genēalǣhton, þā æt nēhstan cōmon twēgen þǣra lēogera, and cwǣdon,
+
+61. Đēs sǣde, Ic mæg tōwurpan Godes templ, and æfter þrȳm dagum hyt eft getimbrigean.[55]
+
+62. Đā ārās ealdor þǣra sācerda, and cwæð, Ne andwyrtst þū năn þing ongēn þā ðe þiss ðē onsecgeað?[56]
+
+63. Sē Hǣlend suwode. Þā sē ealdor þǣra sācerda cwæð, Ic hālsige þē ðurh þone lyfiendan God þæt ðū secge ūs gyf þū sȳ Crīst, Godes Sunu.[57]
+
+64. Đā cwæð sē Hǣlynd him tō, Þæt ðū sǣdest. Sōð ic ēow secge, Æfter þyson gē gesēoð mannes Bearn[58] sittende on þā swīðran healfe Godes mægenþrymmes, and cumendne on heofones wolcnum.[59]
+
+65. Đā þǣra sācerda ealdor slāt hys āgyn rēaf, and cwæð, Þis ys bysmorsprǣc; tō hwī wilnige wē ǣnigre ōþre sage? nū gē gehȳrdon of hym gyltlīce sprǣce;[60]
+
+66. hwæt ys ēow nū geþūht? Hig andwyrdon ealle and cwǣdon, Hē is dēaþes scyldig.[61]
+
+67. Þā spǣtton hig on hys ansȳne, and bēoton hyne mid heora fȳstum; sume hyne slōgon on his ansȳne mid hyra brādum handum,[62]
+
+68. and cwǣdon, Sege ūs, Crīst, hwæt is sē þe ðē slōh
+
+69. Petrus sōðlīce sǣt ūte on þām cafertūne; þā cōm tō hym ān þēowyn, and cwæð, And þū wǣre mid þām Galileiscean Hǣlynde.[63]
+
+70. And hē wiðsōc beforan eallum and cwæð, Nāt ic hwæt þū segst.[64]
+
+71. Đā hē ūt ēode of þǣre dura, ðā geseah hyne ōþer wȳln, and sǣde þām ðe þǣr wǣron, And þēs wæs mid þām Nazareniscean Hǣlende.[65]
+
+
+
+72. And hē wiðsōc eft mid āþe þæt hē hys nān þing ne cūðe.[66]
+
+73. Đā æfter lȳtlum fyrste genēalǣhton þā ðe þǣr stōdun, and cwǣdon to Petre, Sōþlīce þū eart of hym, and þīn sprǣc þē geswutelað.[67]
+
+74. Đā ætsōc hē and swerede þæt hē nǣfre þone man ne cūþe. And hrædlīce þā crēow sē cocc.[68]
+
+75. Þā gemunde Petrus þæs Hǣlendes word þe hē cwæð, Ǣr ðām þe sē cocc crāwe, þrīwa ðū mē widsæcst. And hē ēode ūt, and wēop bityrlīce.[69]
+
+
+
+
+
+↑ B, Witudlice; B, hælynd; A, geendod; B,-cnihtun.
+
+↑ A, eastron.
+
+↑ A, gesomnode; A, nemned caiphas.
+
+↑ B, hælynd; Corp., B, mid, A, myd.
+
+↑ B, cwadun witudlice; A, þy læs.
+
+↑ A, hælend.
+
+↑ Corp., B, mid, A, myd; Corp., deorwyrðe, A, B, deorwyrðre; A, heafod.
+
+↑ A, gesawon; A, þys.
+
+↑ A, mycelum; A, weorðe, B, wyrðe.
+
+↑ B, hælynd; A, þæt wiste; A, B, hym; A, synd; B, þysun; B, witudlice.
+
+↑ A, gesmyred; A, bebyrianne.
+
+↑ A, hwar; A, gebodod; A, myddangearde; A, þys, B, þiss.
+
+↑ A, hym, B, him (for heom); A, þryttig.
+
+↑ A, -cnyhtas; B, hælynde; A, cwædon þus (changed order); B, cwædun; A, hwar.
+
+↑ A, hælend; B, sumun; A, B, men; A, B, secgað; B, sægð; A, weorðie myne eastron; B, -cnihtun.
+
+↑ A, hælend hym; A, -þenunge.
+
+↑ A, hælend.
+
+↑ A, æton; B, Witudlice; A, belæweð.
+
+↑ A, B, ongan; A, dryhten.
+
+↑ A, andswarede and he cw̄.; A, belæweð.
+
+↑ A, B, men; A, men.
+
+↑ B, Cwystu; B, hælynd.
+
+↑ B, Witudlice; A, æton and se; A, bletsode; B, -cnihtun.
+
+↑ A, heom; A, om. þus; A, þyssum, B, þysun.
+
+↑ B, witudlice; A, -nesse, B,-nnysse.
+
+↑ B, Witudilice; A, heonon.
+
+↑ B, hyra; Corp., B, gesunggenne, A, gesungene; B, fer (for ferdon).
+
+↑ B, hælynd; A, hym, B, him; A, weorðað.
+
+↑ B, Witudlice.
+
+↑ B, hælynd.
+
+↑ A, om. witudlice.
+
+↑ A, hælend; A, giezemani; B, -cnihtun; A, hyder eond.
+
+↑ A, B, ongan.
+
+↑ A, hælend; A, B, hym.
+
+↑ A, þanen; A, afeol.
+
+↑ B, -cnihtun A, B, myhte ge.
+
+↑ A, costnunge; A, B, witodlice.
+
+↑ A, gedrynce geweorðe.
+
+↑ B, hyra.
+
+↑ B, -cnihtun; A, B, hym; A, genealæceð.
+
+↑ A, genealæceð.
+
+↑ A, twelfon.
+
+↑ A, B, hym (for heom).
+
+↑ A, hrædlyce.
+
+↑ B, hælynd.
+
+↑ A, wytodlice; B, hælynde; A, sweord; A, anes.
+
+↑ B, hælynd; A, sweord (twice); B, Witudlice; A, sweorde; A, forweorþað.
+
+↑ A, eoredu.
+
+↑ A, synd; A, gebyreð.
+
+↑ B, hælynd; A, synd; A, sweordum; A, nymanne.
+
+↑ B, witygyna.
+
+↑ B, hælynd.
+
+↑ A, fyligde; Corp., feorranne, A, feorenne, B, feorrane.
+
+↑ B, Witudlice; A, ongean.
+
+↑ B, sęde; A, toworpan; A, tempel; A, getymbrian.
+
+↑ A, andwyrdst; A, ongean; A, þa ðe þys, B, ðe þis (om. þa); A, onsecgað.
+
+↑ B, hælynd; A, swigade; A, lyfigendan.
+
+↑ A, Hælend; A, þysum, B, þysun; A, sunu (for bearn).
+
+↑ B, mægn-; Corp., cumendne (last n above the line); A, heofenes.
+
+↑ A, B, agen; A, nu we (for nu ge); A, gyltelyce; A, specan (glossed spræce).
+
+↑ Corp., andwerdon, A, andwyrdon, B, andwyrdan.
+
+↑ B, hyra (for heora); A, heora (for hyra).
+
+↑ A, þeowen; A, galileiscan hælende.
+
+↑ B, sægst.
+
+↑ A, geseh; A, þynen (dotted for deletion and with wiln above the line; for wyln); A, þar; A, nazareniscan.
+
+↑ B, þæt he (he on the margin).
+
+↑ B, lytlun; A, stodon; B, cwædun; A, gesweotolað.
+
+↑ B, sweryde; A, om. þa.
+
+↑ B, hælyndes; Corp., B, wurd, A, word; A, byterlice.
+
+
+
+
+
+CAPUT XXVII
+
+
+
+1. Witodlīce þā hyt morgen wæs, ðā worhton ealle þǣra sācerda ealdras gemōt and þæs folces ealdras ongēn þone Hǣlend þæt hig hyne dēaþe belǣwdon;[1]
+
+2. and hig lǣddon hyne gebundenne, and sealdon hyne þām Pontiscean Pilate þām dēman.[2]
+
+3. Đā geseah Iudas þe hyne belǣwde þæt hē fordēmed wæs, þā ongann hē hrēowsian, and brōhte þā þrīttig scyllingas tō þǣra sācerda ealdrum, and cwæð,[3]
+
+
+
+4. Ic syngode, þā ic sealde þæt rihtwīse blōd. Đā cwǣdon hig, Hwæt spycst þū þæt tō ūs?[4]
+
+5. And hē āwearp þā scyllingas in on þæt templ, and fērde and mid grȳne hyne sylfne āhēng.[5]
+
+6. Đā sōðlīce þǣra sācerda ealdras onfēngon þæs seolfres, and cwǣdon, Nys hyt nā ālȳfed þæt wē āsendon hyt on ūre maðmcyste, for þām hyt is blōdes wurð.[6]
+
+7. Hig worhton þā gemōt, and smēadon hū hig sceoldon þæs Hǣlendes wurð ātēon; þā gebohton hig ǣnne æcyr mid þām fēo tigylwyrhtena on tō bebyrgenne elþēodisce menn.[7]
+
+8. For þām is sē æcer gehāten Acheldemagh, þæt is on ūre geþēode, blōdes æcyr; and swā hē is gehāten oð þisne dæg.[8]
+
+9. Đā wæs gefylled þæt gecweden is þurh Hieremiam þone wītegan, þus cweþende, And þā hig onfēngon þrīttig scyllinga, þæs gebohtan wurð þone ðe wæs ǣr gewurþod fram Israhela bearnum;[9]
+
+10. and hig sealdon þæt on tigelwyrhtena æcyr, swā swā Drihten mē gesette.[10]
+
+
+
+11. Þā stōd sē Hǣlend beforan þām dēman, and sē dēma hyne āxode þus cweðende, Eart þū Iudea Cyning? Þā cwæð sē Hǣlend, Þæt ðū segst.[11]
+
+12. And mid þȳ ðe hyne wrēgdon þǣra sācerda ealdras and þā hlāfordas, nān þing hē ne andswarode.[12]
+
+13. Đā cwæð Pilatus tō him, Ne gehȳrst þū hū fela sagena hig ongēn þē secgeað?[13]
+
+14. And hē nē andwyrde mid nānum worde; swā þæt sē dēma wundrode swīþlīce.[14]
+
+15. Hig hæfdon heom tō gewunan tō heora symbeldæge þæt sē dēma sceolde forgyfan þām folce ǣnne forwyrhtne mann, swylcne hig habban woldon.[15]
+
+16. Hē hæfde þā sōðlīce ǣnne strangne þēofmann gehæftne, sē wæs genemned Barrabbas.[16]
+
+17. Þā þæt folc gesamnod wæs, þā cwæð Pilatus, Hwæþer wylle gē þæt ic ēow āgyfe? þe Barrabban, ðe þone Hǣlynd ðe is Crīst gehāten?[17]
+
+18. Hē wiste sōðlīce þæt hig hyne for andan him sealdon.
+
+19. Hē sæt þā Pilatus on his dōmsetle; þā sende his wīf tō hym, and cwæð, Ne bēo þē nān þing gemǣne ongēn þisne rihtwīsan; sōðlīce fela ic hæbbe geþolod tō dæg þurh gesyhðe for hym.[18]
+
+20. Đā lǣrdon þǣra sācerda ealdras and þā hlāfordas þæt folc þæt hig bǣdon Barrabban, and þone Hǣlend fordydon.[19]
+
+21. Đā andwyrde sē dēma and sǣde heom, Hwæþerne wylle gē þæt ic forgyfe ēow of þisum twām? Đā cwǣdon hig, Barrabban.[20]
+
+22. Þā cwæð Pilatus tō heom, Witodlīce hwæt dō ic be þām Hǣlende þe is Crīst genemned? Đā cwǣdon hig ealle, Sȳ hē on rōde āhangen.[21]
+
+23. Đā cwæð sē dēma tō heom, Witodlīce hwæt yfeles dyde þēs? Hī ðā swīþor clypodon þus cweðende, Sȳ hē āhangen.[22]
+
+24. Đā geseah Pilatus þæt hyt nāht ne fremode, ac gewurde māre gehlȳd, þā genam hē wæter and þwōh hys handa beforan þām folce, and cwæð, Unscyldig ic eom fram þyses rihtwīsan blōde; gē gesēoð.[23]
+
+25. Đā andswarode eall þæt folc and cwæð, Sȳ hys blōd ofer ūs and ofer ūre bearn.[24]
+
+26. Đā forgeaf hē hym Barrabban; and þone Hǣlynd hē lēt swingan, and sealde heom tō āhōnne.[25]
+
+
+
+27. Þā underfēngon þæs dēman cempan þone Hǣlynd on ðām dōmerne, and gegaderodon ealne þone ðrēat tō heom;[26]
+
+28. and unscrȳddon hyne hys āgenum rēafe, and scrȳddon hyne mid weolcenrēadum scyccelse;
+
+29. and wundon cynehelm of þornum, and āsetton ofer hys hēafod, and hrēod on hys swīðran; and bīgdon heora cnēow beforan him, and bysmorudun hyne þuss cweþende,[27]
+
+30. Hāl wes þū, Iudea Cyning! and spǣtton on hyne, and nāmon hrēod and bēotun hys hēafod.[28]
+
+31. And æfter þām þe hig hyne þus bysmerodon, hig unscrȳddon hyne þām scyccelse, and scrȳddon hyne mid hys āgenum rēafe, and lǣddon hyne tō āhōnne.[29]
+
+32. Sōþlīce ðā hig ūt fērdon, þā gemētton hig ǣnne Cyreniscne mann cumende heom tōgēnes, þæs nama wæs Symon; þone hig nȳddon þæt hē bǣre hys rōde.[30]
+
+33. Đā cōmon hig on þā stōwe þe ys genemned Golgotha, þæt is, hēafodpannan stōw.
+
+34. And hig sealdon hym wīn drincan, wið geallan gemenged; and þā hē hys onbyrigde, þā nolde hē hyt drincan.[31]
+
+
+
+35. Sōþlīce ǣfter þām þe hig hyne on rōde āhēngon, hig tōdǣldon hys rēaf, and wurpon hlot þǣr ofer: þæt wǣre gefylled þæt ðe gecweden wæs þurh ðone wītegan, and þus cwæð, Hig tōdǣldon heom mīne rēaf, and ofer mīne rēaf hig wurpon hlot.[32]
+
+36. And hig behēoldon hyne, sittende.
+
+37. And hig āsetton ofer hys hēafod hys gylt þuss āwritenne, Đis ys sē Hǣlynd, Iudea Cyning[33]
+
+38. Đā wǣron āhangen mid hym twēgen sceaþan, ān on þā swīðran healfe, and ōðer on þā wynstran.
+
+39. Witodlīce þā wegfērendan hyne bysmeredon, and cwehton heora hēafod,[34]
+
+40. And cwǣdon, Wā þæt ðēs tōwyrpð Godes templ, and on þrīm dagum hyt eft getimbrað; gehǣl nū þē sylfne; gyf þū sȳ Godes Sunu, gā nyþer of þǣre rōde.[35]
+
+41. Ēac þǣra sācerda ealdras hyne bysmeredon mid þām bōcerum and mid þam ealdrum, and cwǣdun,[36]
+
+42. Ōþere hē gehǣlde, and hyne sylfne gehǣlan ne mæg. Gyf hē Israhela Cyning sȳ, gā nū nyþer of þǣre rōde, and wē gelȳfað hym.[37]
+
+
+
+43. Hē gelȳfð on God; ālȳse hē hyne nū, gyf hē wylle: witodlice hē sǣde, Godes Sunu ic eom.[38]
+
+44. Gelīce þā sceaðan þe mid him āhangene wǣron hyne hyspdun.[39]
+
+45. Witodlīce fram þǣre sixtan tīde wǣron geworden þȳstru ofer ealle eorðan oþ þā nigoþan tīd.[40]
+
+46. And ymbe þā nygoðan tīd clypode sē Hǣlend mycelre stefne and þuss cwæð, Heli, Heli, lema zabdani? þæt ys on englisc, Mīn God, mīn God, tō hwī forlēte þū me?[41]
+
+47. Sōþlīce sume þā ðe þǣr stōdon and þis gehȳrdon cwǣdon, Nū hē clypað Heliam.[42]
+
+48. Đā hrædlīce arn ān heora and genam āne spongean, and fylde hig mid ecede, and āsette ān hrēod þǣr on, and sealde hym drincan.[43]
+
+49. Witodlīce þā ōðre cwǣdon, Lǣt; utun gesēon hwæþer Helias cume, and wylle hyne ālȳsan.[44]
+
+50. Þā clypode sē Hǣlynd eft mycelre stefne, and āsende hys gāst.[45]
+
+51. And þǣrrihte ðæs temples wāhryft wearð tōsliten on twēgen dǣlas fram ufeweardon oð nyþeweard; and sēo eorðe bifode; and stanas tōburston;[46]
+
+
+
+52. and byrgena wurdun geopenode; and manige hālige līchaman ðe ǣr slēpon āryson;[47]
+
+53. and þā hig ūt ēodon of þām byrgenum æfter hys ǣryste, hig cōmun on þā hāligan ceastre, and ætēowdon hig manegum.[48]
+
+54. Witodlīce þæs hundredes ealdor, and ðā þe mid him wǣron healdende þone Hǣlynd, þā hig gesāwon þā eorðbifunge and þā ðing ðe þǣr gewurdon, hig ondrēdon heom ðearle, and cwǣdon, Sōðlīce Godes Sunu wæs þēs.[49]
+
+55. Witodlīce þǣr wǣron manega wīf feorran, þā ðe fyligdon þām Hǣlende fram Galilea, him ðēnigende.[50]
+
+56. Betwuh þām wæs sēo Magdalenisce Maria, and Maria Iacobes mōder and Iosephes mōdur, and Zebedeis sunena mōdor.[51]
+
+57. Sōðlīce þā hyt ǣfen wæs, cōm sum welig mann of Arimathia, þæs nama wæs Iosep, sē sylfa wæs þæs Hǣlyndes leorningcniht.[52]
+
+58. Hē genēalǣhte tō Pilate, and bæd þæs Hǣlyndes līchaman. Đā hēt Pilatus āgyfan him þone līchaman.[53]
+
+
+
+59. And Iosep genam þone līchaman, and bewand hyne mid clǣnre scȳtan,
+
+60. and lēde hyne on hys nīwan byrgene, ðā hē āhēow on stāne; and hē tō āwylte mycelne stān tō hlide þǣre byrgene, and fērde syþþan.[54]
+
+61. Đǣr wæs sōðlīce sēo Magdalenisce Maria and sēo ōðer Maria, sittende æt þǣre byrgene.[55]
+
+62. Witodlīce ōðrum dæge þe wæs gearcungdæg, cōmon tōgædere þǣra sācerda ealdras and þā sundorhālgan tō Pilate,[56]
+
+63. and cwǣdon, Hlāford, wē gemunon þæt sē swica sǣde, þā hē on līfe wæs, Æfter þrȳm dagon ic ārīse.
+
+64. Hāt nū healdan þā byrgene oð þone þryddan dæg, þē lǣs hys leorningcnihtas cumon and forstelon hyne, and secgeon þām folce þæt hē āryse of dēaþe; þonne byð þæt æftre gedwyld wyrse þonne þæt ǣrre.[57]
+
+65. Đā cwæð Pilatus, Gē habbað heordrǣdenne; farað, and healdað swā swā gē witon.[58]
+
+66. Sōþlīce hig fērdon, and ymbetrymedon þā byrgene, and innseglodon þone stān, mid þām weardum.[59]
+
+
+
+
+
+↑ B, Witudlice; A, ongean; B, hælynd.
+
+↑ A, pontiscan.
+
+↑ A, B, ongan; A, scyllinga; B, ealdrun.
+
+↑ A, syngade; A, sprycst.
+
+↑ A, innan (for in on); A, tempel.
+
+↑ Corp., cwædon (æ above the line); A, for ðam þe hyt; A, weorð.
+
+↑ B, scoldon; B, hælyndes; A, weorð; A, B, æcer; A, bebyrgeanne ælðeodige men.
+
+↑ A, acheldemah; A, æcer.
+
+↑ A, gecweden wæs (is above wæs); A, and hig, B, and hi (om. þa); B, þritig; A, weorð; A, geweorðod; A, ysrahela.
+
+↑ A, æcer.
+
+↑ B, hælynd (twice); A, acsode; B, sægst.
+
+↑ A, andswarede.
+
+↑ A, gehyrest; A, fæla; A, ongean; A, B, secgað.
+
+↑ Corp., andwerde, A, B, andwyrde.
+
+↑ A, B, hym; A, B, hyra; A, forworhtne; A, man, B, mannan; A, swylcne (c above the line).
+
+↑ A, B, þeofman.
+
+↑ A, hælend.
+
+↑ A, ongean; A, ic hæbbe micel (for fela ic hæbbe; micel above the line; changed order).
+
+↑ A, B, barraban; Corp., hælyn, A, hælend, B, hælynd.
+
+↑ A, hym, B, him; B, þisun; A, barraban.
+
+↑ A, hym, B, him; B, hælynde.
+
+↑ A, hym, B, him; A, clypedon.
+
+↑ A, þysses.
+
+↑ A, andswarede.
+
+↑ A, hælend; A, B, hym.
+
+↑ A, hælend; B, gegaderodun; A, B, hym.
+
+↑ A, B, hyra; Corp., bysmorudun (o above the line), A, bysmrodon, B, bysmredon; A, B, þus.
+
+↑ A, beoton.
+
+↑ A, bysmeredan, B, bysmeredon; A, om. mid.
+
+↑ A, B, man; A, B, hym; A, togeanes.
+
+↑ Corp., eallan, A, B, geallan; A, onbyrgde.
+
+↑ A, hym, B, him.
+
+↑ A, B, þus; A, hælend.
+
+↑ B, Witudlice; B, hyra heafud.
+
+↑ B, cwadun; A, tempel; B, dagun; A, getymbreð.
+
+↑ B, bysmrydun; B, bocerun; B, ealdrun; A, cwædon.
+
+↑ B, cing.
+
+↑ B, witudlice.
+
+↑ B, sceðan; B, wærun; A, hyspdon.
+
+↑ B, Witudlice; B, wærun; Corp., B, gewurden, A, geworden; B, ot.
+
+↑ B, hælynd; A, stemne; A, B, þus.
+
+↑ A, om. þa; A, þar.
+
+↑ A, B, hyra; B, fyllde.
+
+↑ B, Witudlice; A, uton.
+
+↑ A, hælend.
+
+↑ A, þarryhtes; A, wahreft (wah- above the line); Corp., tewgen, A, B, twegen; B, ufewerdon.
+
+↑ A, wurdon.
+
+↑ A, comon; A, halgan, B, haligean; B, cestre ; A, ætywdon.
+
+↑ B, Witudlice; A, hælend; A, þar; A, hym, B, him (for heom); A, B, Soð (for Soðlice).
+
+↑ A, þar; A, fylgdon; B, hælynde.
+
+↑ A, betweoh; B, modur (first and third times); A, and iosepes moder (above the line); A, suna.
+
+↑ Corp., B, weli, A, welig; A, B, man; A, hælendes.
+
+↑ A, abead ; A, hælendes.
+
+↑ A, wylede to (for to awylte; changed order); A, byrgenne, B, byrigene.
+
+↑ A, þar; A, byrgenne, B, byriene.
+
+↑ B, comun; A, sunderhalgan.
+
+↑ A, byrgenne; A, þy læs; A, cuman; A, secgon; A, B, æftere.
+
+↑ A, -ræddene.
+
+↑ A, byrgenne; A, inseglodon, B, innseglodun.
+
+
+
+
+
+CAPUT XXVIII
+
+
+
+Đys [godspel] sceal on ēasterǣfen.
+
+1. Sōðlīce þām restedæges ǣfene, sē þe onlīhte on þām forman restedæge, cōm sēo Magdalenisce Maria and sēo ōðer Maria þæt hig woldon gesēon þā byrgene.[1]
+
+2. And þǣr wearð geworden micel eorþbifung; witodlīce Drihtenes engel āstāh of heofenan, and genēalǣhte and āwylte þone stān, and sæt þǣr onuppan.[2]
+
+3. Hys ansȳn wæs swylce līgyt, and hys rēaf swā hwīte swā snāw.[3]
+
+4. Witodlīce þā weardas wǣron āfyrhte, and wǣron gewordene swylce hig dēade wǣron.
+
+5. Đā andswarode sē engel and sǣde þām wīfon, Ne ondrǣde gē ēow; ic wāt witodlīce þæt gē sēceað þone Hǣlynd þone þe on rōde āhangen wæs.[4]
+
+6. Nys hē hēr; hē ārās sōðlīce, swā swā hē sǣde. Cumað, and gesēoþ þā stōwe þe sē Hǣlynd wæs on ālēd.[5]
+
+7. And farað hrædlīce, and secgeað[6] hys leorningcnihtum þæt hē ārās; and sōðlīce hē cymð beforan ēow on Galileam; þǣr gē hyne gesēoþ: nū ic secge ēow.[7]
+
+Đys [godspel] sceal on frīgedæg on ðǣre ōðre ēasterwucan.
+
+8. Đā fērdon hig hrædlīce fram þǣre byrgene mid ege and mid myclum gefēan, and urnon and cȳðdon hyt hys leorningcnihton.[8]
+
+9. And efne þā cōm sē Hǣlynd ongēan hig, and cwæð, Hāle wese gē. Hig genēalǣhton, and genāmon hys fēt and tō him geēaðmēddon.[9]
+
+10. Đā cwæð sē Hǣlynd tō heom, Ne ondrǣde gē ēow; farað, and cȳþað mīnum gebrōþrum þæt hig faron on Galileam, þǣr hig gesēoþ mē.[10]
+
+11. Þā þā hig fērdon, þā cōmon sume þā weardas on þā ceastre, and cȳðdon þǣra sācerda ealdrum ealle þā ðing þe ðǣr gewordene wǣron.[11]
+
+12. Đā gesamnudon þā ealdras hig, and worhtun gemōt, and sealdon þām ðegenum micyl feoh, and cwǣdon,[12]
+
+13. Secgeað þæt hys leorningcnihtas cōmon nihtes, and forstǣlan hyne ðā wē slēpun.[13]
+
+
+
+14. And gyf sē dēma þiss geāxað, wē lǣrað hyne, and gedōð ēow sorhlēase.[14]
+
+15. Đā onfēngon hig þæs fēos, and dydon eall swā hig gelǣrede wǣron; and þis word wæs gewīdmǣrsod mid Iudeum oð þisne andweardan dæg.[15]
+
+Đis [godspel] sceal on frīgedæg innan þǣre ēasterwucan.
+
+16. Đā fērdon þā endlufun leorningcnihtas on þone munt þǣr sē Hǣlynd heom dihte,[16]
+
+17. and hyne þǣr gesāwun, and hig tō him geēaðmēddun; witodlīce sume hig twēonedon.[17]
+
+18. Đā genēalǣhte sē Hǣlynd, and spræc tō heom þās þing and þuss cwæð, Mē is geseald ǣlc anweald on heofonan and on eorðan.[18]
+
+19. Farað witodlīce and lǣrað ealle þēoda, and fulligeað hig on naman Fæder, and Suna, and þæs Hālgan Gāstes;[19]
+
+20. and lǣrað þæt hig healdon ealle þā ðing þe ic ēow bebēad. And ic bēo mid ēow ealle dagas oð worulde geendunge. †Amen.[20][21]
+
+
+
+
+
+↑ A, byrgenne.
+
+↑ A, þar; A, dryhtnes, B, drihtnes; A, heofenum, B, heofonan; A, awylede þone stan on weg; A, þar.
+
+↑ A, lyget.
+
+↑ A, andswarede; A, wifum; A, secað; A, hælend.
+
+↑ A, hælend.
+
+↑ A, secgað, B, sæcgeað.
+
+↑ A, þar.
+
+↑ A, hig fram þære byrigenne hrædlice (changed order); A, mycelum; A, -cnyhtum.
+
+↑ A, hælend; Corp., we sege (for wese ge); A, geeadmeddon.
+
+↑ A, hælend; A, hym, B, him; B, minun; A, broðrum, B, gebroþrun; A, faran.
+
+↑ B, comun; B, cestre; B, cyþdun; B, ealdrun; A, ðar; Corp., wærum, A, wæron, B, wærun.
+
+↑ A, gesamnodon, B, gesamnudun; A, worhton; B, sealdun; A, þegnum, B, þegenun; A, mycel, B, micel; B, cwædun.
+
+↑ A, secgað; B, comun nihtys; A, forstælon; A, slepon.
+
+↑ A, þys, B, þis; A, geacsað.
+
+↑ B, onfengun; B, dydun; B, wærun; Corp., wurd, A, B, word; B, gewidmærsud; B, andwerdan.
+
+↑ B, ferdun; A, endleofen; A, þar; A, hælend; A, hym, B, him.
+
+↑ A, gesawon; A, geeaðmeddon; B, Witudlice.
+
+↑ A, hælend; A, hym, B, him; A, B, þus; A, heofenan.
+
+↑ B, witudlice; A, fulliað.
+
+↑ B, healdun; A, bead; A, weorlde. Corp., Finit Amen, A, B, amen.
+
